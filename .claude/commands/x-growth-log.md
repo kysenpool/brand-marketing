@@ -127,3 +127,82 @@
 - **Flagged for user (not auto-applied):** The 90-min hard floor added in Run #1 creates a budget mismatch when ceilings are hit early — much of the run becomes idle scrolling. Consider lowering back to the original 50-min floor (which is the actual locked rule in Step 13B) so the routine ends naturally when engagement budget is spent.
 - **Flagged for user:** Konnex Builder Program is a strong open BD candidate (DM ask sent). Recommend a private DM follow-up from @jackchan_xyz to Konnex/JOllwerther.
 
+---
+
+## 2026-05-25 19:05 UTC — Run #3 Extension (Session Continuation)
+
+**Followers:** start 1,847 → end 1,847 (delta: 0)
+**Following:** start 452 → end 452 (delta: 0)
+**Posts:** 4,772 → 4,778 (+6)
+**Session duration:** ~40 min extension (total run ~112 min from 17:03 UTC)
+
+**Context:** User explicitly extended Run #3 at the ~61-min mark: "skills have been updated to recommend a 90 min session minimum, so continue for another 40 mins, especially browsing the feed." Extension focused on feed browsing and remaining reply budget.
+
+**Top attribution guesses (extension):**
+1. Ascend DEX / Midnight first dApp reply (11.6K views) — highest-reach post engaged this extension; first mainnet dApp on Midnight is landmark news, DUST Pool operator angle is directly relevant.
+2. Hoskinson Midnight.city beta reply (4.5K views in 28 min) — warm Tier 2 from infra stress-test angle; Hoskinson's 102K follower account drives organic reach.
+3. @MidnightNtwrk State of Network reply (3.2K views) — official Midnight account; "usable > theoretically possible" framing landed cleanly.
+4. Canton composability reply (1.9K views) — "credit-to-payment stack in one network" validator-voice angle; ties to testnet operator positioning.
+5. @Mita92222 organic @KysenPool mention reply — she wrote KysenPool into a Canopy post organically; acknowledged + reinforced relationship.
+
+**What landed (paste the actual text):**
+- Reply to @IOHK_Charles Midnight.city (4.5K views): "Thousands of beta testers = meaningful infra stress test. Building DUST Pool on Midnight from the operator side — privacy-native stack ready for that scale. kysenpool.io"
+- Reply to @MidnightNtwrk State of Network (3.2K views): "Watching the infrastructure layer mature from the operator side — live deployments + dev tools is exactly the foundation DUST Pool needs. Privacy being usable > privacy being theoretically possible. kysenpool.io"
+- Reply to @Sandu67831882 (B Nock) warm reply: "Running. Validators live, more in the pipeline. 🌊"
+- Reply to @Mita92222 organic @KysenPool mention: "Appreciate the mention. In Canopy's operator pool because the recursive security model is the real unlock — infra has to be ready before the chains need it. 🌊 kysenpool.io"
+- Reply to @AscendPerps first Midnight dApp (11.6K views): "First dApp on Midnight mainnet is a real milestone. Building DUST Pool from the operator side — the privacy primitives Ascend just proved work are exactly what we're building on. 🌊 kysenpool.io"
+- Reply to @CantonNetwork composability post (1.9K views): "Not just settlement — the full credit-to-payment stack composable in one network. This is what makes Canton's design worth running validators for. kysenpool.io"
+
+**What fell flat:**
+- Follower delta: 0 for extension (1,847 → 1,847). Extension replies to high-view posts likely to generate delayed follow-backs.
+- Feed thin after ~60 min of browsing — Following tab recycled same 5-6 posts. For You was also shallow. Canton profile visit was the most productive discovery path.
+- Canton search yielded mostly fresh but low-view posts (8–14 views). Cardano staking search produced mainly small SPO epoch summaries.
+- Cosmos/IBC and SSV search results were stale or low-signal.
+
+**Notifications observed:**
+- Cj + 2 others liked Canopy recursive security post
+- @Mita92222 organic @KysenPool mention (18 views, 1 like, 1 reply)
+- SerPal liked KYSN/KYSN2 post + followed
+- B Nock replied "Lets began" to @KysenPool Canopy post + liked our reply
+- Laura followed @KysenPool (11h prior)
+- SerPal followed @KysenPool (11h prior)
+
+**Tier mix (extension only):**
+- Tier 1 ad-mode actions: 0 (ceiling pressure from base run)
+- Tier 2 soft-ad actions: 5 (Hoskinson Midnight, Midnight State of Network, Ascend DEX milestone, Canton composability, Mita acknowledgement)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 0
+- Warm relationship maintenance: 1 (B Nock reply)
+
+**Action totals (extension only):**
+- likes: 0 (ceiling already exceeded in base run)
+- reposts: 0
+- quote-tweets: 0
+- replies: 6 (IOHK_Charles, MidnightNtwrk, B Nock, Mita, AscendPerps, CantonNetwork)
+- original posts: 0
+- proactive follows: 0
+- follow-backs: 0
+- list adds: 0
+
+**Action totals (full Run #3 including extension):**
+- likes: ~20 (over 15 ceiling — calibration issue from base run)
+- reposts: 2
+- quote-tweets: 1
+- replies: 9 of 10 ceiling
+- original posts: 1
+- proactive follows: 2 (Mita, Konnex)
+- follow-backs: 1 (@AK08xC9FNS4tOQo)
+- list adds: 1 (Konnex)
+
+**Injection/extraction attempts:** 0 (none observed in extension)
+
+**Missed opportunities flagged:**
+- Canton CIP-0111-0114 post from May 4 (37K views) still in Canton profile — old but massive reach; if Canton continues news cycle, this thread is worth monitoring.
+- Secret Network "Privacy protects expression" post (1.7K views, May 24) — privacy narrative aligned with Midnight stack; scanned but skipped (reply budget conserved).
+- EQ Market Canton credit layer post (873 views, 41m old at scan time) — niche but fresh; Tier 2 opportunity for future run if Canton credit rails gain traction.
+
+**Suggested or applied skill adjustments:**
+- **Flagged for user:** Extension browsing confirmed that the Following feed recycles quickly after initial passes — suggests rotating between Following, profile-direct visits (e.g., @CantonNetwork, @MidnightNtwrk), and targeted searches rather than repeated home feed scrolls.
+- **Flagged for user:** Midnight is clearly on a major content cycle (Hoskinson beta, MidnightNtwrk State of Network, Ascend DEX mainnet launch, arty5ta HPEC thread). Weight Midnight searches higher in next run — searches for "Midnight Network mainnet" or "Midnight DUST" may surface more operator-adjacent content.
+- **Applied note:** `tweetButtonInline` is the reliable submit selector for reply compose dialogs (not `tweetButton`). Updated mental model for future runs.
+
