@@ -255,7 +255,7 @@ Pick by:
 - Query 4 (BD, AI-weighted): on alternating runs, alternate the BD pick:
   - **Odd-numbered runs:** general BD query — pick `25 + ((day_of_year + run_index) % 8)` (queries 25–32)
   - **Even-numbered runs:** AI-x-crypto BD query — pick `33 + ((day_of_year + run_index) % 4)` (queries 33–36)
-  - Net effect: AI-driven BD targets get ~50% of BD-query airtime even though they're 4 of 12 queries, reflecting the prioritization for the Foundations & Programs list.
+  - Net effect: AI-driven BD targets get ~50% of BD-query airtime even though they're 4 of 12 queries, reflecting the prioritization for the Foundations & Projects list.
 
 For each query: open the Latest tab, scroll through the **first 15–20 results** (not just 10 — scroll down). For each result, apply the Step 7 rubric. **BD-query results get extra attention** — these are the highest-value candidates for proactive follows and list adds.
 
@@ -287,11 +287,11 @@ A post is Tier A+ if it meets Tier A AND any of:
 - Author is a **named core dev or founder** of a new (Tier 4) chain or AVS doing the same.
 - The post is a public call for validator/operator/dev shop participation that KysenPool is qualified for.
 
-Tier A+ gets: **follow + list-add to "Foundations & Programs" + Like + cold-outreach reply or quote-tweet** (the snappy "DM" 1-liner from the Mission frame's BD posture). The reply/quote anchors a credential (years operating / specific adjacent chain / specific tooling we shipped) and asks for the DM. Keep it ≤120 chars where possible. The user handles the DM follow-up privately.
+Tier A+ gets: **follow + list-add to "Foundations & Projects" + Like + cold-outreach reply or quote-tweet** (the snappy "DM" 1-liner from the Mission frame's BD posture). The reply/quote anchors a credential (years operating / specific adjacent chain / specific tooling we shipped) and asks for the DM. Keep it ≤120 chars where possible. The user handles the DM follow-up privately.
 
 Tier A+ engagement is the **highest-leverage action this routine takes** — prioritize spending reply, quote, and follow budget here before generic Tier A/B engagement.
 
-**Within Tier A+, AI-driven candidates get priority over equivalently-qualified non-AI ones.** An AI-x-crypto foundation announcing validator/AVS/operator slots beats a generic PoS chain doing the same when both are Tier A+. Rationale: AI is the active capital flow, AVS/inference/agent infrastructure is squarely in KysenPool's wheelhouse, and the Foundations & Programs list is tilted that way per the user's BD priority.
+**Within Tier A+, AI-driven candidates get priority over equivalently-qualified non-AI ones.** An AI-x-crypto foundation announcing validator/AVS/operator slots beats a generic PoS chain doing the same when both are Tier A+. Rationale: AI is the active capital flow, AVS/inference/agent infrastructure is squarely in KysenPool's wheelhouse, and the Foundations & Projects list is tilted that way per the user's BD priority.
 
 **Tier B (moderate fit — eligible for like + follow)**
 
@@ -384,7 +384,7 @@ The table below gives two numbers per action. **The "Ceiling" is a hard upper li
 - **Reply:** Click the reply icon (💬). Compose in voice. Trust the X composer's character counter, not local `len()`.
 - **Follow:** Open the author's profile, click **Follow**. Verify it changes to **Following**.
 - **List add:** On the author's profile, click the **…** button next to Follow/Following → **Add/remove from Lists** → tick exactly one of these three buckets. **Only use KysenPool-owned lists — do NOT browse the "Discover new Lists" section** (those are suggested lists owned by other accounts, not ours):
-  - **Foundations & Programs** *(private list, BD priority)* — chain foundations, validator-program runners, RFP/grant-program accounts. Tier 4 from "Known relationships" + any Tier A+ candidate. **Within this bucket, prioritize AI-driven crypto / blockchain topics, programs, and foundations** — AI x crypto is the active capital flow and KysenPool is well-positioned for AVS / inference / agent-infra work. When two BD candidates are otherwise equivalent, the AI-adjacent one goes on the list first.
+  - **Foundations & Projects** *(private list, BD priority)* — chain foundations, validator-program runners, RFP/grant-program accounts. Tier 4 from "Known relationships" + any Tier A+ candidate. **Within this bucket, prioritize AI-driven crypto / blockchain topics, programs, and foundations** — AI x crypto is the active capital flow and KysenPool is well-positioned for AVS / inference / agent-infra work. When two BD candidates are otherwise equivalent, the AI-adjacent one goes on the list first.
   - **Validators & Operators** *(private list)* — other node operators, validator companies, peer infra providers. Competitive intelligence + cross-referral network.
   - **Builders & Researchers** *(may be public)* — core devs, protocol researchers, named analysts. Early signal on emerging chains + the buyer audience for KysenPool's dev-shop positioning.
 
@@ -447,6 +447,7 @@ Replies, quote-tweets, and original posts must follow these rules without except
   - "Watching [chain] closely from the operator side. More at medium.com/kysenpool"
   - "Good to see [chain] ship [thing]. Working alongside the foundation in testnet."
   - "We're in on [chain]'s testnet — more in our blogs at medium.com/kysenpool"
+  - "Big move for [chain] — [news] is real rails, not a press release. Watching closely from the operator side; kysenpool has been in [chain]'s testnet pool since early. kysenpool.io" *(added Run #3 — landed on Canton USDCx/CIP-56 news)*
   
   Voice is inside-the-tent. No "DM us" (already in dialogue). No "stake with us" (chain isn't live yet).
 - **Tier 4 cold-outreach 1-liner templates (genuinely new BD targets)** — light, direct, a touch degen, ≤120 chars where possible:
