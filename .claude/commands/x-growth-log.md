@@ -43,3 +43,15 @@
 - Website link: general refs → kysenpool.io (not medium); medium only for specific posts
 - Lists: only browse/add to KysenPool-owned lists; do not use "Discover new Lists" section
 - Post conciseness: keep posts and replies tighter (user feedback applied)
+
+---
+
+## 2026-05-25 13:02 UTC — Run #2 (SKIPPED — moratorium)
+
+**Status:** No-op. Session start hit at 06:02 PT, inside the 1am–7am Pacific moratorium window defined in Step 0. Stopped immediately without loading Chrome MCP tools, switching accounts, or taking any X actions.
+
+**Followers:** not measured (no account switch performed).
+
+**Action taken:** none. Routine exited at Step 0.
+
+**Suggested or applied skill adjustments:** none. The scheduler appears to have fired inside the moratorium — flag for user: consider adjusting the cron schedule so runs land outside 1am–7am PT (08:00–14:00 UTC in summer / 09:00–15:00 UTC in winter).
