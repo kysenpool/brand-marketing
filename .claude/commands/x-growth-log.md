@@ -353,3 +353,91 @@
 - **Warm-engagement reciprocity is the highest-leverage action**: B Nock QT acknowledgment reply (4A surface) generated the most visible positive signal this run. Prioritize 4A (replies on own posts) before 4B (mentions) every run.
 
 ---
+
+## 2026-05-26 21:02 UTC — Run #6
+
+**Followers:** start 1,851 → end 1,852 (delta: **+1**)
+**Following:** +9 this run (4 proactive + 5 follow-backs)
+**Session duration:** 90 minutes (14:02–15:32 PDT)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. @jacobmtucker (Head of DevRel, Story Protocol) — replied to his CDR Hackathon announcement + followed him. He liked the reply in-session. Strong warm signal: Story Protocol is Tier 1.
+2. @imua agent bonding reply (39.2K views) — "Validators and agents aren't that different — both bond capital, earn yield on uptime." First reply on a 39K-view Tier 2 post. Imua is in active testnet/research dialogue.
+3. @Cardano_CF Yaci Store v2.0.1 reply + repost (3.6K views) — replied "Yaci Store v2.0.1 → modular indexer, works offline or in parallel with db-sync. KysenPool runs Cardano validators — tools like this keep operators lean. Staking ADA with kysenpool: medium.com/kysenpool" and reposted. First reply on a fresh Cardano Foundation post.
+4. @KAVA_CHAIN transparency post reply (44.3K views) — reply 10/10 budget: "On-chain transparency is underrated as a trust primitive. Kava's been consistent here. Running Kava validators at KysenPool — medium.com/kysenpool". Maxed the reply cap on a high-reach Tier 1 post.
+5. @IntersectMBO Hydra Voting repost — reposted Cardano governance tool post (2026 budget vote, open until June 12). Cardano Tier 1 ad-mode presence in governance news cycle.
+6. @BlockhuntersOrg follow — peer validator collective (9,494 followers, OG April 2020 account) added to proactive follow list. Validator-ecosystem peer relationship building.
+
+**What landed (paste the actual text):**
+- Reply to @imua "bonds are for agents too" (39.2K views): "Validators and agents aren't that different — both bond capital, earn yield on uptime. The infrastructure primitives converge. Watching Imua closely from the operator side — kysenpool in the testnet pool. kysenpool.io"
+- Reply to @Cardano_CF Yaci Store v2.0.1 (3.6K views): "Yaci Store v2.0.1 → modular indexer, works offline or in parallel with db-sync. KysenPool runs Cardano validators — tools like this keep operators lean. Staking ADA with kysenpool: medium.com/kysenpool"
+- Reply to @KAVA_CHAIN transparency post (44.3K views): "On-chain transparency is underrated as a trust primitive. Kava's been consistent here. Running Kava validators at KysenPool — medium.com/kysenpool"
+- Reply to @jacobmtucker CDR Hackathon (Story Protocol DevRel): "CDR Hackathon is the right kind of on-chain creative rights infra push — KysenPool runs Story Protocol validators. Watching the ecosystem build from the operator side. medium.com/kysenpool"
+- 7 pre-compaction replies: gm degen/lenny, Canton, IOG Cardano governance, DaniCrypto, Luganodes DVT-Lite, ZunderPoolADA Midnight, constkogan gm warmth
+- Original post: SSV Operator 536 / DVT-Lite / Glamsterdam EF treasury staked 72K ETH (Tier 1 Ethereum/SSV advertisement)
+- QT of Canopy "three lies" post (509 reposts, 1.1K likes, 11K impressions) — Tier 2 soft-ad
+- QT of SSV Network "The Syndicate" (5 protocols) — Tier 1 SSV Operator 536 advertisement
+- Repost of @IntersectMBO Hydra Voting for 2026 budget (open until June 12)
+- Repost of @Cardano_CF Yaci Store v2.0.1
+
+**Engagement received / warm signals:**
+- @jacobmtucker liked our CDR Hackathon reply (in-session notification)
+- @constkogan replied "gm gm legend" — reciprocal warmth in notifications
+- @vitwit liked our Cosmos Hub ZK voting reply (pre-compaction)
+- Medium card previews auto-loaded (KysenPool wave logo, red background) on Cardano_CF and KAVA replies — professional CTA look confirmed
+
+**What fell flat:**
+- @KAVA_CHAIN repost attempt failed: clicking repost button refs and coordinates multiple times on the thread detail page only showed tooltip, never opened Repost/Quote dropdown. Abandoned to avoid double-posting. Root cause likely: reply compose box was open at the time, interfering with dropdown trigger. Workaround: close compose box before attempting repost.
+- Most search queries returned empty/stale results (Harmony validator, Midnight blockchain, Cardano DRep, Canton Network). Pivoted to direct profile visits which were far more productive.
+- 0 useful content from Q2 ("Cardano staking OR Cardano governance") and Q3 ("Kava OR KavaChain") searches — all empty or stale.
+
+**Follow-backs (5 confirmed):**
+- @fkdeu — passed filter; followed back
+- @TeragonFactory — passed filter; followed back
+- @y_m_ui — passed filter; followed back
+- @VashukAlex — passed filter; followed back
+- @Jerome_BRRowell — OG aviation/crypto crossover account; passed filter; followed back
+
+**Proactive follows (4):**
+- @constkogan — warm relationship from engagement reciprocity; operator/investor profile; 1K+ followers
+- @COSDpool — Cardano SPO peer validator; operator-peer network building
+- @BlockhuntersOrg — validator collective (9,494 followers, April 2020 OG); peer network
+- @jacobmtucker — Head of DevRel, Story Protocol (Tier 1); already followed back in same session
+
+**Tier mix this session:**
+- Tier 1 ad-mode actions: 5 (SSV Operator 536 original post, Cardano_CF reply + repost, IntersectMBO repost, KAVA reply, jacobmtucker CDR reply)
+- Tier 2 soft-ad actions: 4 (Canopy "three lies" QT, SSV Syndicate QT, imua agent bonding reply, Canton pre-compaction reply)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 0 (no clean targets surfaced)
+- Warm maintenance: 2 (constkogan gm, gm degen/lenny)
+
+**Actions (actual vs ceiling):**
+- likes: 15/15 (ceiling hit — all pre-compaction)
+- reposts: 3/7 (@jacobmtucker CDR Hackathon pre-compaction + @IntersectMBO Hydra Voting + @Cardano_CF Yaci Store)
+- quote-tweets: 2/3 (Canopy "three lies" + SSV "The Syndicate")
+- replies: 10/10 (ceiling hit — 7 pre-compaction + 3 post: @imua, @Cardano_CF, @KAVA_CHAIN)
+- original posts: 1/2 (DVT-Lite/Glamsterdam SSV Operator 536)
+- proactive follows: 4/10 (@constkogan, @COSDpool, @BlockhuntersOrg, @jacobmtucker)
+- follow-backs: 5/10 (@fkdeu, @TeragonFactory, @y_m_ui, @VashukAlex, @Jerome_BRRowell)
+- list adds: 0/10
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**BD activity surfaced:**
+- @jacobmtucker (Head of DevRel, Story Protocol) — followed + replied. His CDR Hackathon post is a good warm-engagement anchor for Story Protocol operator presence. He liked the reply. Worth monitoring for further engagement.
+- @BlockhuntersOrg — validator collective peer; following them builds operator-ecosystem peer network that may generate follow-backs from their community.
+
+**Notable observations for self-improvement:**
+- **Repost UX fix confirmed**: Coordinate-click on action bar (y≈532–703 depending on visible post position) is more reliable than ref clicks for triggering the Repost/Quote dropdown on detail/thread pages. The key: action bar must be fully visible and compose box must be closed. One click may show tooltip only; a second click triggers the dropdown.
+- **Direct profile visits >> search queries this run**: 5 of 6 most productive engagements came from direct profile visits (@imua, @KAVA_CHAIN, @Cardano_CF, @StoryProtocol, @jacobmtucker). Search was largely unproductive — most chains returned empty results. Lean toward profile-visit sweep in Step 5 for Tier 1/2 chains.
+- **@jacobmtucker follow-back confirms Story Protocol warmth**: He liked our reply within the 90-minute window. Story Protocol CDR / hackathon is active news — worth checking @StoryProtocol and @jacobmtucker in each run.
+- **Follow button UX**: Profile header follow buttons often fail on first ref-click attempt. Coordinate click at approximately `(926, 281)` on the profile header reliably registers. No need to retry with refs.
+- **constkogan "gm gm legend" reciprocity**: Warm acknowledgment from a regular engager. Follow + engagement on his content reinforces the relationship loop that drives organic follow growth.
+- **Cardano governance + Cardano Foundation posts cluster again**: @IntersectMBO and @Cardano_CF both posted high-signal content same day. Continue making @IntersectMBO and @Cardano_CF early-run profile visits.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **Observation:** Most search queries returned empty results this run. Recommend adding direct profile visits for @imua, @KAVA_CHAIN, @Cardano_CF, @IntersectMBO, @jacobmtucker to Step 5's mandatory sweep — these consistently produce higher-quality engagement targets than keyword search.
+- **Observation:** Repost button coordinate-click approach (close compose box → navigate to detail view → coordinate-click action bar) is now the confirmed reliable path. Clicks via ref are unreliable. Add this to Step 6/7 repost UX notes.
+- **Observation:** +1 follower delta this run. Consistent with prior pattern: warm-audience engagement converts to follows over 1–2 subsequent runs. @jacobmtucker like-back is the strongest same-session signal of the run.
+
+---
