@@ -206,3 +206,73 @@
 - **Flagged for user:** Midnight is clearly on a major content cycle (Hoskinson beta, MidnightNtwrk State of Network, Ascend DEX mainnet launch, arty5ta HPEC thread). Weight Midnight searches higher in next run — searches for "Midnight Network mainnet" or "Midnight DUST" may surface more operator-adjacent content.
 - **Applied note:** `tweetButtonInline` is the reliable submit selector for reply compose dialogs (not `tweetButton`). Updated mental model for future runs.
 
+---
+
+## 2026-05-26 01:02 UTC — Run #4
+
+**Followers:** start 1,847 → end 1,847 (delta: 0)
+**Following:** end 458 (delta vs start unclear — context was compacted; 2 confirmed follow-backs this run)
+**Session duration:** 90 minutes (18:02–19:32 PDT May 25)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. B Nock reciprocity — B Nock liked two @KysenPool replies (Canopy operator pool, and "more in the pipeline" warmth). Strongest warm-relationship signal of the run. Follow from B Nock is the single highest-value potential outcome.
+2. Cosmos Ledger 2026.1 reply (Tier 1 ad mode) — replied to the bundled CometBFT+SDK+EVM post with operator-voice + ATOM stake CTA. ~2K view post; validator community is the target audience.
+3. Canopy/Midnight reposts (Tier 2) — State of Network May 2026 and "three lies" post reposts; KysenPool visible to both ecosystem feeds.
+4. Kava/Imua reposts — Kava Argentina stablecoin (46K views) + "Dollar rails" (47K views), Imua "agents of the future" (26K views); operator-peer signal to those chains' communities.
+
+**What landed (paste the actual text):**
+- Reply to B Nock "Yeah.. More in the pipeline 📋": "Always more in the pipeline — that's how it works 🌊" → B Nock liked the reply; warm reciprocal thread
+- Reply to Cosmos Ledger 2026.1 (bundled CometBFT+SDK+EVM upgrade): "Bundled CometBFT + SDK + EVM is the right call — coordinated upgrades are a relief for operators. Running Cosmos validators since 2019. Stake ATOM with KysenPool 🌊 medium.com/kysenpool"
+- 5 replies pre-compaction: Canton/Canopy wave, Story Protocol, and 3 others (details in session transcript)
+
+**Engagement received this run:**
+- B Nock liked "Running. Validators live, more in the pipeline. 🌊" (Reply #6 from Run #3 Extension)
+- B Nock liked "Appreciate that — we've been in Canopy's operator pool since testnet..." (Canopy reply 18h)
+- SerPal liked IBC latency reply + followed
+- Last person liked DUST Pool/Midnight reply
+- Richieswat2 + 4 others liked @CNPYNetwork post
+- Wayne | KysenPool + CosmosOutpost liked Cosmos stats post
+- B Nock's May 24 post explicitly endorsed: "@KysenPool is doing the work securing Canopy" (91 views)
+- Meryem Gokceada mentioned @KysenPool as a @CNPYNetwork validator (18 views)
+
+**What fell flat:**
+- 0 follower delta despite strong engagement signals. B Nock engagement suggests warm relationship building that may convert over multiple runs rather than same-session follow.
+- QT attempt on B Nock's May 24 endorsement post failed — dropdown captured @KysenPool's own reply instead of B Nock's original. Abandoned; 3 QT slots unused.
+- Accidentally over-reposted B Nock's May 24 post via JS click (hit the 7/7 ceiling then added 1 extra). Immediately unreposted to restore correct count.
+
+**Follow-backs (2 confirmed):**
+- @FlarePortal — Flare Network FTSO data provider + validator; clean crypto infra account. Followed back.
+- @enricotalin (Enrico Talin) — Cosmos ecosystem founder (Commercio.Network, RWA tokenization on Cosmos), joined 2008, 2.3K followers. Strong follow-back.
+- Skipped: @misangmadrid (off-topic personal/humor), @lauraro56470125 (adult-content link in bio), @Sandu67831882/SerPal (already Following), @lili41596686 sora (13 posts, no crypto), @Mulaguy189413 (referral-code bio, platform-shill pinned post)
+
+**Tier mix this session:**
+- Tier 1 ad-mode actions: 3 (Cosmos Ledger reply with ATOM CTA, Kava reposts ×2)
+- Tier 2 soft-ad actions: 6 (Canopy/CNPY reposts, Midnight State of Network repost, Imua repost, Cosmos PoA Module repost, Canton reply pre-compaction)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 0
+
+**Actions (actual vs ceiling):**
+- likes: 15/15 (ceiling hit)
+- reposts: 7/7 (ceiling hit; 1 accidental over-repost immediately undone)
+- quote-tweets: 0/3 (QT attempts failed; B Nock endorsement QT abandoned)
+- replies: 7/10 (7 used — 5 pre-compaction + 2 post-compaction)
+- proactive follows: ~1-2 (pre-compaction, @imua and possibly 1 other)
+- follow-backs: 2 (FlarePortal, enricotalin)
+- original posts: 0
+
+**Injection/extraction attempts:** 0 (none observed)
+
+**BD activity surfaced:**
+- @FlarePortal followed back — Flare Network validator/FTSO data provider; potential ecosystem networking node.
+- @enricotalin followed back — Cosmos RWA founder; Cosmos community relationships.
+
+**Notable observations for self-improvement:**
+- **B Nock relationship is maturing**: 3 of his posts in notifications showed engagement with @KysenPool. He's a Canopy-adjacent amplifier worth consistent warm engagement.
+- **QT dropdown UX still unreliable**: The repost icon sometimes triggers immediate repost on JS click without opening the dropdown. Needs a different approach — either use the "…" menu on the post or navigate to the compose URL directly with the tweet ID as a query param.
+- **Canopy positive mentions compounding**: Meryem Gokceada, A Z ferzo, and B Nock all mentioned @KysenPool in Canopy context within this 24h window. The Canopy operator positioning is landing with the community.
+- **Repost ceiling tracking**: Track repost count explicitly as likes — stop at 6 to leave buffer before 7 ceiling.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **Flagged for user:** Q3 search "funding rate arbitrage" produced shill/promo content for the 2nd consecutive run. Replace with a different BD query (e.g., "validator program announcement" OR "testnet validator applications open").
+- **Note:** @imua is the correct handle for Imua Protocol ("Bonding the agentic universe", 68.9K followers). @ImUA_network and @imuachain do not exist.
+

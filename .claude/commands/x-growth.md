@@ -42,7 +42,7 @@ Mixed messages with foundations we are already in private dialogue with would be
 - Mode: **advertisement.** "Stake [TOKEN] with kysenpool", "remember kysenpool as your [chain] validator", "more in our blogs: medium.com/kysenpool". Operator-peer voice; promote the staking service openly because the service genuinely exists.
 
 **Tier 2 — In active testnet/research dialogue (warm relationship → soft advertisement mode):**
-- Canton, Imua, Midnight (we are also building DUST Pool dApp), Canopy
+- Canton, Imua (handle: **@imua** — "Bonding the agentic universe", 68.9K followers; @ImUA_network and @imuachain do not exist), Midnight (we are also building DUST Pool dApp), Canopy
 - Mode: **soft advertisement.** "Supporting [chain]'s progress", "watching this closely from the operator side", "kysenpool is in the testnet pool", "more on our approach: medium.com/kysenpool". The relationship exists — speak as someone already inside the tent. No "DM us" — we're already in dialogue.
 
 **Tier 3 — Historical / shelved relationships (→ quiet awareness, no CTA):**
@@ -206,7 +206,7 @@ Rotation pool (covers KysenPool's beats — supported chains, validator/restakin
 3. `Story Protocol IP`
 4. `Canton network` OR `Canton blockchain`
 5. `Midnight network` OR `Midnight NIGHT token`
-6. `Imua xyz` OR `Canopy network`
+6. `imua network agentic` OR `Canopy network`
 7. `Lido SSV operator`
 8. `Harmony ONE` OR `Kava chain`
 
@@ -227,7 +227,7 @@ Rotation pool (covers KysenPool's beats — supported chains, validator/restakin
 18. `Hyperliquid perps`
 19. `quant crypto strategy`
 20. `crypto market microstructure`
-21. `funding rate arbitrage`
+21. `perpetuals DEX infrastructure` OR `onchain perps operator`
 22. `on-chain liquidation`
 
 **AI x crypto:**
