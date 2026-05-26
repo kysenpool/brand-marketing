@@ -203,6 +203,7 @@ Rotation pool (covers KysenPool's beats — supported chains, validator/restakin
 **Chain-specific (chains KysenPool actively operates or is integrating — engage as operator-peer per Tier 1/2):**
 1. `Cosmos IBC` OR `Cosmos validator`
 2. `Cardano staking` OR `Cardano governance`
+3A. `@IOGroup OR @IntersectMBO` *(Cardano governance/technical milestone supplement — use on Cardano-heavy days or when Today's News sidebar shows Cardano governance activity)*
 3. `Story Protocol IP`
 4. `Canton network` OR `Canton blockchain`
 5. `Midnight network` OR `Midnight NIGHT token`
@@ -433,7 +434,7 @@ Replies, quote-tweets, and original posts must follow these rules without except
   - "Worth flagging: <fact + source>."
   - "Seen this before in <prior cycle / chain>. The difference this time is <X>."
   - "<Dry one-liner observation> — <link or context>."
-- **Link guidance:** Use **kysenpool.io** for general references (website, validator info, blog RSS). Use **medium.com/kysenpool** only when linking to a specific blog post. The BD team reposts blog content to X manually — do not attempt to pin posts.
+- **Link guidance:** Use **kysenpool.io** for general references (website, validator info, blog RSS). Use **medium.com/kysenpool** in Tier 1/2 CTA replies — the root URL generates a KysenPool brand card preview (wave logo) and is appropriate without a specific post path. Specific post URLs work too but are not required. The BD team reposts blog content to X manually — do not attempt to pin posts.
 - **Tier 1 advertisement templates (chains we run in production — stake-with-us CTA encouraged):**
   - "Stake [TOKEN] with kysenpool. Operator since [year] 🫡"
   - "Reminder: kysenpool is your [chain] validator. kysenpool.io"
