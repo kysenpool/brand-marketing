@@ -208,6 +208,80 @@
 
 ---
 
+## 2026-05-26 17:00 UTC — Run #5
+
+**Followers:** start 1,849 → end 1,849 (delta: 0)
+**Following:** +3 this run (1 proactive + 2 follow-backs)
+**Posts total:** 4,823 (profile at end of run)
+**Session duration:** 90+ minutes (split across two context windows; started ~15:00 UTC, concluded ~17:37 UTC)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. IOG governance reply (Tier 1 CTA) — "A sincere thank you to every DRep" post had 4 replies, 21 reposts, 109 likes, 1.9K impressions. Replied: "Governance functioning as designed — a mixed result still reflects real delegator conviction. Staking ADA with kysenpool means operators who watch this closely. medium.com/kysenpool" — good timing on Cardano governance news day.
+2. Intersect Plutus Cost Model reply (Tier 1 CTA) — first reply on a fresh mainnet milestone post (1 reply, 3 reposts, 15 likes at time of engagement). "Staking ADA with kysenpool means supporting infrastructure that's been here since the start. medium.com/kysenpool"
+3. Canton Network treasury composability reply (Tier 2) — "Settlement composability unlocking idle treasury yield — this is the Canton thesis playing out in TradFi. Watching closely from the infrastructure side. KysenPool is in Canton's testnet pool." First reply on the post.
+4. Original post: Bitwise Canton ETP on Deutsche Börse — "Bitwise just launched a regulated Canton Coin ETP on Deutsche Börse Xetra. When institutional-grade products form around an ecosystem, the signal is real. KysenPool runs Canton testnet infrastructure — watching this closely from the operator side. medium.com/kysenpool"
+5. Lauren Lee @LoLoCoding proactive follow — warm connection from prior run's Midnight reply; she appeared in "Who to follow" sidebar and was followed (1,000+ follower developer).
+
+**What landed (paste the actual text):**
+- Reply to Constantin Kogan (Gm thread): "Gm — same to you. Stack keeps building 🌊" → early-run warm acknowledgment
+- Reply to Lauren Lee @LoLoCoding (178-MAD Midnight dev speed): "That developer velocity tells the real story. 178 MADs ahead of Aztec/Zama/Mina — a signal that counts. Watching closely from the operator side — kysenpool is in Midnight's testnet pool."
+- Reply to @CantonNetwork treasury composability: "Settlement composability unlocking idle treasury yield — this is the Canton thesis playing out in TradFi. Watching closely from the infrastructure side. KysenPool is in Canton's testnet pool."
+- Reply to @IOGroup 6 proposals approved: "Governance functioning as designed — a mixed result still reflects real delegator conviction. Staking ADA with kysenpool means operators who watch this closely. medium.com/kysenpool" (+ Medium card preview)
+- Reply to @IntersectMBO Plutus Cost Model mainnet: "Plutus Cost Model live on Mainnet — lower execution costs, more expressive scripts. Good day for on-chain builders. Staking ADA with kysenpool means supporting infrastructure that's been here since the start. medium.com/kysenpool" (+ Medium card preview)
+- Original post: Bitwise Canton ETP on Deutsche Börse Xetra (+ KysenPool Medium card preview)
+
+**Engagement received / warm signals:**
+- Mita @Mita92222 mentioned @KysenPool as a Canopy validator (2 strong replies in thread from Run #3/4 extension)
+- Lauren Lee appeared in "Who to follow" after replying to her Midnight tweet → followed her back
+- Cardano governance news cycle (IOG + Intersect + Cardano Community all posted same day) created high-density Tier 1 engagement window
+
+**What fell flat:**
+- 0 follower delta (consistent with pattern: engagement converts to follows in subsequent sessions, not same run)
+- Q4 BD search ("validator program OR validator application blockchain") returned Meta Pool consumer node-runner ads and @konnex_world paid promotional posts — no clean Tier 4 BD targets surfaced
+- Reposts and quote-tweets: 0 this run (spent budget on replies + original post; no strong repost candidates surfaced)
+
+**Follow-backs (2 confirmed):**
+- @Orion98587654 — surfaced in followers list; passed filter; followed back
+- @ginaesparza1 — May 2012 account, AI/tech content; passed filter; followed back
+- Skipped: 6+ farm/spam accounts (adult content, 9-33x following-to-follower ratios, born March 2026)
+
+**Proactive follows (1):**
+- @LoLoCoding (Lauren Lee) — Midnight ecosystem developer, 1000+ followers, relevant to Tier 2 DUST Pool positioning; appeared in "Who to follow" sidebar after prior run's engagement
+
+**Tier mix this session:**
+- Tier 1 ad-mode actions: 4 (Cardanians Hoskinson like + IOG governance reply + CTA + Intersect Plutus reply + CTA + Cardano Community Digest like)
+- Tier 2 soft-ad actions: 6 (Lauren Lee Midnight reply, Canton Network treasury reply, Canton Foundation Bitwise ETP like, Canton Network treasury like, original Canton ETP post, Story Protocol like)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 0 (no clean targets surfaced in BD search)
+- Warm maintenance: 1 (Constantin Kogan "Gm")
+
+**Actions (actual vs ceiling):**
+- likes: 15/15 (ceiling hit — Story Protocol, Canton Network treasury, Cardanians CRDN Hoskinson, Canton Foundation Bitwise ETP, IOG 6 proposals, Cardano Community Digest, Intersect Plutus Cost Model + 8 from pre-compaction phase)
+- reposts: 0/7
+- quote-tweets: 0/3
+- replies: 6/10 (Constantin Kogan gm, Lauren Lee Midnight, Canton Network treasury, IOG 6 proposals, Intersect Plutus, + 1 pre-compaction)
+- original posts: 1/2 (Bitwise Canton ETP)
+- proactive follows: 1/10 (@LoLoCoding)
+- follow-backs: 2/10 (@Orion98587654, @ginaesparza1)
+- list adds: 0/10
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**BD activity surfaced:**
+- No new Tier 4 cold-outreach targets this run. Q4 BD search dominated by paid promotions and consumer-oriented node-running products (Meta Pool Node Studio, konnex_world paid partnership).
+
+**Notable observations for self-improvement:**
+- **Cardano is consistently producing high-quality Tier 1 engagement windows.** IOG governance + Intersect technical milestones often cluster on the same day. Worth adding a direct profile-visit of @IOGroup and @IntersectMBO early in each run (Step 4A style) rather than waiting for them to appear in the feed.
+- **Medium card previews on replies look sharp.** The medium.com/kysenpool link auto-generates a card preview with the KysenPool wave logo. Looks professional on CTA replies. Continue including the link when doing Tier 1 advertisement replies.
+- **0 reposts/QTs this run.** Budget was allocated entirely to replies + original post. No regret — the Cardano governance window was the right place to be. But if similar day happens again, consider a Cardano governance QT as one of the repost slots.
+- **Canton ETP original post** is the kind of institutional signal worth standing alone as a post rather than as a reply — the standalone format gives it better algorithmic reach.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **Observation:** medium.com/kysenpool in CTA replies now generates a card preview. This is superior to kysenpool.io in ad-mode replies because (a) it shows the KysenPool brand logo, (b) Medium blog content is richer than homepage. Consider updating Tier 1 CTA templates to use medium.com/kysenpool by default.
+- **Observation:** "Cardano governance + technical milestone" days are consistently high-value Tier 1 windows. Adding a daily check of @IOGroup, @IntersectMBO, and @Cardano to Step 5 searches (or Step 4 profile visits) would reliably surface these without waiting for the following feed.
+
+---
+
 ## 2026-05-26 05:02 UTC — Run #4
 
 **Followers:** start 1,847 → end 1,849 (delta: **+2**)
