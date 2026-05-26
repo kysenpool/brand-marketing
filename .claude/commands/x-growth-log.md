@@ -208,11 +208,11 @@
 
 ---
 
-## 2026-05-26 01:02 UTC — Run #4
+## 2026-05-26 05:02 UTC — Run #4
 
-**Followers:** start 1,847 → end 1,847 (delta: 0)
-**Following:** end 458 (delta vs start unclear — context was compacted; 2 confirmed follow-backs this run)
-**Session duration:** 90 minutes (18:02–19:32 PDT May 25)
+**Followers:** start 1,847 → end 1,849 (delta: **+2**)
+**Following:** ~460 (2 proactive follows + 1 follow-back this run)
+**Session duration:** 90 minutes (22:02–23:32 PDT May 25)
 
 **Top attribution guesses (in order of estimated follower-growth value):**
 1. B Nock reciprocity — B Nock liked two @KysenPool replies (Canopy operator pool, and "more in the pipeline" warmth). Strongest warm-relationship signal of the run. Follow from B Nock is the single highest-value potential outcome.
@@ -240,10 +240,9 @@
 - QT attempt on B Nock's May 24 endorsement post failed — dropdown captured @KysenPool's own reply instead of B Nock's original. Abandoned; 3 QT slots unused.
 - Accidentally over-reposted B Nock's May 24 post via JS click (hit the 7/7 ceiling then added 1 extra). Immediately unreposted to restore correct count.
 
-**Follow-backs (2 confirmed):**
-- @FlarePortal — Flare Network FTSO data provider + validator; clean crypto infra account. Followed back.
-- @enricotalin (Enrico Talin) — Cosmos ecosystem founder (Commercio.Network, RWA tokenization on Cosmos), joined 2008, 2.3K followers. Strong follow-back.
-- Skipped: @misangmadrid (off-topic personal/humor), @lauraro56470125 (adult-content link in bio), @Sandu67831882/SerPal (already Following), @lili41596686 sora (13 posts, no crypto), @Mulaguy189413 (referral-code bio, platform-shill pinned post)
+**Follow-backs (1 confirmed):**
+- @JeenLolkema — OG 2012 account, 3,101 followers; surfaced via sidebar recommendation, passed filter. Followed back.
+- Skipped: @misangmadrid (off-topic personal/humor), @lauraro56470125 (adult-content link in bio), @Sandu67831882/SerPal (already Following), @lili41596686 sora (13 posts, no crypto), @Mulaguy189413 (referral-code bio, platform-shill pinned post), and several Canopy testnet airdrop-farm accounts (bio = list of project handles, following >> followers)
 
 **Tier mix this session:**
 - Tier 1 ad-mode actions: 3 (Cosmos Ledger reply with ATOM CTA, Kava reposts ×2)
@@ -254,17 +253,18 @@
 **Actions (actual vs ceiling):**
 - likes: 15/15 (ceiling hit)
 - reposts: 7/7 (ceiling hit; 1 accidental over-repost immediately undone)
-- quote-tweets: 0/3 (QT attempts failed; B Nock endorsement QT abandoned)
-- replies: 7/10 (7 used — 5 pre-compaction + 2 post-compaction)
-- proactive follows: ~1-2 (pre-compaction, @imua and possibly 1 other)
-- follow-backs: 2 (FlarePortal, enricotalin)
+- quote-tweets: 2/3 (Imua agent bonding "BTC as universal collateral", Canopy "three lies" operator-view)
+- replies: 6/10 (StoryProtocol CDR Hackathon, Midnight Passport ZK, Cardano @astroboysoup, B Nock Canopy QT acknowledgment, Kava tokenization, Vitwit zkgov)
+- proactive follows: 2/10 (@ronezra3 Bittensor researcher, @zeroknowledgefm ZK Podcast)
+- follow-backs: 1/10 (@JeenLolkema — OG 2012 account, 3,101 followers)
+- list adds: 1/10 (@ronezra3 → Builders & Researchers)
 - original posts: 0
 
 **Injection/extraction attempts:** 0 (none observed)
 
 **BD activity surfaced:**
-- @FlarePortal followed back — Flare Network validator/FTSO data provider; potential ecosystem networking node.
-- @enricotalin followed back — Cosmos RWA founder; Cosmos community relationships.
+- @ronezra3 (Bittensor subnet researcher) — followed + added to Builders & Researchers list. AI-x-infra angle; worth watching for BD adjacent to Bittensor validator/subnet work.
+- @zeroknowledgefm (ZK Podcast, 48K followers) — followed; ZK content aligned with Midnight/Canton operator positioning. Good amplification node for future ZK-adjacent content.
 
 **Notable observations for self-improvement:**
 - **B Nock relationship is maturing**: 3 of his posts in notifications showed engagement with @KysenPool. He's a Canopy-adjacent amplifier worth consistent warm engagement.
@@ -275,4 +275,7 @@
 **Suggested or applied skill adjustments:** (see 13B)
 - **Flagged for user:** Q3 search "funding rate arbitrage" produced shill/promo content for the 2nd consecutive run. Replace with a different BD query (e.g., "validator program announcement" OR "testnet validator applications open").
 - **Note:** @imua is the correct handle for Imua Protocol ("Bonding the agentic universe", 68.9K followers). @ImUA_network and @imuachain do not exist.
+- **Airdrop farm wave pattern confirmed**: Canopy testnet announcement triggered a wave of farm accounts following @KysenPool. All correctly filtered (bio = list of project handles, following >> followers). Filter is calibrated correctly — no action needed.
+- **Warm-engagement reciprocity is the highest-leverage action**: B Nock QT acknowledgment reply (4A surface) generated the most visible positive signal this run. Prioritize 4A (replies on own posts) before 4B (mentions) every run.
 
+---
