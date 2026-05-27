@@ -441,3 +441,118 @@
 - **Observation:** +1 follower delta this run. Consistent with prior pattern: warm-audience engagement converts to follows over 1–2 subsequent runs. @jacobmtucker like-back is the strongest same-session signal of the run.
 
 ---
+
+## 2026-05-27 05:02 UTC — Run #7
+
+**Followers:** start 1,851 → end 1,852 (delta: **+1**)
+**Following:** 473 (no change)
+**Posts:** 4,842 → 4,844 (+2)
+**Session duration:** ~42 minutes (under 90-min floor — user interrupted the idle-wait padding; engagement surface was genuinely thin after Tier 1/2 sweep)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. Ian Kane (Head of Partnerships @Cosmos + @MidnightNtwrk, OG Dec 2017, 4,386 followers, verified) — replied to @KysenPool's @cosmos engagement with "Thanks you and LFG!" 3h before run start. Kysenpool followed up with operator-peer reply: "Cosmos to Midnight — your two hats cover the lanes we care about most. Looking forward to building alongside 🫡" — extending warm thread on Tier 1 chain. Highest-leverage action this run; Ian sits at intersection of Tier 1 (Cosmos) + Tier 2 (Midnight).
+2. @cosmos throughput/stability QT (3,817 views) — "Throughput and stability are the same two things validators wake up watching. The 2026.1 release is solid operator-side too. Running Cosmos validators since '19 — stake ATOM with kysenpool 🫡 medium.com/kysenpool" — Tier 1 advertisement mode on fresh Cosmos news.
+3. +1 follower delta confirmed in-session at ~22 min mark (rare same-session signal).
+
+**What landed (paste the actual text):**
+- Reply to Ian Kane @IamIanKane "Thanks you and LFG! 😎": "Cosmos to Midnight — your two hats cover the lanes we care about most. Looking forward to building alongside 🫡"
+- Quote-tweet of @cosmos throughput/stability (3.8K views, 11 reposts, 53 likes, Ledger 2026.1 announcement): "Throughput and stability are the same two things validators wake up watching. The 2026.1 release is solid operator-side too. Running Cosmos validators since '19 — stake ATOM with kysenpool 🫡 medium.com/kysenpool"
+
+**Notable engagement received before run started (4h prior, from earlier session):**
+- @KysenPool replied to Canton "Welcome new validators" (4h): "Operator pool growing. kysenpool has been in Canton's testnet since early — welcome to the cohort 🌊" + Medium card. Canton Foundation listed 1X EXCHANGE PTE. LTD., 57Blocks, Acpower Nodes LLC as newest validators. Avoided duplicate reply this run.
+- @KysenPool reply on @KAVA_CHAIN transparency post (7h): "Same applies to staking — where do the rewards come from, what's the slashing exposure, who holds the keys. We publish our operator notes at medium.com/kysenpool. Stake $KAVA with kysenpool." Already on Kava 13h post (44.6K views, 444 likes) — Tier 1 ad slot.
+
+**What fell flat:**
+- Story Protocol "society if all data had receipts" reply attempt failed: clicking reply button (ref) opened a generic /compose/post modal instead of inline reply box. Typed text didn't reach textbox. Closed and skipped. UX lesson: ref-clicking Reply buttons from profile feed can route to generic composer; clicking the post timestamp first (opening the post detail) and then using the inline reply box is more reliable.
+- Q4 BD search ("mainnet launch validator set") — top results were stale (May 5 Salazar TON news, May 8 Mars_DeFi Rayls Mainnet shill, Apr 22 Bittensor BlockMachine). 3rd consecutive run with weak Q4 BD search results — pattern confirms BD-bucket queries 25–32 produce thin Live-tab returns. Consider rotating BD query roster.
+- Cardano Community 1.5M ADA C4 proposal governance debate: hot topic (454 posts, 10h) but engagement requires taking sides between Hoskinson/community-yes and Jaromir Tesar (95M ADA DRep)/no. As an SPO, KysenPool can't pick sides without alienating delegators. Skipped engagement — too political.
+
+**Follow-backs (0 confirmed):**
+- All 8+ visible new followers in /followers list failed filter:
+  - Ada @ada46frederick — NSFW emoji solicitation ("attention 🍑👅 pls")
+  - Cindy @thornton_cindy7 — adult-content link in bio (camsplay.xyz/user/thornton_...)
+  - Laura @lauraro56470125 — known NSFW from prior runs
+  - juumanji @juumanji390255 — Mar 2026 new account (~2mo), 21F/1F, 10 posts (DAC airdrop reposts) → farm pattern
+  - YOUTUBE KD || Zetarium @NOQRJEPRX92 — "CRYPTO & WEB3 content creator || Trader || ... airdrops updates||" airdrop bio
+  - LFG | @JackpoT_LFG — bio = list of project handles, farm
+  - Melin @Darvag84310587 — "Plz follow me" Canopy engagement bait
+- Canopy testnet airdrop-farm wave continues. Filter calibrated correctly.
+
+**Proactive follows (0):** No new Tier 4 BD targets surfaced clean this run.
+
+**Tier mix this session:**
+- Tier 1 ad-mode actions: 1 (@cosmos QT with ATOM CTA + medium.com/kysenpool card)
+- Tier 2 soft-ad actions: 0 net (Canton "Welcome new validators" already covered by prior 4h reply, skipped duplicate)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 0
+- Warm relationship maintenance: 1 (Ian Kane reply extending @cosmos thread — Tier 1 person-level)
+
+**Actions (actual vs ceiling):**
+- likes: ~5 from prior sessions visible in feed (no new likes added this run — already-liked posts encountered everywhere)
+- reposts: 0/7
+- quote-tweets: 1/3 (@cosmos throughput/stability)
+- replies: 1/10 (Ian Kane)
+- original posts: 0/2
+- proactive follows: 0/10
+- follow-backs: 0/10
+- list adds: 0/10
+- ads hidden: 1 (WSJ "Objective" video ad in Following feed)
+
+**Calibration note:**
+- Replies and likes materially undershot baseline. Cause: profile-sweep approach reached saturation — most Tier 1/2 chain accounts had content already engaged in prior runs (Cardano_CF Yaci Store, Midnight State of Network, Imua agent bonding, IntersectMBO Plutus Cost Model, SSV Genesis Boost, Story Protocol pinned CDR, Canton "Welcome new validators"). Run #7 found one new Tier 1 candidate (@cosmos throughput post, 13h) and one warm-thread opportunity (Ian Kane). Pickings genuinely thin.
+- BD search Q4 produced 0 actionable candidates for 3rd consecutive run. **Recommend tunable edit:** replace stalest BD query (Q26 "looking for validators OR validator applications open" — produced 0 candidates Runs #4, #6, #7) with something fresher.
+- Follow-back filter producing 0/8 pass-rate due to Canopy farm + NSFW wave — filter working as designed.
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**BD activity surfaced:**
+- @IamIanKane (Ian Kane) — Head of Partnerships at @Cosmos (Tier 1, joined this week per his pinned 15h announcement) AND @MidnightNtwrk (Tier 2). Frmr CEO @UnbankedHQ. 4,386 followers, OG Dec 2017. Currently engaged warmly with @KysenPool — this is a high-priority warm BD relationship to nurture across both chains. Already Following.
+- Canton Foundation announced new validator cohort (1X EXCHANGE PTE. LTD., 57Blocks, Acpower Nodes LLC) — Canton operator class expanding; worth tracking for cross-validator peer network.
+
+**Notable observations for self-improvement:**
+- **Account-switcher UX changed**: The legacy `https://x.com/i/delegate/delegations` panel no longer switches accounts on click — it only navigates to the delegate's profile. The new flow is: bottom-left "..." next to current delegate → "delegate account switch" modal → /account/switch → click target account → confirmation modal → "Switch accounts". Documented switch flow took ~5 clicks and 2 modal confirmations vs. the 1-2 click flow described in Step 2. The Step 2 instructions could be updated, but the LOCKED safety rule (account verification before any action) was honored — once switched, immediately verified bottom-left showed `KysenPool @KysenPool` before any action.
+- **Reply UX glitch**: Story Protocol "society if all data had receipts" Reply button (ref_224) opened /compose/post modal instead of inline reply. Pattern: from profile feed view, ref-clicking a Reply button can mis-route. Reliable path: click the post timestamp first to enter the post detail view, then use the inline "Post your reply" textbox there.
+- **QT flow working again**: Repost button → Quote menu item ref-click → composer opens → type → Post. Worked cleanly on @cosmos throughput post. The flaky UX from Run #3/#4 (immediate-repost on click) didn't reproduce this run.
+- **Profile-visit sweep is reaching diminishing returns**: 5 of 8 Tier 1/2 chains visited this run had content already engaged. The high-priority Tier 1 (@cosmos) and Tier 2 (Canton Foundation, Midnight, Story) chains post 1–3 substantive items per day; multi-run-per-day cadence saturates the engagement surface. Lower per-run cadence would let candidates accumulate.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **Flagged for user (not auto-applied):** BD-bucket query Q26 ("looking for validators OR validator applications open") has produced 0 actionable candidates across Runs #4, #5, #6, #7. Recommend retiring it and adding a fresher AI-x-crypto BD query like "AVS operator program" or "decentralized inference validator program".
+- **Flagged for user:** Multiple runs per day are hitting the Tier 1/2 saturation wall. Consider lowering daily run cadence from 4×/day to 2–3×/day, which would let candidate posts accumulate between runs and reduce idle profile-sweep time.
+- **Observation:** Account-switcher flow has 5 steps now (down from a documented 1-click flow); Step 2 wording could be updated, but the LOCKED safety verification (must confirm @KysenPool active before any action) is honored.
+
+---
+
+## 2026-05-27 06:00 UTC — Run #7 Extension (user-directed: fresh searches + cold BD)
+
+**Additional session — continued from Run #7 after user requested more search coverage and cold BD outreach.**
+
+**Reply to @0xthade (Hyperliquid infra thread, 2.3K views, 33 likes):**
+"The infra layer independence is underrated. Same pattern as Cosmos IBC — settlement layer doesn't need to own the frontend to capture value. Neutral matching + risk engine = the composable primitive everything else builds on."
+→ ✅ Posted. Infrastructure/IBC composability voice — no trading product refs. @0xthade bio: "spot trader, profit maxi. farmer, airdrop dumper." — 2.3K view post is a real infrastructure debate thread (@Frosen disappointed by HL outcome markets UI → @0xthade argues the infra layer is what matters). Good engagement surface for OG infra operator voice.
+
+**Cold BD reply to @safrochain (Tier 4 — Africa-first L1, Q3 2026 mainnet, genesis validator finalization):**
+"OG validator since '19 — Cosmos, Cardano, Ethereum and more. An Africa-first L1 approaching Q3 mainnet is right in our lane. DM if you're looking for experienced genesis validators."
+→ ✅ Posted. Safrochain: verified account, roadmap shows Foundation (Q3 2024) → Devnet (Q1 2025) → Testnet (Q2 2025) → Mainnet Prep now → Mainnet (Q3 2026). Real African community engagement (Hausa-language replies, Zuri reply confirming "real validators onboarded"). Genesis validator finalization stage = right moment for cold outreach.
+
+**Search queries run (extension only):**
+1. `Hyperliquid perps infrastructure OR Hyperliquid validator` → **productive** (@0xthade 2.3K view post, replied)
+2. `Cardano governance ADA funding` → stale (May 23 SPO drama), skip
+3. `#Cardano staking OR #ADA validator` → ATLAS DEFI token sale noise, skip
+4. `"validator program" OR "apply to validate" OR "validator onboarding"` → surfaced Safrochain (978 views, replied), Telcoin (flagged for next run), Minotaur/Bittensor subnet (low relevance)
+5. `"mainnet launch" "validator set" OR "AVS launch" restaking` → stale (March–April): Moca Chain, Onyx Protocol; no live targets
+6. `"looking for validators" OR "join our validator set" OR "validator onboarding"` → Safrochain also surfaced here; above query won
+
+**BD targets identified this extension:**
+- **@safrochain** — Africa-first L1, Q3 2026 mainnet, genesis validator finalization. Cold outreach sent. Monitor for DM follow-up.
+- **@TelcoinTAO** — "Smoother validator onboarding" in May 22 platform update. Passed over in favor of Safrochain this run. Consider targeting in next run if BD bucket thin.
+- **Moca Chain** — Cosmos SDK v0.50.13 chain, private mainnet + testnet active March 2026. 13K views on changelog post. Too old to reply to now but worth a fresh search next run.
+
+**Hyperliquid added to rotation recommendation:** Active infra debate surface daily; "Hyperliquid infrastructure" OR "Hyperliquid L1" should be added to general search pool (queries 1–24) as a consistent engagement opportunity for OG infra operator voice.
+
+**Additional actions this extension:**
+- replies: +2 (0xthade Hyperliquid, safrochain BD)
+- cold BD outreach: 1 (safrochain)
+- proactive follows: 0
+- searches: 6
+
+---
