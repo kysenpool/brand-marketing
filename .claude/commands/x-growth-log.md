@@ -556,3 +556,72 @@
 - searches: 6
 
 ---
+
+## 2026-05-27 10:03 UTC — Run #8
+
+**Followers:** start 1,853 → end 1,853 (delta: **+0**)
+**Following:** no change confirmed (Bitwise follow attempt failed)
+**Session duration:** ~120 minutes (split across two context windows; started ~10:03 UTC)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. @MidnightNtwrk Fireside Dev Hang LIVE reply (374+ listeners at time of post) — "Nightstream demo + Zealy updates same session — the builder velocity on Midnight is real. Working on DUST Pool alongside the ecosystem; more on the operator side: kysenpool.io" — Tier 2 live-event engagement; highest-reach active moment of the run.
+2. @CantonNetwork BWCC ETP reply (Bitwise Canton ETP listing day) — "A Canton Staking ETP on Deutsche Börse — institutional staking access, exchange-listed. KysenPool is in the Canton operator pool: kysenpool.io" — news-day timing on a major institutional signal for Canton Tier 2 chain.
+3. @IOGroup Mithril signer v1.0.0 like + repost (posted 20 min before engagement, 618 views, 32 likes, 12 reposts) — major Cardano mainnet milestone (production-ready signer); engaged as fresh-breaking news. Tier 1 ad-mode repost.
+4. @CNPYNetwork "cost of switching chains" like + reply (attempted; 2,900+ views, 575+ likes) — "Multi-chain infra is our everyday as operators — and we see this friction clearly. Each network carries its own tooling, security assumptions, and deployment overhead. Canopy flattening that for projects is a meaningful unlock. KysenPool supports the Canopy network: kysenpool.io"
+
+**What landed (paste the actual text):**
+- Reply to @MidnightNtwrk Fireside Dev Hang LIVE (374+ listeners, Nightstream + Zealy updates session): "Nightstream demo + Zealy updates same session — the builder velocity on Midnight is real. Working on DUST Pool alongside the ecosystem; more on the operator side: kysenpool.io"
+- Reply to @CantonNetwork BWCC ETP (Deutsche Börse Xetra listing day): "A Canton Staking ETP on Deutsche Börse — institutional staking access, exchange-listed. KysenPool is in the Canton operator pool: kysenpool.io"
+- Reply to @CNPYNetwork "cost of switching chains" (2.9K views, 575+ likes): "Multi-chain infra is our everyday as operators — and we see this friction clearly. Each network carries its own tooling, security assumptions, and deployment overhead. Canopy flattening that for projects is a meaningful unlock. KysenPool supports the Canopy network: kysenpool.io" [textarea cleared — reply likely posted; unconfirmed due to navigation issues]
+- Liked: @CantonNetwork (Chainlink integration, "original promise", BWCC ETP), @StoryProtocol (CDR Hackathon ×3), @imua (1), @KAVA_CHAIN (×2), @IOGroup Mithril v1.0.0, @CNPYNetwork "cost of switching chains" — total ~14 likes
+- Reposted: @IOGroup Mithril signer v1.0.0 (Cardano mainnet production-ready)
+
+**What fell flat / failed:**
+- @cosmos throughput/stability post: attempted like and reply — Chrome extension CDP events not registering after mid-session disconnect. Neither action confirmed. Reply text drafted: "Throughput captures headlines, but uptime and governance track records matter for production. CometBFT consensus gives operators predictability — KysenPool runs validators across the Cosmos ecosystem: kysenpool.io" — **CANDIDATE for Run #9 re-engagement if still fresh.**
+- @Bitwise follow (112.4K followers, Canton BWCC ETP launch partner): 3+ click attempts, zero state change. CDP clicks not trusted post-extension-disconnect.
+- Original post on Bitwise Canton ETP: compose modal opened, execCommand inserted text (240 chars), but `tweetButtonInline` stayed `disabled: true` — React/Draft.js state not updated by execCommand; CDP type events also non-functional. Post not published. **Ready for Run #9.**
+- @lili41596686 follow-back: 240 followers, below 1K threshold, skipped correctly.
+- Navigation heavily disrupted: "Leave site?" native browser dialog blocked `navigate` tool when unsaved text existed in compose areas.
+
+**Root cause — Chrome extension disconnect:**
+- Extension disconnected mid-session (~60 min in, during @cosmos post engagement).
+- After auto-reconnect: JS execution + accessibility reads worked, but CDP `left_click`/`type`/`key` produced no effect on page elements.
+- Cause: CDP events are `isTrusted: false`; X requires trusted events for like/follow/submit. Reconnected extension may lose its input injection context.
+- **Detection heuristic:** After any like/follow click, verify state change immediately (check `aria-label`). If 2+ consecutive clicks produce no change, assume disconnect and switch to JS-only workflow.
+
+**Follow-backs (0):** No eligible accounts (lili41596686: 240 followers).
+**Proactive follows (0):** Bitwise (112.4K) attempted but failed.
+
+**Tier mix this session:**
+- Tier 1: 4 actions (IOG Mithril repost, KAVA_CHAIN ×2, imua, StoryProtocol ×3)
+- Tier 2: 5 actions (MidnightNtwrk live reply, CantonNetwork BWCC reply + like, CNPYNetwork like + reply, CantonNetwork ×2)
+- Tier 3/4: 0
+
+**Actions (actual vs ceiling):**
+- likes: ~14/15
+- reposts: 1/7 (@IOGroup Mithril v1.0.0)
+- quote-tweets: 0/3
+- replies: 3/10 (MidnightNtwrk, CantonNetwork BWCC, CNPYNetwork [unconfirmed])
+- original posts: 0/2 (drafted; not submitted)
+- proactive follows: 0/10
+- follow-backs: 0/10
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**Queued for Run #9:**
+- Follow @Bitwise (112.4K, Canton ETP partner)
+- Original post: Bitwise Canton ETP (draft ready, 240 chars)
+- Reply to @cosmos throughput/stability (if still accessible)
+- @cosmos like (1 like remaining in budget)
+
+**Notable observations for self-improvement:**
+- **Extension disconnect detection:** Verify state change on first like/follow attempt. If none, stop burning clicks — extension is degraded.
+- **execCommand ≠ Draft.js state update:** Text appears in compose but React doesn't register it; submit button stays disabled. Only real keystroke events (CDP `type` with healthy extension) trigger Draft.js onChange.
+- **Navigation trap from compose areas:** `window.confirm = () => true; window.location.href` works from same-domain; `pushState + popstate` works for SPA routes.
+- **Home-feed ref-clicks work even in degraded extension state** (CNPYNetwork like confirmed). Prioritize home-feed engagement if extension health uncertain.
+
+**Suggested or applied skill adjustments:**
+- **Flagged for user:** Add extension health-check to Step 3: test one like, verify `aria-label` changed. If not, note degraded state early.
+- **Flagged for user:** Queue for Run #9: @Bitwise follow + Bitwise Canton ETP original post + @cosmos reply.
+
+---
