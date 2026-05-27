@@ -625,3 +625,64 @@
 - **Flagged for user:** Queue for Run #9: @Bitwise follow + Bitwise Canton ETP original post + @cosmos reply.
 
 ---
+
+## 2026-05-27 14:30 UTC — Run #9
+
+**Followers:** start 1,853 → end 1,853 (delta: **+0**)
+**Following:** no change confirmed
+**Session duration:** ~120 minutes (continued across two context windows; started ~12:30 UTC)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. @AssetsDaily Canton ETP reply (833 views) — replied to a Cointelegraph-sourced post about Bitwise BWCC ETP listing on Deutsche Börse Xetra with operator credential anchor. Text: "KysenPool's been in the Canton operator pool since testnet — good to see institutional access arriving via structured products. More on our Canton work: medium.com/kysenpool" — confirmed sent. Tier 2 soft-ad mode; strong credential anchor on a news-day post.
+2. Canton Foundation team post liked (45→46 likes) — "Meet some of the core team members behind the Canton Foundation. Governance for institutional-grade infrastructure." Tier 2 soft-ad visibility.
+3. Wayne @waynefong (KysenPool team member) Canton/Get_Para post liked (0→1) — "Native wallet + MPC signing support from @get_para is another step toward making institutional workflows and retail UX converge on the same infrastructure layer." Good internal amplification of Canton news.
+4. Search Q3 (Canton Network) was highly productive — surfaced fresh 1m–1h posts, multiple likes placed on Canton ecosystem content. Canton is in an active institutional news cycle (Bitwise ETP, Get_Para wallet infra, team reveal).
+
+**What landed (paste the actual text):**
+- Reply to @AssetsDaily Bitwise Canton ETP (833 views): "KysenPool's been in the Canton operator pool since testnet — good to see institutional access arriving via structured products. More on our Canton work: medium.com/kysenpool" ✅ Confirmed sent.
+
+**What fell flat:**
+- @Bitwise follow (queued from Run #8) — status unconfirmed. Not explicitly verified this run.
+- @cosmos throughput/stability reply (queued from Run #8) — not re-engaged (content aged out).
+- Q4 BD search ("restaking AVS operators wanted", query #29) — confirmed thin again; surfaced only Jul 2024 stale content. 4th consecutive weak Q4 result.
+- JCR @JCRacefab (CNC/mechatronics, Follows you) — skipped follow-back per "completely off-beat" filter; no crypto/blockchain connection.
+
+**Follow-backs (1 confirmed):**
+- 1 account passed filter and was followed back (details not fully captured pre-compaction).
+- Skipped: @lili415 sora — sidebar showed "Follows you" but profile had blank avatar, "nada interesante!" bio, 18 posts, last active Sep 2024; insufficient signal for follow-back.
+
+**Proactive follows (4 confirmed):**
+- 4 accounts followed proactively during search/feed sweep (names not captured pre-compaction; fell within ceiling).
+
+**Tier mix this session:**
+- Tier 1 ad-mode actions: ~3 (Cosmos, Cardano-related likes)
+- Tier 2 soft-ad actions: ~5 (Canton ETP reply, Canton Foundation like, Canton search likes, Wayne Canton post like)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 0 (Q4 BD query produced no actionable targets)
+
+**Actions (actual vs ceiling):**
+- likes: ~9/15
+- reposts: 0/7
+- quote-tweets: 0/3
+- replies: 1/10 (AssetsDaily Canton ETP)
+- original posts: 0/2
+- proactive follows: 4/10
+- follow-backs: 1/10
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**BD activity surfaced:**
+- None new this run. Q4 BD bucket continues to produce stale results.
+
+**Notable observations for self-improvement:**
+- **Canton Q3 search was the most productive vector this run.** Fresh content (1m–1h old) surfaced consistently. @AssetsDaily was the best reply target — news-day Canton post with clear operator-credential angle.
+- **Q4 BD query #29 ("restaking AVS operators wanted") confirmed dead.** 4 consecutive runs with stale (Jul 2024) results. Replace immediately.
+- **Home feed Wayne @waynefong post**: KysenPool team members are posting Canton-relevant content in real time. Worth checking @waynefong's recent posts each run for content worth amplifying from @KysenPool.
+- **Run #9 handled the Run #8 queued Bitwise Canton ETP post** via reply to @AssetsDaily (third-party news post covering the same story) rather than a standalone original post — this was correct; a third-party news post is a better engagement surface for the reply than posting standalone.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **Flagged for user:** Replace Q4 BD query #29 ("restaking AVS operators wanted") with a fresh query. Candidates: `"validator program" "apply now"`, `"new L1" "genesis validators"`, `"AVS operator" seeking`, or `"validator onboarding" 2026`.
+- **Observation:** Canton institutional news cycle (ETP, Get_Para, Bitwise) is still active — Q3 search continues to surface high-quality Tier 2 engagement targets. Weight Canton Q3 in runs while news cycle is hot.
+- **Queued for Run #10:** Verify @Bitwise follow was completed; re-attempt if not. Check @cosmos for fresh content to re-engage (throughput/stability post has now aged out).
+
+---
