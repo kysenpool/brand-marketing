@@ -240,7 +240,7 @@ Rotation pool (covers KysenPool's beats — supported chains, validator/restakin
 26. `looking for validators` OR `validator applications open`
 27. `mainnet launch validator set`
 28. `new L1 testnet validators`
-29. `restaking AVS operators wanted`
+29. `Symbiotic restaking` OR `Karak network validators`
 30. `chain foundation grant program`
 31. `proof of stake new chain 2026`
 32. `validator RFP` OR `validator selection`
@@ -329,9 +329,23 @@ KysenPool is an OG account with a large existing post history. Original posts sh
 
 **Three acceptable archetypes:**
 
-1. **Operator observation** — a short technical or economic note from the validator's seat. "Operator note: <X chain> just shipped <Y>. The practical effect on validator ops is <Z>." Anchors KysenPool as a peer with technical authority. Can include a Tier 1/2 stake-with-us CTA if the chain in question is on Tier 1 or Tier 2.
-2. **Builder note** — surfacing a build problem KysenPool has solved or is solving (jinoro, DUST Pool for Midnight, Canton IDE, Cardano gas station). Frame as engineering reflection, not advertising. "Building <thing> on <chain>, the gnarlier piece turned out to be <X>." Signals dev shop capacity by demonstration. Can point to medium.com/kysenpool if a relevant write-up exists.
+1. **Operator observation** — a short technical or economic note from the validator's seat. "Operator note: <X chain> just shipped <Y>. The practical effect on validator ops is <Z>." Anchors KysenPool as a peer with technical authority. Anchored with a link per the formatting block below — Tier 1/2 stake-with-us CTA OK if the chain in question is on Tier 1 or Tier 2.
+2. **Builder note** — surfacing a build problem KysenPool has solved or is solving (jinoro, DUST Pool for Midnight, Canton IDE, Cardano gas station). Frame as engineering reflection, not advertising. "Building <thing> on <chain>, the gnarlier piece turned out to be <X>." Signals dev shop capacity by demonstration. Link to medium.com/kysenpool if a relevant write-up exists, otherwise kysenpool.io.
 3. **Tier 1/2 advertisement note** — a short, OG-toned reminder that KysenPool validates the chain. "Reminder: kysenpool is your [chain] PoS validator. medium.com/kysenpool for the details." Pair with substance where possible (recent chain news, operator observation) rather than posting bare. Of the up-to-2 original posts per run, at most 1 should be this archetype — the other should be operator or builder content so the feed doesn't read as pure self-promotion.
+
+**Formatting requirements (mandatory for every original post):**
+
+- **Always include a link.** Every original post must include a URL — `kysenpool.io` for general operator / dev-shop framing, `medium.com/kysenpool` for Tier 1/2 CTA framing or when a relevant blog post exists, or the direct URL of the source (chain news, foundation announcement, on-chain explorer link, etc.) the post is reacting to. X counts every URL as 23 chars regardless of actual length — plan the budget accordingly. If you cannot fit substance + link in 280 chars, trim the substance until you can; do not drop the link. A post without a link is not eligible for this routine.
+- **Prefer bullet points where the content supports it.** If the post has 2+ discrete points or items (multiple chain updates, multiple operator notes, a short list of stats, a comparison), format as bullets using `•` or `-` with a newline between each. X renders plain-text bullets cleanly and they improve scannability. Single-thesis posts stay as prose — do not force a list onto content that is genuinely one thought. Example bullet shape:
+  ```
+  Operator note on <chain>:
+
+  • <point 1>
+  • <point 2>
+  • <point 3>
+
+  kysenpool.io
+  ```
 
 **Do NOT post if:**
 
@@ -434,7 +448,8 @@ Replies, quote-tweets, and original posts must follow these rules without except
   - "Worth flagging: <fact + source>."
   - "Seen this before in <prior cycle / chain>. The difference this time is <X>."
   - "<Dry one-liner observation> — <link or context>."
-- **Link guidance:** Use **kysenpool.io** for general references (website, validator info, blog RSS). Use **medium.com/kysenpool** in Tier 1/2 CTA replies — the root URL generates a KysenPool brand card preview (wave logo) and is appropriate without a specific post path. Specific post URLs work too but are not required. The BD team reposts blog content to X manually — do not attempt to pin posts.
+- **Link guidance:** Use **kysenpool.io** for general references (website, validator info, blog RSS). Use **medium.com/kysenpool** in Tier 1/2 CTA replies — the root URL generates a KysenPool brand card preview (wave logo) and is appropriate without a specific post path. Specific post URLs work too but are not required. The BD team reposts blog content to X manually — do not attempt to pin posts. **Original posts (Step 8) MUST include a link** — see Step 8's "Formatting requirements" block. Replies and quote-tweets do not require a link, though one is welcome when it adds context.
+- **Bullet points are encouraged in original posts when the content has 2+ discrete items** (see Step 8 formatting block for shape). For replies and quote-tweets, prose is usually tighter — only use bullets if the reply genuinely lists multiple items.
 - **Tier 1 advertisement templates (chains we run in production — stake-with-us CTA encouraged):**
   - "Stake [TOKEN] with kysenpool. Operator since [year] 🫡"
   - "Reminder: kysenpool is your [chain] validator. kysenpool.io"

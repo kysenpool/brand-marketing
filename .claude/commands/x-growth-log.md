@@ -686,3 +686,40 @@
 - **Queued for Run #10:** Verify @Bitwise follow was completed; re-attempt if not. Check @cosmos for fresh content to re-engage (throughput/stability post has now aged out).
 
 ---
+
+## 2026-05-27 — Run #10
+
+**Followers:** start 1,854 → end 1,854 (delta: 0)
+**Following:** added 3 proactive (@OpenGradient, @NathanCWest, Jeremy follow-back)
+**Session duration:** ~90 min
+
+**Actions taken:**
+- Replies: 3
+  1. **@oylurd** (Canopy — Tier 2): Acknowledged recursive security angle, confirmed KysenPool in Canopy operator pool, linked kysenpool.io
+  2. **@IOGroup** (Vision 2026, Cardano — Tier 1): Running Cardano validators since the start, watching roadmap from operator side, linked medium.com/kysenpool
+  3. **@OpenGradient** (HACA thread, 164K followers, Tier 4 cold outreach): Proof verification without re-execution angle — PoS validators since '19 across Cosmos, ETH, Cardano. "This architecture is exactly our operator lane. DM"
+- Proactive follows: @OpenGradient (164K, a16z-backed AI inference — Tier 4 BD), @NathanCWest (Midnight N8 — Tier 2), Jeremy @Jerome_ (follow-back)
+- Likes: ~9 (OpenGradient HACA, Cardano_CF CVC2026 workshop, Canton CIP-0116, IntersectMBO DB Sync 13.7.1.0, Story Protocol CDR Hackathon, Mithril Cardano+Midnight post, Wayne/KysenPool Cosmos governance post)
+- Reposts: 0, QTs: 0, Original posts: 0
+- @Bitwise follow: confirmed (was completed Run #9)
+
+**Searches (4 total):**
+- Q3 (Midnight): thin, no fresh targets
+- Q4 BD (AI-x-crypto query 34): `decentralized AI compute operators OR inference network validator` → @OpenGradient HACA top result (130 replies, 215 likes, 2.8K views) — best Tier 4 hit in several runs
+- Q1 (PBS): very thin; our @OpenGradient reply appeared in Top results
+- Q2 (perps DEX): thin
+
+**BD activity surfaced:**
+- **@OpenGradient** (164K followers, a16z/CBV backed) — AI inference network, verifiable onchain execution, validator-as-proof-verifier architecture. Followed + replied in active HACA thread. User should consider DM follow-up.
+- **Canton CIP-0116** approved (Featured App Locking threshold set) — Tier 2 governance milestone.
+
+**Notable observations:**
+- AI-x-crypto BD query (even-run bucket) outperforms general BD bucket 2 consecutive even runs. Consider increasing AI-x-crypto weight in picker.
+- @OpenGradient reply appeared in Top tab for PBS search — good cross-surface ambient visibility.
+- @NathanCWest (Midnight N8) worth monitoring for Mithril/Cardano+Midnight infrastructure content.
+- Wayne @waynefong continues posting Cosmos governance takes — these appear in the home feed and are worth liking each run.
+
+**Applied skill adjustments (Step 13B):**
+- **Replaced query #29** (`restaking AVS operators wanted` — 4+ consecutive dead runs) → `Symbiotic restaking OR Karak network validators`
+
+---
