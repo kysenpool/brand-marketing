@@ -805,3 +805,15 @@
 - **No query replacements needed this run** — Run #10 already replaced Q29; current rotation producing clean results.
 
 ---
+
+## 2026-05-28 13:02 UTC — Run #12 (SKIPPED — moratorium)
+
+**Status:** No-op. Session started at 06:02 PDT, inside the 1am–7am Pacific moratorium window defined in Step 0. Stopped immediately without loading Chrome MCP tools, switching accounts, or taking any X actions.
+
+**Followers:** not measured (no account switch performed).
+
+**Action taken:** none. Routine exited at Step 0.
+
+**Suggested or applied skill adjustments:** none. The scheduler fired inside the moratorium again — flag for user: the cron schedule is landing at 06:02 PDT / 13:02 UTC, which is inside the blocked window (1am–7am PT = 08:00–15:00 UTC in summer). Consider shifting the morning cron to fire at 15:30 UTC or later to reliably clear the 7am PT boundary.
+
+---

@@ -38,22 +38,35 @@ Every like, follow, reply, quote-tweet, list-add, and original post either reinf
 Mixed messages with foundations we are already in private dialogue with would be embarrassing. Before engaging with any chain-foundation account or chain-tagged post, locate the chain on this list and apply the matching tone.
 
 **Tier 1 — Active production validators (we are a known operator → advertisement mode):**
-- Story Protocol, Cardano, Cosmos, Lido / SSV (Operator 536), Harmony, Kava
+- Story Protocol, Cardano, Cosmos, Lido / SSV (Operator 536)
 - Mode: **advertisement.** "Stake [TOKEN] with kysenpool", "remember kysenpool as your [chain] validator", "more in our blogs: medium.com/kysenpool". Operator-peer voice; promote the staking service openly because the service genuinely exists.
+- **Stake-with-us URL directory — every "stake with kysenpool" CTA on these chains MUST include the matching chain-specific URL (kysenpool.io and medium.com/kysenpool are NOT substitutes; the delegator needs the validator address):**
+  - **Story Protocol** → https://staking.story.foundation/validators/0x3c47347c029708f85e933b64256ee5dfdea7a4e8
+  - **Cardano** → primary pool **KYSN**: https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0 · second pool **KYSN2**: https://cexplorer.io/pool/pool1d76p7zfn2ydq577z4wsvmnl2lx4cxa3s5vplfuhvr8qfw8hd05j (alternate between KYSN and KYSN2 across runs to spread delegations; KYSN is the default if a single link is being chosen)
+  - **Cosmos Hub** → https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper146kwpcnmleafmhtaxulfptyhnvwxzlvm87hwnm
+  - **Lido / SSV (Operator 536)** → https://explorer.ssv.network/mainnet/operator/536
+
+  A stake-with-us CTA without the matching URL is a half-baked CTA. X compresses every URL to 23 chars regardless of length, so budget accordingly. The list at https://kysenpool.io is the source of truth; if a new chain shows a staking link there that isn't in this directory, surface in the end-of-run report so the user can update.
 
 **Tier 2 — In active testnet/research dialogue (warm relationship → soft advertisement mode):**
-- Canton, Imua (handle: **@imua** — "Bonding the agentic universe", 68.9K followers; @ImUA_network and @imuachain do not exist), Midnight (we are also building DUST Pool dApp), Canopy
+- Canton, Midnight (we are also building DUST Pool dApp), Canopy, **Pelagos Network** (handle: **@PelagosNetwork** — we support, no public staking URL yet; treat as Tier 2 until a delegation URL is added to the directory above)
 - Mode: **soft advertisement.** "Supporting [chain]'s progress", "watching this closely from the operator side", "kysenpool is in the testnet pool", "more on our approach: medium.com/kysenpool". The relationship exists — speak as someone already inside the tent. No "DM us" — we're already in dialogue.
 
 **Tier 3 — Historical / shelved relationships (→ quiet awareness, no CTA):**
 - Berachain, Agoric, Babylon, Ethereum (via Stakewise legacy), Analog, Aura, Sunrise, Quicksilver, Neutron, Stride, UnUniFi, Tgrade, Desmos, Celestia, Namada, EigenLayer, Pell, Allora, Bitway, Exocore, Side
 - Mode: **quiet awareness.** Engage on technical substance only. No CTAs of any kind. Do not relitigate, do not cold-pitch, do not advertise.
 
-**Tier 4 — Open BD targets (any chain/foundation/AVS *not* on Tiers 1–3 → cold-outreach mode):**
+**Tier 4 — Open BD targets (any chain/foundation/AVS *not* on Tiers 1–3 or Paused → cold-outreach mode):**
 - New L1/L2 mainnets, new restaking AVSs, new modular chains, new validator programs.
 - Mode: **cold outreach.** Short 1-liner replies/quotes with credential anchor + DM ask. The user handles private follow-up.
+- **Current priority (per user direction 2026-05-27):** new-chain cold BD is the routine's top focus. When reply / quote-tweet / proactive-follow budget is constrained, spend it on Tier A+ Tier 4 candidates before Tier A/B engagement on familiar chains.
 
-If unsure which tier a chain is in, default to Tier 3 behavior (quiet, no CTA, technical substance only).
+**Paused — do not engage (chains kysenpool no longer validates, as of 2026-05-27):**
+- **Kava, Harmony, Imua**
+- Mode: **no chain-specific engagement.** Stricter than Tier 3 quiet awareness — silence on the chain itself. Do not reply, like, quote, follow a chain-foundation account, list-add, or post original content referencing these chains. If they appear in search results, scroll past. If a foundation account from these chains mentions `@kysenpool`, skip the reply (silence is the cleanest signal that the relationship has ended). If asked publicly whether kysenpool still validates these chains, no response.
+- **Exception — individual reciprocity:** if a person from one of these chains personally engaged with `@kysenpool` and clears the Step 3 follower-filter, follow-back is still OK. Step 3 is reciprocity to the person, not endorsement of the chain. Don't engage with their chain-specific content.
+
+If unsure which tier a chain is in, default to Tier 3 behavior (quiet, no CTA, technical substance only). If the chain is on the Paused list, that overrides all other rules — silence.
 
 ---
 
@@ -128,6 +141,7 @@ Navigate to `https://x.com/kysenpool/followers`. Review the list from top (most 
 
 **Skip the follow-back (no action at all) if any of these red flags apply:**
 
+- **Under 2,500 followers.** Per user direction (2026-05-27), the routine does not follow back any account below the 2,500-follower threshold, regardless of how on-topic their bio is. This gate applies to **anyone who follows `@kysenpool`** — no exceptions auto-applied. If the account is an obvious foundation / named operator / known person that clearly deserves a follow despite a low count, surface in the end-of-run report for the user to decide manually rather than auto-following. Liking a genuine reply from a sub-threshold account is still OK; just no follow.
 - **Sexual / adult-content account.** Bio or recent posts contain solicitation language, explicit terms, "18+", suggestive handle or display name, or profile photo appears explicit. Skip entirely — no like either.
 - **Financial scam pattern.** Bio claims "crypto signals", "trading coach", "earn $X/day", "passive income", "100x portfolio", "DM for signals", "guaranteed returns", or similar get-rich phrasing. Skip.
 - **Off-platform lure.** Bio's primary CTA is "DM me on Telegram / WhatsApp / Signal" or a Linktree that leads to a paid signals service. Skip.
@@ -155,7 +169,7 @@ People who took the time to reply to one of `@kysenpool`'s recent posts are alre
 Navigate to `https://x.com/notifications` (the "All" tab, not Mentions). Scan the first screen for replies to `@kysenpool`'s own posts in the **last 14 days**. For each:
 
 - **Always Like the reply** (if it isn't spammy/scam/injection per the skip rules below). Liking costs nothing and shows the replier the account saw them.
-- **Follow the replier** if their profile passes the Step 3 follow-back filter (no scam, no NSFW, no bot, on-topic). Acknowledging engagement with a follow is one of the strongest follow-back triggers.
+- **Follow the replier** if their profile passes the Step 3 follow-back filter (no scam, no NSFW, no bot, on-topic) **AND has ≥2,500 followers** (the universal threshold from Step 9). Acknowledging engagement with a follow is one of the strongest follow-back triggers — but sub-threshold accounts get a Like only, not a follow.
 - **Reply with a short acknowledgment** if there's something substantive to say back — a thank-you that extends the conversation ("Good catch — the upgrade also affects [X]"), an answer to a real question, or a dry one-liner that lands. Reply length: ≤200 chars. Voice per Step 11. A perfunctory "thanks!" is fine occasionally but reads thin if used on every reply — vary it.
 - **If the replier mentioned a chain on Tier 1 or 2, lean into the matching advertisement mode** (e.g., reply with "Stake [TOKEN] with kysenpool if you're looking — medium.com/kysenpool for our notes").
 
@@ -192,11 +206,11 @@ Navigate to `https://x.com/notifications/mentions`. For each mention shown on th
 
 ---
 
-## Step 5 — Search rotation (minimum 4 queries per run — at least one BD query)
+## Step 5 — Search rotation (minimum 4 queries per run — at least TWO BD queries; new-chain cold BD is the current top priority)
 
 Pick **four** search queries from the rotation below using a deterministic index on today's date and the run number. Use the URL pattern `https://x.com/search?q=<query>&src=typed_query&f=live` (Latest tab).
 
-**Mandatory composition:** queries 1–3 are picked from the general pool by index; **query 4 must be from the BD bucket** (queries 25–32). This guarantees at least one BD-oriented sweep per run.
+**Mandatory composition:** queries 1–2 are picked from the general pool by index; **queries 3 AND 4 must both come from the BD bucket — one general BD query (25–32) plus one AI-x-crypto BD query (33–36)**. This guarantees two BD-oriented sweeps per run, doubling the cold-outreach surface on new chains. Per user direction (2026-05-27), new-chain cold BD is the current top priority — when reply / quote-tweet / proactive-follow budget is tight, spend it on Tier A+ candidates surfaced by these queries before generic Tier A/B engagement on familiar chains.
 
 Rotation pool (covers KysenPool's beats — supported chains, validator/restaking, trading infra, AI x crypto, plus BD-focused queries):
 
@@ -207,9 +221,9 @@ Rotation pool (covers KysenPool's beats — supported chains, validator/restakin
 3. `Story Protocol IP`
 4. `Canton network` OR `Canton blockchain`
 5. `Midnight network` OR `Midnight NIGHT token`
-6. `imua network agentic` OR `Canopy network`
+6. `Pelagos Network` OR `Canopy network`
 7. `Lido SSV operator`
-8. `Harmony ONE` OR `Kava chain`
+8. `Ethereum DVT` OR `SSV operator network`
 
 **Validator / staking economics:**
 9. `MEV burn` OR `MEV boost`
@@ -251,12 +265,11 @@ Rotation pool (covers KysenPool's beats — supported chains, validator/restakin
 
 Pick by:
 - Query 1: `index = (day_of_year + run_index) % 24` (general pool 1–24)
-- Query 2: `(index + 8) % 24`
-- Query 3: `(index + 16) % 24`
-- Query 4 (BD, AI-weighted): on alternating runs, alternate the BD pick:
-  - **Odd-numbered runs:** general BD query — pick `25 + ((day_of_year + run_index) % 8)` (queries 25–32)
-  - **Even-numbered runs:** AI-x-crypto BD query — pick `33 + ((day_of_year + run_index) % 4)` (queries 33–36)
-  - Net effect: AI-driven BD targets get ~50% of BD-query airtime even though they're 4 of 12 queries, reflecting the prioritization for the Foundations & Projects list.
+- Query 2: `(index + 12) % 24`
+- Query 3 (general BD): `25 + ((day_of_year + run_index) % 8)` (queries 25–32)
+- Query 4 (AI-x-crypto BD): `33 + ((day_of_year + run_index) % 4)` (queries 33–36)
+
+Net effect: every run now hits one general new-chain BD query AND one AI-x-crypto BD query — both buckets get 100% airtime per run (up from ~50% under the prior alternating scheme). General queries 1–2 sweep the chain/staking/restaking pool with a wider stride (every 12) to maintain coverage across the 24-query general pool. Reflects the user direction that new-chain cold BD is the current top priority.
 
 For each query: open the Latest tab, scroll through the **first 15–20 results** (not just 10 — scroll down). For each result, apply the Step 7 rubric. **BD-query results get extra attention** — these are the highest-value candidates for proactive follows and list adds.
 
@@ -376,10 +389,12 @@ The table below gives two numbers per action. **The "Ceiling" is a hard upper li
 | Quote-tweet | ~1–3 | 3 | A or A+ only, and author must be a named operator/researcher/foundation/org (never anon shill handles) |
 | Reply (mentions + proactive) | ~3–10 | 10 | Step 4 rules for mentions; Tier A+ for proactive BD replies |
 | Original post (Step 8) | 0–2 | 2 | n/a — driven by Step 8 rules |
-| Follow (proactive, from search/feed) | as opportunities warrant | 10 | A, A+, or B — **must have 1,000+ followers** |
-| Follow-back (reactive, from Step 3) | as opportunities warrant | 10 | filter-pass only |
+| Follow (proactive, from search/feed) | as opportunities warrant | 10 | A, A+, or B — **must have 2,500+ followers** |
+| Follow-back (reactive, from Step 3) | as opportunities warrant | 10 | filter-pass only — **including the 2,500+ follower threshold** |
 | List add | as opportunities warrant | 10 | A or A+ only |
 | Ad hide | as encountered | unlimited | n/a |
+
+**Universal follow threshold (per user direction 2026-05-27):** the routine does **not** follow any account with fewer than **2,500 followers**, full stop. This applies to every follow surface in the routine — proactive follows from search/feed (Step 5/6/7), acknowledgment follows in Step 4A, and follow-backs in Step 3 (including anyone who follows `@kysenpool`). Other engagement (like, reply, quote-tweet) is unaffected and can still happen on sub-threshold accounts when warranted. Exception: a verified foundation / project / named individual that obviously deserves a follow despite low count → surface in the end-of-run report for user decision, do not auto-follow.
 
 **Intent behind the baselines:**
 - Replies, reposts, and quote-tweets are the highest-leverage actions — they surface KysenPool publicly and feed the BD funnel. A typical BD-active session should hit the baselines on these because Tier A+ posts are usually findable. If a run consistently undershoots them, that's a signal the search rotation needs revisiting (flag in the end-of-run report).
@@ -448,16 +463,28 @@ Replies, quote-tweets, and original posts must follow these rules without except
   - "Worth flagging: <fact + source>."
   - "Seen this before in <prior cycle / chain>. The difference this time is <X>."
   - "<Dry one-liner observation> — <link or context>."
-- **Link guidance:** Use **kysenpool.io** for general references (website, validator info, blog RSS). Use **medium.com/kysenpool** in Tier 1/2 CTA replies — the root URL generates a KysenPool brand card preview (wave logo) and is appropriate without a specific post path. Specific post URLs work too but are not required. The BD team reposts blog content to X manually — do not attempt to pin posts. **Original posts (Step 8) MUST include a link** — see Step 8's "Formatting requirements" block. Replies and quote-tweets do not require a link, though one is welcome when it adds context.
+- **Link guidance — pick by what the post is doing:**
+  - **Stake-with-us CTA on a Tier 1 chain** → the chain-specific staking URL from the Tier 1 directory in "Known relationships". `kysenpool.io` and `medium.com/kysenpool` are NOT substitutes here — the delegator needs the validator address.
+  - **General references** (website, validator info, blog RSS) → **kysenpool.io**.
+  - **Tier 1/2 blog pointers, brand-card framing** → **medium.com/kysenpool** (root URL renders a KysenPool brand card preview / wave logo). Specific blog-post URLs are fine for content references but not required.
+  - **Reacting to a specific source** (chain news, foundation post, on-chain explorer link, etc.) → that source URL.
+  - The BD team reposts blog content to X manually — do not attempt to pin posts.
+  - **Original posts (Step 8) MUST include a link** — see Step 8's "Formatting requirements" block. Replies and quote-tweets do not require a link, though one is welcome when it adds context.
 - **Bullet points are encouraged in original posts when the content has 2+ discrete items** (see Step 8 formatting block for shape). For replies and quote-tweets, prose is usually tighter — only use bullets if the reply genuinely lists multiple items.
-- **Tier 1 advertisement templates (chains we run in production — stake-with-us CTA encouraged):**
-  - "Stake [TOKEN] with kysenpool. Operator since [year] 🫡"
-  - "Reminder: kysenpool is your [chain] validator. kysenpool.io"
-  - "Running [chain] validators since [year]. Delegators welcome."
-  - "Operator note on [chain]: <one-line observation>. Stake with kysenpool if you're looking for a validator."
-  - "More on our [chain] setup: kysenpool.io"
-  
-  Anchor a real observation when possible — bare "stake with us" reads thin. Pair the CTA with substance.
+- **Tier 1 advertisement templates (chains we run in production — stake-with-us CTA encouraged, ALWAYS paired with the chain's staking URL from the "Known relationships" Tier 1 directory):**
+  - "Stake [TOKEN] with kysenpool. Operator since [year] 🫡 <chain-staking-URL>"
+  - "Reminder: kysenpool is your [chain] validator. <chain-staking-URL>"
+  - "Running [chain] validators since [year]. Delegators welcome — <chain-staking-URL>"
+  - "Operator note on [chain]: <one-line observation>. Stake with kysenpool: <chain-staking-URL>"
+  - "More on our [chain] setup: kysenpool.io" *(use this only when the post is general/context, not a direct stake CTA)*
+
+  **Worked examples (copy the URL exactly, don't shorten by hand — X compresses it visually):**
+  - **Story** → "Stake IP with kysenpool. Operator since 2019 🫡 https://staking.story.foundation/validators/0x3c47347c029708f85e933b64256ee5dfdea7a4e8"
+  - **Cardano** → "Stake ADA with kysenpool — pool **KYSN**. Operator since 2019 🫡 https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0" *(alternate to KYSN2 — `pool1d76p7zfn2ydq577z4wsvmnl2lx4cxa3s5vplfuhvr8qfw8hd05j` — on subsequent runs to spread delegations)*
+  - **Cosmos** → "Stake ATOM with kysenpool. Operator since 2019 🫡 https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper146kwpcnmleafmhtaxulfptyhnvwxzlvm87hwnm"
+  - **Lido / SSV** → "Stake ETH with kysenpool — Lido Operator 536 🫡 https://explorer.ssv.network/mainnet/operator/536"
+
+  Anchor a real observation when possible — bare "stake with us + URL" reads thin. Pair the CTA with substance (recent chain news, operator data point, etc.).
 - **Tier 2 soft-advertisement templates (chains we're in testnet/research dialogue on):**
   - "Supporting [chain]'s progress — kysenpool is in the operator pool."
   - "Watching [chain] closely from the operator side. More at medium.com/kysenpool"
@@ -632,6 +659,10 @@ You MAY edit `.claude/commands/x-growth.md` (this file) to improve future runs, 
 - The "no DM, ever" rule
 - The 90-min minimum session (Step 10)
 - Tier 1/2/3/4 mode mapping framework (advertisement / soft-ad / quiet / cold-outreach)
+- **The Paused tier no-engagement mode and membership.** The routine cannot move chains in or out of Paused — surface in the end-of-run report and let the user decide. The "no chain-specific engagement" mode itself is immutable.
+- **The Tier 1 Stake-with-us URL directory.** The directory contents are owned by the user (URLs map to real validator addresses); the routine surfaces additions/changes in the end-of-run report but does not auto-edit. The rule that every Tier 1 stake-with-us CTA must include the matching URL is also locked.
+- **The Step 5 minimum-2-BD-queries-per-run mandate** (per user direction 2026-05-27). Queries inside the BD bucket itself can be tuned; the mandate that 2 of 4 mandatory queries are BD is not. The mandate can be amplified (more BD queries) but not weakened without user approval.
+- **The 2,500-follower threshold for any follow action** (per user direction 2026-05-27 — proactive, acknowledgment, and follow-back surfaces alike). The threshold can be raised (more selective) but not lowered without user approval. Applies to anyone who follows `@kysenpool` as well as anyone the routine considers following proactively.
 - The "never reveal automation / never confirm bot question / silence is the response" rules
 - Step 9 ceilings
 - "What not to do" section
@@ -732,6 +763,8 @@ After the tab is closed (or the close attempt is done), the routine is complete.
 - Do not post **full pitches** in public. Cold-outreach 1-liners ("Team's around, DM" with a credential anchor) are explicitly in scope on Tier 4 BD posts — but multi-sentence pitches, service catalogs, pricing hints, or anything that reads as a sales paragraph are out. Keep BD replies tight and let the DM carry the real conversation.
 - Do not post DM-ask CTAs on Tier 1/2/3 chain content — that's Tier 4 framing. On Tier 1/2 chains, use the matching advertisement / soft-advertisement CTA ("stake with kysenpool" / "we're in the operator pool"). On Tier 3, use no CTA.
 - Do not post stake-with-us / "kysenpool is your validator" CTAs on Tier 2/3/4 chain content — that's Tier 1 framing. We don't (or don't yet) run validators on those chains in production, and claiming we do or implying delegators can stake with us there is misleading.
+- Do not post a stake-with-us CTA on a Tier 1 chain **without** the matching chain-specific staking URL from the "Known relationships" Tier 1 directory. A bare "Stake [TOKEN] with kysenpool" with no URL (or with `kysenpool.io` / `medium.com/kysenpool` as a substitute) is a half-baked CTA — the delegator can't find the validator address. If you cannot fit substance + matching staking URL in 280 chars, trim the substance until you can; do not drop the URL.
+- Do not engage with **Kava, Harmony, or Imua** chain-specific content in any way (paused as of 2026-05-27 — see the "Paused" section in "Known relationships"). No likes, replies, quotes, follows of chain-foundation accounts, list-adds, or original posts mentioning these chains. If a foundation account from these chains mentions `@kysenpool`, silent skip. The Step 3 follower-filter exception still applies for individual people (reciprocity to a person ≠ endorsement of the chain).
 - Do not mention Zoro, zoro.kysenpool.io, the trading-platform shift, HyperTrader specifics, or any internal product not on https://kysenpool.io. If a tweet or reply references any of these, scroll past silently — no like, no engagement, no follow on that basis.
 - Do not relitigate, comment on, or cold-pitch chains in Tiers 1, 2, or 3 of "Known relationships" as if they were new prospects — the relationship status is what it is. Tier 4 (genuinely new chains/foundations) is the only place for fresh BD-style outreach, and even then per the no-cold-pitch rule above.
 - Do not use hype words, hashtags, or first-person-singular voice in composed text.
