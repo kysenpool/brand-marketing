@@ -817,3 +817,77 @@
 **Suggested or applied skill adjustments:** none. The scheduler fired inside the moratorium again — flag for user: the cron schedule is landing at 06:02 PDT / 13:02 UTC, which is inside the blocked window (1am–7am PT = 08:00–15:00 UTC in summer). Consider shifting the morning cron to fire at 15:30 UTC or later to reliably clear the 7am PT boundary.
 
 ---
+
+## 2026-05-28 17:50 UTC — Run #13
+
+**Followers:** start 1,857 → end 1,858 (delta: **+1**)
+**Following:** +10 proactive (Cosmos cluster sweep), 0 follow-backs
+**Session duration:** ~90+ min (continued across two context windows; prior context handled Steps 1–8 mid-run, this context completed Steps 9–13)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. @Cardano_CF DRep Summit reply with KYSN staking URL — "The community deciding the summit on-chain is the Voltaire thesis proving itself. Delegators — stake with KYSN, your ADA voice counts: [KYSN pool URL]" — Tier 1 ad mode on high-visibility Voltaire governance post.
+2. @SeiNetwork Giga Roadmap cold BD reply (8,875 views, trending) — "Infrastructure ops at 200K TPS is a different discipline. Running validators since '19 — DM." — Tier 4 cold outreach on a trending post.
+3. Cosmos ecosystem follow cluster (10 follows: @jaekwon 26.3K, @Cryptocito 123.8K, @informalinc 42.8K, @noble_xyz 34.1K, @Thyborg_ 22.6K, @gregosuri 51.7K, @InterchainSG 23.7K, @gravity_bridge 17.5K, @SeiNetwork 772K, @alt_layer 643.3K) — high-visibility accounts with real follow-back probability.
+4. @IntersectMBO Plutus Cost Model + DRep CC governance likes — continued Cardano governance cycle.
+
+**What landed (paste the actual text):**
+- Reply to @Cardano_CF "One Week. One Cardano." DRep Summit (Tier 1 ad-mode): "The community deciding the summit on-chain is the Voltaire thesis proving itself. Delegators — stake with KYSN, your ADA voice counts: https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0" ✅ confirmed
+- Reply to @SeiNetwork Giga Roadmap (8,875 views, Tier 4 cold BD): "Infrastructure ops at 200K TPS is a different discipline. Running validators since '19 — DM." ✅ confirmed
+- Reply to @Sahila99912 (Canopy organic praise — Tier 2, prior context) ✅
+- Reply to @NathanCWest (Midnight N8 — Tier 2, prior context) ✅
+- Liked: @IntersectMBO Hydra Voting Budget Process, SPO Block production v11.0, DReps+CC Plutus Cost Model update to mainnet — plus ~12 others from prior context
+
+**What fell flat:**
+- All follow-back candidates sub-threshold or off-topic: @Rooma244359 (41 followers), @Constance128737 (5 followers, adult content), @SamuelMelton5 (off-topic), @J4IC3 (1,687 sub-2,500), @AripKiddrock (107 followers). 0/5 pass rate.
+- SSV Network "Meet the Syndicate" like was deferred — likes maxed before reaching it. Queue for Run #14.
+- Reposts: 0 (prior context handled candidates; this context resumed mid-run with likes/follows/cold BD remaining).
+- QTs: 0 (same reason).
+
+**Follow-backs (0/10):** All candidates failed filter.
+
+**Proactive follows (10/10 — MAXED):**
+1. @informalinc — Informal Systems, 42.8K, Cosmos IBC research (Dec 2019 OG)
+2. @noble_xyz — Noble, 34.1K, IBC-native digital dollar, Paradigm/Polychain-backed
+3. @jaekwon — 26.3K, Cosmos & Tendermint founder, solved PoS 2014
+4. @Cryptocito — 123.8K, Cosmos media founder (CosmoVerse HQ, Stakecito, Nov 2017 OG)
+5. @InterchainSG — ISG, 23.7K, Interchain community support (Oct 2021)
+6. @Thyborg_ — 22.6K, Cosmos strategy at @informalinc, Curator Interchain Reports
+7. @gregosuri — 51.7K, Akash Network founder (Oct 2008 OG)
+8. @gravity_bridge — 17.5K, Cosmos-Ethereum bridge (Aug 2021)
+9. @SeiNetwork — 772K, Sei "blockchain for trading," Giga Upgrade trending
+10. @alt_layer — 643.3K, AltLayer rollup infrastructure, 45+ chains
+
+**Tier mix this session:**
+- Tier 1 ad-mode actions: 4 (Cardano_CF DRep Summit reply + KYSN URL, IntersectMBO ×3 governance likes)
+- Tier 2 soft-ad actions: 3 (Sahila99912 Canopy reply, NathanCWest Midnight reply, Canopy likes from prior context)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 1 (SeiNetwork Giga Roadmap — 8,875 views, DM ask)
+
+**Actions (actual vs ceiling):**
+- likes: 15/15 ✅ MAXED
+- reposts: 0/7
+- quote-tweets: 0/3
+- replies: 4/10 (Cardano_CF, SeiNetwork, Sahila99912, NathanCWest)
+- original posts: 0/2
+- proactive follows: 10/10 ✅ MAXED
+- follow-backs: 0/10
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**BD activity surfaced:**
+- **@SeiNetwork** — 772K followers, "Blockchain for Trading," Tier 4. Giga Upgrade = 200K TPS engineering challenge. Cold outreach sent on trending post. User should consider DM follow-up to Sei team.
+- **Cosmos OG cluster followed** — @jaekwon, @Cryptocito, @gregosuri, @informalinc, @Thyborg_ are all high-signal Cosmos ecosystem actors. Reciprocal follows from any of these would be strong credibility signals.
+
+**Notable observations for self-improvement:**
+- **Cosmos sidebar-harvest pattern is highly efficient**: Follow one high-quality Cosmos account → harvest 2–3 sidebar "You might like" suggestions → repeat. Built a 10-follow Cosmos cluster in one sweep.
+- **Context-compaction mid-run means reply/repost/QT budget partially consumed before continuation** — triage remaining budget early when resuming after compaction.
+- **+1 follower this run** — consistent with 1–2 run lag pattern after warm-audience engagement.
+- **SeiNetwork Giga Roadmap** — 8,875 views 2h after publish, trending. Good timing for cold-BD visibility on a high-reach post.
+- **SSV "Meet the Syndicate" still unliked** — Tier 1 Lido/SSV post. Queue explicitly for Run #14.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **Observation:** "Cosmos OG cluster" follow pattern (follow one → harvest sidebar → repeat) is very efficient. Step 9 could mention sidebar-harvest approach explicitly.
+- **Observation:** Sei Giga Upgrade is live news cycle — add "Sei" to search queries for next 2–3 runs.
+- **Queued for Run #14:** @SSV Network "Meet the Syndicate" like (Tier 1). Sei DM follow-up opportunity.
+
+---
