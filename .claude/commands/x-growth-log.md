@@ -723,3 +723,85 @@
 - **Replaced query #29** (`restaking AVS operators wanted` — 4+ consecutive dead runs) → `Symbiotic restaking OR Karak network validators`
 
 ---
+
+## 2026-05-27 23:33 UTC — Run #11
+
+**Followers:** start 1,854 → end 1,854 (delta: **+0**)
+**Following:** +5 follow-backs + 10 proactive = +15 net added
+**Session duration:** 90 minutes (hit floor exactly)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. @oylurd + @dian_aba organic unsolicited praise — both posted independent shoutouts citing KysenPool by name as securing the Canopy network. These organic mentions are the highest-quality signal this run; acknowledged both with replies. Warm-audience reciprocity is the single highest-leverage follower-growth vector.
+2. Cosmos Hub "Follows you" badge confirmed — @cosmoshub itself follows @KysenPool. Tier 1 chain account following back is a BD credibility signal and raises organic reach in Cosmos ecosystem feeds.
+3. Intersect (@IntersectMBO) liked our Plutus Cost Model reply from a prior run — institutional validation from the Cardano governance body.
+4. Strike Finance QT (46.7K views post) — governance accountability angle on Cardano's largest treasury proposal of the cycle. QT text: "Treasury proposals need to earn their ADA — third-party audits, milestone disbursement, verifiable on-chain mechanics. Voltaire governance is only as good as what it approves. Stake ADA with kysenpool: medium.com/kysenpool"
+5. Cardano governance sweep (Hydra voting repost, @cwpaulm DRep breakdown repost + reply, @JaromirTesar DRep conflict-of-interest QT, @astroboysoup Cardano UK governance QT) — positioned @KysenPool as OG infrastructure operator with a governance POV in an active Voltaire-era debate cycle.
+
+**What landed (paste the actual text):**
+- Reply to @oylurd (Canopy praise): acknowledged organic shoutout; confirmed KysenPool in operator pool; kysenpool.io
+- Reply to @dian_aba (Canopy praise): same — second independent organic mention in same session
+- Reply to @CantonNetwork (testnet validator welcome): operator-peer voice; kysenpool.io
+- Reply to @NathanCWest (Midnight N8 Ep12): Midnight Tier 2 engagement
+- Reply to @cwpaulm (Cardano DRep governance breakdown): Cardano Tier 1 governance voice
+- Reply to @Obol_Collective (DVT/Obol): SSV Operator 536 + Obol DVT tech voice; Tier 1
+- Reply to @cosmoshub (testnet deadline + ICF delegations): Cosmos Tier 1 operator voice
+- Reply to @lilybrodi (ghost chain / 10K views Cardano defense): Cardano Tier 1 voice
+- Reply to @Padierfind: (details captured before compaction)
+- QT @JaromirTesar DRep conflict-of-interest: "Governance credibility is infrastructure too. DReps with undisclosed financial stakes in proposals they vote on is exactly the governance failure validators exist to check against. Stake ADA with kysenpool — operators who watch this. medium.com/kysenpool"
+- QT @astroboysoup Cardano UK governance event: "Governance proposals deserve real discourse before ADA moves. Events like this are where operator and delegator perspective meet — KysenPool has been staking Cardano since Byron. medium.com/kysenpool"
+- QT @strikeperps Strike Finance 7.5M ADA treasury proposal (46.7K views): "Treasury proposals need to earn their ADA — third-party audits, milestone disbursement, verifiable on-chain mechanics. Voltaire governance is only as good as what it approves. Stake ADA with kysenpool: medium.com/kysenpool"
+- Original post: Cardano governance POV (Voltaire era framing)
+- Reposts (7): @Cardano Hydra Voting, @cwpaulm Cardano governance breakdown, @astroboysoup Mithril v1.0.0, @NathanCWest Midnight N8 Ep12, @MauroAn Midnight masterclass, @USDMOfficial USDM+Pyth Oracle integration (11K views), @CantonArmy Canton DeFi ecosystem
+
+**Engagement signals received this run:**
+- @oylurd and @dian_aba posted organic @KysenPool praise for Canopy network security (unsolicited)
+- @cosmoshub follows @KysenPool ("Follows you" badge visible)
+- Intersect liked our Plutus Cost Model reply
+- ゆ reposted our SSV Operator 536 / Obol DVT reply
+- Ian Kane (Cardano/Catalyst) liked our Cosmos→Midnight reply
+
+**What fell flat:**
+- +0 follower delta despite maxed budgets — consistent with established pattern (conversions lag 1–2 runs after warm engagement)
+- @NathanCWest Cardano+Midnight perpetual futures thread: correctly filtered — too close to confidential trading territory; skipped repost/QT (used reply only on non-trading content)
+- Canopy airdrop-farm follow wave: filter held; most new followers failed (farm/airdrop pattern)
+
+**Follow-backs (5/10):**
+- @rstormsf, @JCRacefab, @FelixLts, @Dann0202C, @mrkangeloamdr (Canopy ecosystem contributor)
+
+**Proactive follows (10/10 — ceiling hit):**
+- 10 accounts across Cosmos, Cardano governance, Canton, Midnight, AI-x-crypto verticals
+
+**Tier mix this session:**
+- Tier 1 ad-mode actions: ~12 (Cardano Hydra, Mithril, Intersect, cwpaulm, cosmoshub, lilybrodi, Obol/SSV, USDM)
+- Tier 2 soft-ad actions: ~8 (Canton testnet, Canopy oylurd+dian_aba, Midnight NathanCWest, CantonArmy, MauroAn Midnight)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 1 (strikeperps governance accountability QT — new protocol on Cardano)
+
+**Actions (actual vs ceiling):**
+- likes: 15/15 ✅ MAXED
+- reposts: 7/7 ✅ MAXED
+- quote-tweets: 3/3 ✅ MAXED
+- replies: 10/10 ✅ MAXED
+- original posts: 1/2
+- proactive follows: 10/10 ✅ MAXED
+- follow-backs: 5/10
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**BD activity surfaced:**
+- @strikeperps — Cardano perps DEX proposing 7.5M ADA Voltaire treasury withdrawal; QT'd from governance accountability angle. 46.7K views on announcement post. Not a validator-set BD target (DeFi protocol, not a new chain), but engagement is appropriate as Cardano Tier 1 ecosystem adjacent.
+- @CantonArmy — Canton community amplifier; reposted their Canton DeFi ecosystem thread; worth monitoring for Canton Tier 2 engagement surfaces.
+
+**Notable observations for self-improvement:**
+- **All 5 main budgets maxed in a single run for the first time** (likes, reposts, QTs, replies, proactive follows all at ceiling). High-density Cardano governance cycle + Canopy organic praise created an unusually target-rich environment.
+- **Organic @KysenPool praise from @oylurd and @dian_aba is a new pattern**: Two independent community members cited KysenPool by name in the same session window. Canopy community amplification is real. Worth replying warmly and promptly — these are the highest-leverage moments for follow-backs.
+- **@cosmoshub follows @kysenpool**: Tier 1 chain account reciprocal follow suggests Cosmos ecosystem engagement is landing with the right audience. Worth continuing Cosmos Tier 1 engagement cadence.
+- **Strike Finance (46.7K views)** — governance accountability framing worked for a DeFi protocol post without touching the confidential trading surface. Key: anchored on treasury mechanics and Voltaire process, not the perps product itself.
+- **Cardano governance is the dominant theme across Runs #7–#11**: Voltaire era (Hydra Voting, DRep conflicts, IOG proposals, Strike Finance treasury) is producing fresh high-quality engagement surfaces every run. Continue weighting Cardano governance searches.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **Observation:** @oylurd and @dian_aba organic praise pattern suggests monitoring Canopy-adjacent Twitter search for "@KysenPool" mentions should be added to Step 4A (acknowledge engagement) sweep — navigate to https://x.com/search?q=%40KysenPool&f=live to catch organic mentions not showing in notifications.
+- **Observation:** All 5 budgets maxing in a single run with 90-minute floor means future runs should weight earlier-in-session engagement toward reposts and QTs (hardest to find) rather than likes (easiest). Once reposts and QTs are banked, likes fill in naturally.
+- **No query replacements needed this run** — Run #10 already replaced Q29; current rotation producing clean results.
+
+---
