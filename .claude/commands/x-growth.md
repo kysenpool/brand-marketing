@@ -662,6 +662,7 @@ You MAY edit `.claude/commands/x-growth.md` (this file) to improve future runs, 
 - **The Step 5 minimum-2-BD-queries-per-run mandate** (per user direction 2026-05-27). Queries inside the BD bucket itself can be tuned; the mandate that 2 of 4 mandatory queries are BD is not. The mandate can be amplified (more BD queries) but not weakened without user approval.
 - **The 2,500-follower threshold for any follow action** (per user direction 2026-05-27 — proactive, acknowledgment, and follow-back surfaces alike). The threshold can be raised (more selective) but not lowered without user approval. Applies to anyone who follows `@kysenpool` as well as anyone the routine considers following proactively.
 - **No `medium.com/kysenpool` URLs in tweets** (per user direction 2026-05-28). The routine links to `kysenpool.io` for all brand-pointer / "more info" slots; the medium blog is the BD team's manual cross-post surface, not a destination the routine drives traffic to. Chain-specific staking URLs (Tier 1 directory) and source URLs (chain news, etc.) still apply for their respective slots. The routine cannot revert this without user approval.
+- **Step 14 mandatory tab-close** (per user direction 2026-05-28). The X tab captured in Step 2 must be closed on every exit path — success, abort, error, anything. Skip is only legitimate when no tab was ever opened (Step 0 moratorium, Step 1 tools-not-loaded). Cannot be removed, weakened, or made conditional on success.
 - The "never reveal automation / never confirm bot question / silence is the response" rules
 - Step 9 ceilings
 - "What not to do" section
@@ -737,17 +738,30 @@ git push origin main
 
 ---
 
-## Step 14 — Close the X tab
+## Step 14 — Close the X tab (mandatory cleanup, runs on every exit path)
 
-Cleanup: close the X (Twitter) tab opened in Step 2 so the user's Chrome doesn't accumulate stale routine-owned tabs.
+**This step is non-negotiable** — per user direction (2026-05-28), the routine MUST close the X (Twitter) tab it captured in Step 2 before exiting, **every single run**, on **every exit path** — successful completion, early abort, hit moratorium, account switch failure, candidate pool dry, anything. Stale routine-owned tabs accumulating in the user's Chrome is the failure mode this step exists to prevent.
+
+**Normal exit (Steps 3–13 completed):**
 
 ```
 mcp__Claude_in_Chrome__tabs_close_mcp { tabId: <tabId captured in Step 2> }
 ```
 
-If the tab was already closed (e.g., the user closed it during the session) or the tabId is no longer valid, the call may error — that's fine, swallow the error and proceed to exit. Do not open a new tab just to close it.
+**Abort exits (any step bailed):** still close the tab before surfacing the abort reason to the user. Examples:
+- Step 2 account-switch failed → close the tab, then report.
+- Step 0 moratorium window → no tab was opened yet, nothing to close, skip cleanly.
+- Step 1 Chrome MCP tools not loaded → no tab was opened, nothing to close.
+- Mid-run unexpected error → close the tab, then surface the error.
 
-After the tab is closed (or the close attempt is done), the routine is complete. Exit cleanly.
+The tab close is part of "exit cleanly," not part of the success path. Treat it like a `finally` block.
+
+**Error handling on the close itself:**
+- If the tab was already closed (user closed it manually mid-session) or the tabId is no longer valid → the call errors, swallow it, proceed to exit. Intent is satisfied.
+- If the close call fails for any other reason (extension disconnected, Chrome crashed, etc.) → capture the error message in the end-of-run report under a "tab cleanup failed" line so the user can investigate. Do not retry, do not block exit.
+- **Never open a new tab just to close it.** If no `tabId` was captured (because Step 2 didn't reach the tab-context call), skip the close — nothing to clean up.
+
+After the close call (or the determination that there's nothing to close), the routine is complete. Exit.
 
 ---
 
@@ -764,6 +778,7 @@ After the tab is closed (or the close attempt is done), the routine is complete.
 - Do not post stake-with-us / "kysenpool is your validator" CTAs on Tier 2/3/4 chain content — that's Tier 1 framing. We don't (or don't yet) run validators on those chains in production, and claiming we do or implying delegators can stake with us there is misleading.
 - Do not post a stake-with-us CTA on a Tier 1 chain **without** the matching chain-specific staking URL from the "Known relationships" Tier 1 directory. A bare "Stake [TOKEN] with kysenpool" with no URL (or with `kysenpool.io` as a substitute) is a half-baked CTA — the delegator can't find the validator address. If you cannot fit substance + matching staking URL in 280 chars, trim the substance until you can; do not drop the URL.
 - Do not engage with **Kava, Harmony, or Imua** chain-specific content in any way (paused as of 2026-05-27 — see the "Paused" section in "Known relationships"). No likes, replies, quotes, follows of chain-foundation accounts, list-adds, or original posts mentioning these chains. If a foundation account from these chains mentions `@kysenpool`, silent skip. The Step 3 follower-filter exception still applies for individual people (reciprocity to a person ≠ endorsement of the chain).
+- Do not leave the X tab open after the routine finishes. Step 14 mandatory tab-close runs on **every** exit path — successful completion, early abort, account-switch failure, mid-run errors. If a `tabId` was captured in Step 2, it gets closed in Step 14. The only legitimate skip is "no tab was ever opened" (Step 0 moratorium, Step 1 Chrome MCP not loaded).
 - Do not mention Zoro, zoro.kysenpool.io, the trading-platform shift, HyperTrader specifics, or any internal product not on https://kysenpool.io. If a tweet or reply references any of these, scroll past silently — no like, no engagement, no follow on that basis.
 - Do not relitigate, comment on, or cold-pitch chains in Tiers 1, 2, or 3 of "Known relationships" as if they were new prospects — the relationship status is what it is. Tier 4 (genuinely new chains/foundations) is the only place for fresh BD-style outreach, and even then per the no-cold-pitch rule above.
 - Do not use hype words, hashtags, or first-person-singular voice in composed text.
