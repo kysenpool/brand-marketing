@@ -891,3 +891,74 @@
 - **Queued for Run #14:** @SSV Network "Meet the Syndicate" like (Tier 1). Sei DM follow-up opportunity.
 
 ---
+
+## 2026-05-28 21:02 UTC — Run #14
+
+**Followers:** start 1,854 → end 1,858 (delta: **+4**)
+**Following:** +10 proactive follows (Tier 4 new-chain BD cluster), 0 follow-backs
+**Session duration:** ~120 min (split across two context windows; 14:02 PDT start, 90-min floor at ~15:32 PDT)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. Tier 4 cold-BD proactive follows (10 new-chain accounts: @monad, @shardeum, @zircuit, @abstractchain, @linera_io, @injective, @Mantle_Official, @Scroll_ZKP, @ritualnet, @vechainofficial) — top priority per user direction; high follow-back probability from foundation/ecosystem accounts.
+2. @Padierfind Cardano marketing QT (29.2K views, May 27) — "Infrastructure held since genesis. For the staking side: delegate $ADA with KYSN as Cardano scales up." + KYSN pool URL — Tier 1 ad-mode on a high-view organic Cardano debate thread. KYSN URL embedded as card in QT.
+3. @dian_aba Canopy organic praise reply (pre-compaction) — second consecutive run with independent community @KysenPool shoutout for Canopy operator; acknowledged warmly.
+4. VeChain TRUST + Monad OTL + Sei Giga Roadmap cold BD replies (Tier 4) — multi-chain BD sweep with "Running validators since '19 — DM" credential anchor.
+5. @StoryProtocol "society if all data had receipts" QT — Tier 1 Story validator ad-mode + CDR framing.
+
+**What landed (paste the actual text):**
+- QT @Padierfind Cardano marketing (29.2K views): "Infrastructure held since genesis. For the staking side: delegate $ADA with KYSN as Cardano scales up. https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0 https://x.com/Padierfind/status/2059695386340794765" ✅ confirmed (KYSN card loaded)
+- QT @StoryProtocol "society if all data had receipts" (Tier 1 ad-mode) — pre-compaction ✅
+- QT @cosmoshub weekly update (Tier 1 Cosmos validator anchor) — pre-compaction ✅
+- Replies (~7): CantonFdn testnet welcome, @dian_aba Canopy organic praise, VeChain TRUST Tier 4 cold BD, Sei Giga Roadmap Tier 4 cold BD, @Cryptofly777 Cardano governance, Monad OTL Tier 4 cold BD, + 1 other pre-compaction
+- Reposts (7/7): @AscendPerps Midnight mainnet (pre-compaction), @MidnightNtwrk Dan Singleman privacy/capital video (Tier 2), @StoryProtocol CDR privacy UX pinned post 149K views (Tier 1), @StoryProtocol Numo "new tasks are live" 2.3K views (Tier 1), @cosmoshub Hub Weekly Update #3 882 views (Tier 1), + 2 pre-compaction (details in session transcript)
+
+**What fell flat:**
+- SSV Network "Meet the Syndicate" like — queued from Run #13, never reached this run. Queue again for Run #15.
+- Follow-back sweep: Rooma (41 followers), Constance (5 followers, adult content), Samuel Melton (off-topic), Ada (bot-like). 0/4 pass rate.
+- Tier 4 handle-guessing from chain names: 6+ failures (suspended: @initiaFND, @movementlabsxyz; non-existent: @megaeth_labs, @mega_eth, @sophon_xyz; off-topic: @forma_art). Sidebar-harvest approach is far more reliable.
+
+**Follow-backs (0/10):** All candidates failed filter (sub-threshold or off-topic).
+
+**Proactive follows (10/10 — MAXED):**
+@ritualnet (Ritual AI inference), @vechainofficial (VeChain sustainability L1), @monad (EVM-parallel L1), @shardeum (EVM sharding L1), @zircuit (ZK rollup with AI security), @abstractchain (consumer crypto L2), @linera_io (microchain protocol), @injective (L1 for finance), @Mantle_Official (EVM L2), @Scroll_ZKP (zkEVM L2)
+
+**Tier mix this session:**
+- Tier 1 ad-mode actions: ~10 (Story Protocol QT + reposts ×3, Cardano KYSN QT, Cosmos Hub reposts + like)
+- Tier 2 soft-ad actions: ~5 (Midnight reposts ×2, Canton reply, Canopy dian_aba reply, AscendPerps Midnight repost)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 4 (VeChain TRUST reply, Sei Giga reply, Monad OTL reply, + 10 proactive follows)
+
+**Actions (actual vs ceiling):**
+- likes: ~14/15
+- reposts: 7/7 ✅ MAXED
+- quote-tweets: 3/3 ✅ MAXED
+- replies: ~7/10
+- original posts: 0/2
+- proactive follows: 10/10 ✅ MAXED
+- follow-backs: 0/10
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**BD activity surfaced:**
+- **VeChain** (@vechainofficial, 272K) — sustainability-focused L1, "TRUST" enterprise partnerships. Cold reply + follow. Tier 4.
+- **Sei Network** (@SeiNetwork, 772K) — Giga Upgrade (200K TPS) trending. Cold BD reply pre-compaction. User should consider DM follow-up.
+- **Monad** (@monad) — EVM-parallel L1, OTL thread engagement, followed. Tier 4 new-chain BD priority.
+- **@cosmoshub Hub Weekly Update #3**: mentions "Ecosystem Growth delegations RFP reviews" — @kysenpool is a validator; worth watching the next Hub governance cycle for delegation opportunity.
+
+**Notable observations for self-improvement:**
+- **+4 follower delta** — best positive delta in several runs. Consistent with 1–2 run lag pattern: conversions from Run #11/13 Canopy wave + Cosmos cluster likely converting now.
+- **KYSN pool URL card embedded in QT**: X loaded the cexplorer.io URL as "[KYSN] KysenPool Thunder" card, making the CTA visually prominent in the QT. Always include the full cexplorer.io pool URL in Cardano Tier 1 ad-mode QTs.
+- **Tier 4 sidebar-harvest is more reliable than handle-guessing**: Follow one known Tier 4 account → harvest "Who to follow" sidebar → repeat. Surfaced @abstractchain, @Scroll_ZKP, @Mantle_Official, @linera_io, @zircuit reliably.
+- **QT workaround confirmed reliable again**: https://x.com/compose/post → type text ending with tweet URL → X auto-embeds as QT card. Consistent across all post-Run #9 runs.
+- **Cardano Tier 1 marketing angles still productive**: Patrick Tobler's 29.2K-view "Cardano needs users/marketing" post is the right surface for KYSN stake CTAs — organic conversation about Cardano adoption is directly where delegators are.
+
+**Queued for Run #15:**
+- SSV Network "Meet the Syndicate" like (Tier 1, Lido/SSV Operator 536) — queued since Run #13
+- Sei DM follow-up opportunity (user-directed)
+- Cosmos Hub Ecosystem Growth delegations RFP — watch for validator opportunity
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No query replacements applied this run.** Existing rotation productive; Tier 4 sidebar-harvest approach outperforms handle-guessing.
+- **Observation:** Three consecutive runs of 0 follow-backs — new follower pipeline is dominated by sub-2,500 accounts and bots; filter calibrated correctly.
+
+---
