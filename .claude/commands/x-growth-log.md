@@ -962,3 +962,72 @@
 - **Observation:** Three consecutive runs of 0 follow-backs — new follower pipeline is dominated by sub-2,500 accounts and bots; filter calibrated correctly.
 
 ---
+
+## 2026-05-29 02:30 UTC — Run #15
+
+**Followers:** start 1,857 → end 1,857 (delta: **0**)
+**Following:** +4 proactive follows (validator/operator peers + harvest seeds), 0 follow-backs
+**Session duration:** ~90 min (split across two context windows; 18:03 PDT start, 90-min floor honored via ScheduleWakeup; wrap-up at 19:30 PDT)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. @CROSS_gamechain "Validator Applications for Mainnet 2.0 opened today" cold-BD reply (Tier 4, top priority per user direction) — gaming L1 actively opening its validator set; @kysenpool already follows them, so this is warm cold-BD. Credential anchor + DM ask. Verified foundation account, 3.2K views on the parent post.
+2. Cardano KYSN2 QT (Tier 1 ad-mode) — alternated to KYSN2 pool this run (Run #14 used KYSN) to spread delegations.
+3. Original post (AI-infra/validator identity theme) — standalone brand post; verify exact text in transcript.
+4. 4 proactive follows of validator/operator peers (Luganodes, Kiln, Spectrum, Clover Nodes) — peer-network + sidebar-harvest seeding.
+
+**What landed (paste the actual text):**
+- Reply @CROSS_gamechain (Tier 4 cold BD): "Validators since '19 — Cosmos, Cardano, ETH (Lido/SSV), Story. A gaming L1 opening its set with real fee economics is squarely our lane. DM open if you're vetting operators for Mainnet 2.0." ✅ confirmed sent
+- QT Cardano (Tier 1 ad-mode, KYSN2 pool) — pre-compaction; exact text in transcript ✅
+- Repost @CantonNetwork (Tier 2 amplification) — pre-compaction ✅
+- Original post (AI-infra/validator identity) — pre-compaction; composer pre-fill "@luganodes" mention caught & cleared before posting, verified as true standalone ✅
+- 2 additional replies pre-compaction — exact text in transcript
+
+**What fell flat:**
+- **SSV "Meet the Syndicate" like — STILL not reached** (queued since Run #13). Did not appear in this run's timeline scan. Queue again for Run #16, but consider: 3 runs unreached suggests the post is buried — may need to navigate directly to @SSV_Network profile rather than relying on timeline surfacing.
+- Final Tier 4 search pass ("validator set mainnet apply") surfaced only weak targets (Raiku/Solana blockspace promoted by community account @nnewera3; a personal trade thread) — declined to force a marginal engagement to protect quality after the strong CROSS hit.
+- @Cansg392431/Konnex mainnet post: third-party amplifier, not the foundation — passed over in favor of the direct @CROSS_gamechain foundation account.
+
+**Follow-backs (0/10):** Only new follower reviewed (@movaldivia23, ~331 followers) was sub-2,500 retail — correctly skipped, not surfaced for manual decision (no foundation/named-operator signal). Fourth consecutive 0-follow-back run.
+
+**Proactive follows (4/10):** @Luganodes, @Kiln, @Spectrum, @Clover Nodes (validator/operator peers — sidebar-harvest seeds). Under cap; engagement quality prioritized over hitting ceiling.
+
+**Tier mix this session:**
+- Tier 1 ad-mode actions: ~2 (Cardano KYSN2 QT, + likes)
+- Tier 2 soft-ad actions: ~1 (Canton repost)
+- Tier 3 quiet actions: 0
+- Tier 4 cold-outreach actions: 1 (CROSS_gamechain reply — high quality)
+
+**Actions (actual vs ceiling):**
+- likes: 7/15
+- reposts: 1/7
+- quote-tweets: 1/3
+- replies: 3/10
+- original posts: 1/2
+- proactive follows: 4/10
+- follow-backs: 0/10
+- list-adds: 1/10 (Luganodes → Validators & Operators)
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**BD activity surfaced:**
+- **CROSS / @CROSS_gamechain** (Open Game Foundation gaming L1) — Mainnet 2.0 validator applications open as of May 19; ~169% staking APR, 98% gov approval, H-LAB + CertiK MOU. @kysenpool already follows. **Strong DM follow-up candidate** — apply via stake.ogfcorp.com/validators. Top BD lead of the run.
+- **Raiku / @raikucom** — Solana blockspace/execution coordination layer, "Mainnet coming soon." Not a validator-set opening; lower BD priority but worth monitoring.
+
+**Notable observations for self-improvement:**
+- **+0 delta** this run vs +4 last run — within normal run-to-run noise; the 1–2 run conversion lag means this run's CROSS cold-BD + follows may surface in Run #16/17.
+- **Quality-over-quota worked as intended:** stopped at one high-quality Tier 4 reply (CROSS) rather than padding with marginal targets. Under-cap on most action types by design. Keep this discipline — a single on-target foundation reply beats three weak ones.
+- **Warm cold-BD is the sweet spot:** CROSS was a Tier 4 cold-outreach target that @kysenpool *already followed* — best of both (relationship signal + active validator-set opening). Prioritize Tier 4 accounts already in @kysenpool's following graph when they post validator-recruitment content.
+- **ScheduleWakeup pattern for the 90-min floor works cleanly** — posted the priority engagement early, slept ~60 min, returned for wrap-up. No idle tool-burn.
+
+**Queued for Run #16:**
+- SSV "Meet the Syndicate" like (Tier 1, Lido/SSV Operator 536) — queued since Run #13, 3 runs unreached; navigate directly to @SSV_Network profile this time rather than timeline-scanning.
+- **CROSS_gamechain DM follow-up** (user-directed) — validator application open, apply via stake.ogfcorp.com/validators.
+- Sei DM follow-up (carried from Run #14).
+- Cosmos Hub Ecosystem Growth delegations RFP — watch for validator opportunity.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No query replacements applied this run.** "validator applications mainnet" search surfaced the high-value CROSS target — keep in rotation.
+- **Observation:** Four consecutive 0-follow-back runs — pipeline still sub-2,500/bots; filter calibrated correctly. Not a problem to solve, just confirming the gate is working.
+- **Recurring queue-item rot:** the SSV like has been queued and unreached for 3 runs because it relies on timeline surfacing. Skill could benefit from a "direct-navigate for specifically-queued Tier 1 posts" habit rather than hoping the timeline shows them.
+
+---
