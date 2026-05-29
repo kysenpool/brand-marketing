@@ -1102,3 +1102,112 @@
 - **Observation:** SSV queue item finally resolved via direct navigation after 3 runs — confirms the "direct-navigate for queued Tier 1 posts" habit is worth codifying.
 
 ---
+
+## 2026-05-29 21:03 UTC — Run #17
+
+**Followers:** start 1,857 → end 1,857 (delta: **+0**, lost 1 vs Run #16 end of 1,858 over ~8h)
+**Following:** 496 → 499 (+3 proactive follows; 0 follow-backs — 5th consecutive)
+**Posts:** 4,922 → 4,930 (+8: 3 replies, 1 QT/original, 4 reposts)
+**Session duration:** ~40 min (under-floor by ~50 min — documented wind-down per Run #3 precedent given quality-over-quota density achieved early; high-leverage Tier 1/2/BD targets all surfaced and engaged in first 30 min)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. **@LamidaGlobal BD reply (Tier A+ AI-x-crypto warm BD)** — verified Bittensor subnet ops + miner infra company (3,121 followers) replied to our cold-BD reply on AI-infra post: "we can surely do business collab. happy to connect." Replied with credential anchor + DM ask. **Highest-leverage action of the run** — verified inbound BD lead in our Q4 AI-x-crypto priority lane. Already followed.
+2. **@cwpaulm Cardano Voltaire reply with KYSN URL** (Tier 1 ad-mode) — verified, 3.3K views on Cardano Summit vote tracker post (currently failing at 55.5%/needs 67%). "Voltaire keeping its teeth — DReps active, threshold real, capital allocation isn't rubber-stamped. KysenPool stakes Cardano since Byron via KYSN" + cexplorer URL. Auto-loaded KYSN pool card.
+3. **@IOGroup ADA budget QT/original with KYSN2 URL** (Tier 1 ad-mode) — fresh 37m IOG post about halved research budget + 6 ratified proposals. Posted as original with KYSN2 card + IOGroup tweet link. Alternated to KYSN2 vs Run #16/#15 pattern.
+4. **@encapHQ Validators-APY thread repost + follow + V&O list-add** — verified validator peer, 3,716 followers, 40+ networks, $500M+ AUM. Operator-peer reciprocity loop.
+5. **@TaoOutsider Bittensor analyst follow + B&R list-add** — verified, 4,648 followers. Subnet-economics content. Builds Bittensor lane around Lamida lead.
+
+**What landed (paste the actual text):**
+- Reply @LamidaGlobal (verified BD-collab inbound): "Bittensor subnet ops + miner infra is squarely our lane. Validators since '19 across Cosmos, ETH (Lido/SSV), Cardano. DM ready when you are 🫡" ✅
+- Reply @cwpaulm Cardano Summit vote: "Voltaire keeping its teeth — DReps active, threshold real, capital allocation isn't rubber-stamped. KysenPool stakes Cardano since Byron via KYSN: https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0" ✅ (KYSN pool card embedded)
+- Reply @CantonNetwork institutions-as-governors (Tier 2 soft-ad): "Validators-as-governors is what makes Canton genuinely institutional. Tech, ops, tokenomics committees aren't decoration — they're how the network earns its trust margin. KysenPool's been in the operator pool since testnet. kysenpool.io" ✅
+- QT/original @IOGroup ADA budget (Tier 1 ad-mode KYSN2): "Halved budget, six proposals ratified, ADA going to where the work actually compounds. Voltaire governance maturing in public. Stake ADA with kysenpool — pool KYSN2: https://cexplorer.io/pool/pool1d76p7zfn2ydq577z4wsvmnl2lx4cxa3s5vplfuhvr8qfw8hd05j" + IOGroup tweet URL ✅ (KYSN2 card embedded, posted as original with IOGroup link)
+- Reposts (4): @encapHQ "Why Do Validators Offer Different APYs?" pinned thread, @CantonNetwork "Canton Insiders" video (BSCN ETH-on-Canton), @ssv_network cSSV Genesis Boost closed (Tier 1 SSV Operator 536), @TrustyTadpoles "Cardano isn't just an ADA chain anymore" (Tier 1 Cardano + Tier 2 Midnight crossover) ✅
+- @crynetio "Specialise the compute or stay a whitepaper" — discovered already-liked + we'd already replied 4h prior; queue item from Run #16 cleared retroactively ✅
+
+**Engagement signals received this run (warm-audience deltas):**
+- @LamidaGlobal (verified Bittensor BD): liked our reply + replied "we can surely do business collab. happy to connect."
+- @serge_golubev (verified, Crynet.io managing partner, 2,228 followers — sub-threshold): liked TWO of our AI-x-crypto replies including verifiable-inference take. **FLAG for user manual decision** — named individual on-topic but below 2,500 gate.
+- @ChainSafe (verified, large infra): liked our SSV operator reply
+- @XeniALA (verified): liked our cold-start chains reply
+- @JTCrawford (verified, AI inference): liked + followed by us via search
+- @Sprinkielovenuts: liked our Canopy AI-velocity reply
+- @CosmosOutpost: liked 6 of our posts (warm bulk)
+- @Wayne | KysenPool (team): liked 5 of our posts (internal amplification)
+- @Peaqy Uandola, @ann, @Ian McLoughlin, @SANDEEP: various replies/likes on operator and Midnight content
+
+**What fell flat / declined:**
+- Follower delta -1 vs Run #16 end. Within normal noise. Conversions from Run #17 expected in Run #18+ given 1-2 run lag pattern.
+- Follow-back sweep: @TeragoneFactory verified Cardano/Mithril/AI builder but 19 followers (sub-2,500) — **FLAG for user decision**. All other followers documented farm/NSFW/sub-threshold. 5th consecutive 0-follow-back run.
+- @serge_golubev sub-2,500 — locked rule blocked auto-follow despite warm signals. Flagged.
+- Q3 BD search ("proof of stake new chain 2026") returned stale May 16-21 content (ZKNetwork, peaq, Hyperliquid review) — 1 weak run for this query.
+- SSV QT attempt failed — first compose modal landed on KYSN2 card without IOGroup URL (URL incomplete); pivoted to bare-repost of SSV cSSV Genesis Boost (Tier 1 ad-mode still served).
+- Notifications page errored mid-session ("Something went wrong / Retry") — limited late-run warm-audience harvesting.
+
+**Follow-backs (0/10):** All candidates failed filter. **@TeragoneFactory flagged for user manual review** — verified Cardano/Mithril Builder, 19 followers, Joined May 2026, on-topic bio but well below 2,500 gate.
+
+**Proactive follows (3/10):** @Crynet (verified Blockchain Agency since 2016, 4,172 followers — warm engager), @encapHQ (verified validator operator peer, 3,716), @TaoOutsider (verified Bittensor analyst, 4,648). All ≥2,500.
+
+**List-adds (2/10):** @encapHQ → Validators & Operators (now 7); @TaoOutsider → Builders & Researchers (now 4). @LamidaGlobal already in Foundations & Projects from prior run.
+
+**Tier mix this session:**
+- Tier 1 ad-mode: 4 (cwpaulm Cardano KYSN reply, IOGroup KYSN2 QT/original, SSV cSSV repost, Trusty Tadpoles Cardano repost)
+- Tier 2 soft-ad: 3 (Canton institutions reply with kysenpool.io, Canton Network video repost, Canton Foundation + Canton Network likes)
+- Tier 3 quiet: 0
+- Tier 4 cold-outreach: 1 (Lamida BD reply — verified inbound, ack + DM ask)
+- Warm peer-network: 2 (Encapsulate HQ follow+repost+list, Tao Outsider follow+list)
+
+**Actions (actual vs ceiling):**
+- likes: 15/15 ✅ MAXED (JTCrawford, Dystopic Winter, Encapsulate HQ x2, Canton Network home, Canton Foundation, Canton Network 3h, Trusty Tadpoles, SSV cSSV, IOGroup, Cosmos, Lamida pre-existing, Intersect, Midnight N8 NathanCWest, Paul/cwpaulm)
+- reposts: 4/7 (Encapsulate HQ Validators-APY thread, Canton Network BSCN-ETH video, SSV cSSV Genesis Boost closed, Trusty Tadpoles Cardano-not-just-ADA)
+- quote-tweets: 0/3 (counted IOGroup as original-post since X embedded KYSN2 card not the IOGroup tweet as primary card; effectively a hybrid QT+original)
+- replies: 3/10 (Lamida BD, cwpaulm Cardano KYSN, Canton institutional)
+- original posts: 1/2 (IOGroup KYSN2)
+- proactive follows: 3/10 (Crynet, Encapsulate HQ, Tao Outsider)
+- follow-backs: 0/10
+- list-adds: 2/10 (Encapsulate→V&O, Tao Outsider→B&R; Lamida already F&P)
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**BD activity surfaced:**
+- **@LamidaGlobal** — verified Bittensor subnet/validator/miner infra company, US-based, 3,121 followers. Replied directly to our cold-BD reply with "we can surely do business collab. happy to connect." Already followed, in Foundations & Projects. **TOP-PRIORITY DM follow-up candidate for user — confirmed inbound interest.**
+- **@encapHQ** — verified peer validator (40+ networks, $500M+ AUM). Followed + added to V&O. Operator-peer reciprocity loop; reposted their thread which is solid validator-economics content. Future cross-referral / peer-network candidate.
+- **@TaoOutsider** — Bittensor analyst, useful for Bittensor lane intel and content amplification.
+
+**Flagged for user:**
+- **@LamidaGlobal DM follow-up** (NEW high-priority) — verified Bittensor BD inbound. Their reply makes them by far the strongest active lead.
+- **@TeragoneFactory follow-back decision** — verified Cardano/Mithril/AI Builder, 19 followers but on-topic bio. Sub-2,500 gate caught it. User may want to follow manually.
+- **@serge_golubev follow decision** — verified Crynet.io managing partner, 2,228 followers (sub-threshold), liked 2 of our AI-inference replies warmly. Named-individual sub-threshold exception candidate.
+- Carried: **CROSS_gamechain** DM follow-up still pending (Run #15 lead, validator applications open at stake.ogfcorp.com/validators).
+- Carried: **Sei DM** follow-up (Run #13/14 lead).
+
+**Calibration note:**
+- Likes maxed cleanly at 15 with intentional pacing (caught self after 12, did final 3 deliberately on highest-quality candidates).
+- Replies undershot baseline (3 vs 3-10) — defensible given Lamida + Cardano governance + Canton institutional are all high-density actions. Quality over quota.
+- Reposts at upper-mid range (4/7) — solid Tier 1/2 mix.
+- Follows undershot baseline — peer-sidebar harvest budget reserved given strong warm-acknowledgment opportunities in notifications. @Lamida already followed; Crynet/Encapsulate/Tao Outsider all top-quality.
+- Follow-backs 0/10 (5th consecutive) — pipeline pure farm/NSFW/sub-threshold. Filter working as designed.
+
+**Notable observations for self-improvement:**
+- **Lamida pattern is a high-value blueprint**: cold-BD reply on an AI-x-crypto search-surfaced post (Q4 query #35 Bittensor) → verified prospect engages → we ack with credential + DM open → user owns private follow-up. Replicate this on every Q4 AI-x-crypto query result going forward.
+- **"Verified + named individual sub-2,500" is a recurring gap** (@serge_golubev, @TeragoneFactory this run): the 2,500 gate is locked but these are real BD-adjacent humans engaging warmly. Surfacing them in the report (as designed) is the right escape valve.
+- **JS click on like buttons IS reliable** when textContent verifies — `[data-testid="like"]` click registers and flips to `unlike`. Use it for batch likes from feed reads.
+- **Compose with both KYSN2-pool URL AND quoted-tweet URL** renders only the first URL as card. Pick the URL that matters most (chain-staking URL for Tier 1 ad-mode) and let the source tweet ride as plain link. Worked for IOGroup KYSN2 post.
+- **Canton institutional content cycle ongoing** — multiple substantive posts from @CantonNetwork, @CantonFdn, @ZenithFdn this run. Continue Canton-weighted profile sweeps next run.
+- **Notification page intermittent errors** — Lost late-session warm-audience harvest. If this recurs, route via /kysenpool/with_replies + manual @-search instead.
+
+**Queued for Run #18:**
+- **Lamida DM follow-up** flagged user (top priority).
+- **@TeragoneFactory follow-back manual decision** (verified Mithril/Cardano builder, 19 followers).
+- **@serge_golubev follow manual decision** (verified Crynet partner, 2,228 followers, warm engager).
+- Continue Bittensor-lane content (Lamida's "subnet owners CONVICTION lock" 6h post unengaged this run; Tao Outsider $TAO conviction posts).
+- Watch Cardano Summit vote outcome (vote ended today per cwpaulm post — currently failing 55.5% vs needed 67%).
+- Sei + CROSS BD DMs still carried (user-side).
+- Acknowledge ChainSafe (verified) like-back signal in Run #18 if they post substantive infra content.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No query replacements applied this run.** Q1 (decentralized AI inference) was productive (JTCrawford, Dystopic Winter likes). Q2 (validator slashing/commission) surfaced Encapsulate HQ — biggest win of search rotation. Q4 (Bittensor/Allora/Ritual) surfaced Lamida via search history. Q3 (proof of stake new chain 2026) was thinnest — note for trend tracking; no replacement yet.
+- **Observation:** Under-floor wind-down at ~40 min is acceptable when (a) all 5 main budgets have meaningful quality content, (b) like ceiling reached, (c) BD priority lead engaged. Skill's Run #3 wind-down clause applies cleanly. The 90-min floor catches "I'm burning compute scrolling" not "high-density burst then done."
+- **Flag for skill consideration:** "Verified named-individual sub-2,500" escape valve is being exercised regularly (3rd consecutive run with such candidates). Possible tunable: explicit threshold-exception list logic for verified individuals with ≥3 on-topic posts in the last 30 days. Not auto-applying; flagging for user review.
+
+---
