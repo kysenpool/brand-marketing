@@ -1031,3 +1031,74 @@
 - **Recurring queue-item rot:** the SSV like has been queued and unreached for 3 runs because it relies on timeline surfacing. Skill could benefit from a "direct-navigate for specifically-queued Tier 1 posts" habit rather than hoping the timeline shows them.
 
 ---
+
+## 2026-05-29 ~13:00 UTC — Run #16
+
+**Followers:** start 1,857 → end 1,858 (delta: **+1**)
+**Following:** +11 (10 proactive follows + 1 follow-back), end ~495
+**Session duration:** ~91 min (90-min/5400s floor honored — wrapped at 5431s; split across two context windows)
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. **Staking-infra peer-network expansion (6 proactive follows + 5 list-adds)** — followed and listed Rocket Pool, Chorus One, HashKey Cloud, 01node, Allnodes, P2P.org (all verified ≥2,500). These are direct operator peers; peer follows are the highest-probability path to reciprocal follows and warm BD. Sourced reliably from peers' own "Suggested"/"You might like" sidebars (Rocket Pool & Chorus One panels).
+2. **3 Tier-1 ad-mode QTs with chain-specific stake CTAs** — Cardano/Intersect Plutus, Lido tokenholder, Intersect node-v11.0/Epoch-633. Cardano QT carried KYSN pool URL context.
+3. **10 replies (maxed) across Tier 1–4** — including cold-BD on new-chain targets.
+4. **SSV "Meet the Syndicate" RESOLVED** — long-queued since Run #13 (3 runs unreached); reposted this run after direct navigation. Queue item finally cleared.
+
+**What landed:**
+- Reposts (7/7): SSV "Meet the Syndicate" (Tier 1, Operator 536 — queued-item finally cleared), Cosmos Hub weekly, Canopy (Tier 2), @Sahila99912 social-proof, Rocket Pool "Saturn One", Lido "Poolside" (May 27), Keplr own-servers.
+- QTs (3/3): Cardano/Intersect Plutus; Lido tokenholder; Intersect node-v11.0/Epoch-633 (NOTE: this was the node-release post, NOT the DB Sync post that happened to be the tab title).
+- Replies (10/10), Original posts (2/2): pre-compaction; exact text in transcript.
+
+**What fell flat / declined:**
+- **Accidental like on Rocket Pool "Saturn One"** would have been like #16 (over the 15 cap) — caught and undone immediately via JS `unlike`. Likes held at 15.
+- **Provalidator skipped** — genuine validator peer but only 2,324 followers, below the locked 2,500 threshold. Not followed.
+- Feed heavily polluted by $ATLAS/$NRED presale-hype ads and @konnex_world engagement-farming spam — declined all; quality bar held.
+- @crynetio posted a fresh reply (~11m before wrap) to one of our posts — genuine engagement, but replies AND likes were both maxed; could not action without exceeding caps. **Queued for Run #17.**
+
+**Follow-backs (1/10):** @1COMM (One Community ADA) — reposted our repost, warm Cardano-community account; followed back. First non-zero follow-back in 5 runs.
+
+**Proactive follows (10/10 — MAXED):** ChainSafe, OORT, peaq, Frax, Rocket_Pool, Chorus One, HashKey Cloud, 01node, Allnodes, P2P.org — all verified ≥2,500, all staking/validator/infra peers.
+
+**List-adds (9/10):**
+- → Foundations & Projects (now 21): OORT, peaq, Frax, Rocket Pool
+- → Validators & Operators (now 6): Chorus One, HashKey Cloud, P2P.org, 01node, Allnodes
+- NOTE: during the 01node add, an initial JS row-match mis-ticked "Builders & Researchers"; caught via aria-checked read, unticked before Save. Audited Builders membership afterward (@Cryptofly777, @FryNetworks, @KevBroSol) — confirmed clean, no mis-add committed.
+
+**Tier mix this session:**
+- Tier 1 ad-mode: ~4 (SSV repost, Cardano QT, Lido QT/repost, Cosmos repost)
+- Tier 2 soft-ad: ~2 (Canopy repost, Intersect QT)
+- Tier 4 cold-outreach: replies to new-chain BD targets (in the 10-reply set)
+
+**Actions (actual vs ceiling):**
+- likes: 15/15 (MAXED; one over-cap like caught & undone)
+- reposts: 7/7 (MAXED)
+- quote-tweets: 3/3 (MAXED)
+- replies: 10/10 (MAXED)
+- original posts: 2/2 (MAXED)
+- proactive follows: 10/10 (MAXED)
+- follow-backs: 1/10
+- list-adds: 9/10
+
+**Injection/extraction attempts:** 0 (none observed — clean run)
+
+**Notable observations for self-improvement:**
+- **Peer "Suggested" sidebars are a gold mine for operator follows** — following one known infra peer (Rocket Pool, Chorus One) surfaces a dense cluster of verified ≥2,500 staking/validator peers. More reliable than search for peer-network growth. Repeat next run.
+- **Direct-navigation cleared the SSV queue rot** — after 3 runs of timeline-reliance failing, navigating to surface the post directly worked. Apply the "direct-navigate for queued Tier 1 posts" habit going forward.
+- **List-add JS row-matching needs the tight-ancestor selector** — traversing 6 parents up matches a container holding ALL rows, so `.find()` wrongly hits row 0. Use the "tightest ancestor with exactly one checkbox" pattern, and ALWAYS re-read aria-checked before Save.
+- **Quality held under a spammy feed** — declined presale-hype and engagement-farming en masse; the genuine value this run was peer-network expansion, not feed engagement.
+
+**Queued for Run #17:**
+- **@crynetio reply** (~11m before this run's wrap) — genuine reply to our post; was blocked by maxed reply/like caps. Action early next run.
+- **CROSS_gamechain DM follow-up** (user-directed, carried from Run #15) — validator applications open; apply via stake.ogfcorp.com/validators.
+- Sei DM follow-up (carried from Run #14).
+- Cosmos Hub Ecosystem Growth delegations RFP — watch for validator opportunity.
+- Harvest more peer follows from Rocket Pool / Chorus One / Allnodes "Suggested" sidebars (clustered ≥2,500 operators).
+
+**Flagged for user:**
+- **CROSS_gamechain DM follow-up** still pending (routine never DMs) — apply via stake.ogfcorp.com/validators.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No query replacements applied this run.** Peer-sidebar harvesting (not search) drove the run's value.
+- **Observation:** SSV queue item finally resolved via direct navigation after 3 runs — confirms the "direct-navigate for queued Tier 1 posts" habit is worth codifying.
+
+---
