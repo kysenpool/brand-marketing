@@ -1211,3 +1211,15 @@
 - **Flag for skill consideration:** "Verified named-individual sub-2,500" escape valve is being exercised regularly (3rd consecutive run with such candidates). Possible tunable: explicit threshold-exception list logic for verified individuals with ≥3 on-topic posts in the last 30 days. Not auto-applying; flagging for user review.
 
 ---
+
+## 2026-05-30 13:03 UTC — Run #18 (SKIPPED — moratorium)
+
+**Status:** No-op. Session start hit at 06:03 AM PDT, inside the 1am–7am Pacific moratorium window defined in Step 0. Stopped immediately without loading Chrome MCP tools, switching accounts, or taking any X actions.
+
+**Followers:** not measured (no account switch performed).
+
+**Action taken:** none. Routine exited at Step 0.
+
+**Suggested or applied skill adjustments:** none. The scheduler fired inside the moratorium window again — flag for user: consider adjusting the cron schedule to land outside 1am–7am PT (08:00–14:00 UTC in summer PDT).
+
+---
