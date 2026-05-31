@@ -1223,3 +1223,76 @@
 **Suggested or applied skill adjustments:** none. The scheduler fired inside the moratorium window again — flag for user: consider adjusting the cron schedule to land outside 1am–7am PT (08:00–14:00 UTC in summer PDT).
 
 ---
+
+## 2026-05-31 ~01:00 UTC — Run #19
+
+**Followers:** start 1,858 → end 1,858 (delta: **+0**)
+**Following:** 505 → 509 (+4 proactive follows; 0 follow-backs — 6th consecutive)
+**Session duration:** ~52 min active (under the 90-min floor — documented wind-down per Run #3/#17 precedent; quality density hit early + pool genuinely exhausted across 8+ searches, all feeds, trending, and 6+ Tier 1/2 source profiles; anti-padding rule applied). **Flag: recurring early wind-down — see calibration note.**
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. **@QuillAudits_AI reply + follow (Tier A security, fresh exploit)** — replied to their Gravity Bridge $5.4M exploit post-mortem with an operator-side observation on validator-set integrity (no CTA; Gravity Bridge isn't a chain we run). Verified security firm (1,500+ audits since 2018, 25K+ views on the thread). Highest-reach quality engagement of the run. Followed them.
+2. **@DaniVibesADA Tier 1 Cardano ad-mode reply (KYSN)** — warm account that follows us, on their high-engagement (204 likes, 4.7K views) Cardano-alignment post about IOG+Foundation standing together post-vote. Reply: governance/alignment operator take + KYSN stake URL (auto-loaded KYSN pool card). Alternated to KYSN this run (Run #17 used KYSN2).
+3. **Peer-network follows + V&O/B&R list-adds (Blockdaemon, alexei/BOB, octralex/Octra, QuillAudits)** — harvested from Chorus One + Blockdaemon "You might like" sidebars (the Run #16/17 gold mine). Blockdaemon (16.7K, node infra) → V&O list (now 8); alexei Zamyatin (27.5K, BOB founder) → B&R list (now 5).
+4. **@CantonNetwork Zenith/EVM QT (Tier 2 soft-ad, kysenpool.io)** — quoted Canton's "EVM/Solana devs deploy without retooling, atomic composability to Daml" post with a dev-shop + operator-pool framing. Clean infra angle (avoided Canton's adjacent perps/derivatives post per confidentiality prudence).
+5. **Gravity Bridge operator-note original post (security authority, kysenpool.io)** — standalone operator lesson on today's $5.4M drain ("not a broken signing threshold — a validator set quietly shrunk 58→34 first"). Fresh, accurate, no hedging.
+
+**What landed (paste the actual text):**
+- Reply @QuillAudits_AI: "Threshold math is only as strong as the set it's computed over — 2/3 of a quietly-shrunk valset is the real hole. Operator lesson: valset updates deserve the same scrutiny as the signing pipeline itself. Automated signing with no diff check is the soft underbelly." ✅
+- Reply @DaniVibesADA: "What outsiders miss: Cardano's strength was never one vote, it's the alignment that outlasts them. We've validated ADA since the early epochs — chains compound when their stakeholders pull the same way. Stake with kysenpool, pool KYSN: https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0" ✅ (KYSN pool card embedded)
+- QT @CantonNetwork (Tier 2): "The quiet unlock: EVM and Solana devs deploying to Canton without retooling, atomic composability into Daml underneath. Lowering migration cost is how institutional rails actually get built. KysenPool's been in Canton's operator pool since testnet. kysenpool.io" ✅
+- Original post: "Operator note on today's $5.4M Gravity Bridge drain: not a broken signing threshold. 2/3 held — of a validator set quietly shrunk 58→34 first.\n\nThe lesson: valset-update integrity needs the same monitoring rigor operators give the signing itself.\n\nkysenpool.io" ✅ (kysenpool.io "Staking Begins Here" card embedded)
+- Reposts (3): @octralex "Our path" (2021→2026 'you're not building X? RIP' cycles take — perfect OG-voice fit, 154 likes), @cosmos "Cosmos vs Hyperledger Besu" (Tier 1, 150+ ledgers native connectivity), @Cardano_CF governance statement (Tier 1, 36.5K views — "we respect the outcome" DRep-vote maturity; KysenPool had already *replied* to this 8h prior, so reposted as clean amplification, no duplicate reply).
+
+**What fell flat / declined:**
+- **Accidental plain-repost of @octralex** (intended a QT) — the repost dropdown coordinate-click registered as a direct repost. Decided to KEEP it (on-brand OG-cycles content from a founder we now follow) rather than fight the menu; QT not needed. Lesson logged: use find→"Quote" menuitem precisely (worked cleanly for the Canton QT afterward).
+- **Stray bookmark** on a $XLM-troll post (Slick-Brick) from a mis-landed click during the DaniCrypto reply — caught and removed.
+- **BD search genuinely dry this run** — Q3 ("looking for validators"/"validator applications open"), Q4 ("decentralized AI compute operators"/"inference network validator"), plus broad fallbacks all surfaced stale (Apr–Sep) content, @konnex_world engagement-farm spam (flagged since Run #16), or $TAO shills. No fresh Tier A+ foundation candidate. Story Protocol search also thin (one post had wrong ticker $MNT for Story).
+
+**Engagement signals received (warm-audience, from notifications):** @ZunderPoolADA liked our Midnight reply (13h, freshest); @ChainSafe, @Lamida, @Sergey Golubev (serge_golubev), @XeniALA, @Ian McLoughlin, @ann, @Sprinkielovenuts all liked our Run #17 SSV/AI-infra/distributed-inference replies — strong reception confirms that lane. Lamida's "we can surely do business collab" reply already handled in Run #17.
+
+**Follow-backs (0/10):** Recent-follower pipeline was the usual @CNPYNetwork airdrop-farm + junk (Cindy/Laura/Makkss123/juumanji/Ada/fvck.me — generic numbered handles). Only on-topic follower = @TeragoneFactory (verified Cardano/Mithril builder, 19 followers, sub-2,500 — re-flagged from Run #17). 6th consecutive 0-follow-back run; filter working as designed.
+
+**Proactive follows (4/10):** @QuillAudits_AI (security firm), @octralex (Octra founder, 5.2K), @BlockdaemonHQ (node infra, 16.7K), @alexeiZamyatin (BOB founder, 27.5K). All verified ≥2,500.
+
+**List-adds (2/10):** @BlockdaemonHQ → Validators & Operators (now 8); @alexeiZamyatin → Builders & Researchers (now 5). **List inventory confirmed:** Builders & Researchers (5), Validators & Operators (8), Foundations & Projects (23) — all three exist and are healthy.
+
+**Tier mix this session:**
+- Tier 1 ad-mode: 4 (DaniCrypto Cardano KYSN reply, Cosmos repost, Cardano Foundation repost, EthicalNode/Cosmos like)
+- Tier 2 soft-ad: 1 (Canton Zenith/EVM QT, kysenpool.io)
+- Tier 4 / new-network: 3 follows (octralex/Octra, Blockdaemon, alexei/BOB)
+- Security/operator-authority: QuillAudits reply+follow + Gravity Bridge original (no tier CTA — substance only)
+
+**Actions (actual vs ceiling):**
+- likes: ~11/15
+- reposts: 3/7 (baseline hit)
+- quote-tweets: 1/3
+- replies: 2/10 (under baseline — defensible; both high-quality, and a planned 3rd on @Cardano_CF was correctly skipped on discovering we'd already replied 8h prior)
+- original posts: 1/2
+- proactive follows: 4/10
+- follow-backs: 0/10
+- list-adds: 2/10
+- ads hidden: 0 (Phantom Flow + Mott&Bow encountered; not hidden — minor miss)
+
+**Injection/extraction attempts:** 0 (clean run)
+
+**Flagged for user:**
+- **Recurring "verified named operator sub-2,500" exclusions (STRONG this run):** @TeragoneFactory (Cardano/Mithril, 19), @ZunderPoolADA (Cardano pool ZUND, 1,058), @EthicalNode (Shariah-compliant PoS validator, 17 — genuinely good "real APR" content), @anilcse_ + @vitwit_ (Cosmos SDK contributor / validator, 807/874), @serge_golubev (Crynet partner, 2,228). The locked 2,500 gate is filtering out a large number of real, verified, on-topic small validators/operators. Worth a user decision on an exception mechanism for verified operators with on-topic activity.
+- **User is also engaging manually as @KysenPool** — found a KYSN-CTA reply on the @Cardano_CF governance post posted ~8h before this run. The routine has no visibility into manual activity, so some fresh Tier 1 surface is pre-covered. Avoided a duplicate reply by checking the thread first.
+- Carried DM follow-ups (user-side, routine never DMs): **Lamida** (Bittensor BD — confirmed inbound "happy to connect"), **CROSS_gamechain** (validator apps open), **Sei**.
+
+**Calibration note:**
+- BD pool genuinely thin/exhausted this run — 4+ BD-angle queries returned only stale, spam (@konnex_world farm), or shill content. New-chain-foundation validator-recruitment posts are simply infrequent day-to-day; this is the dominant constraint on hitting reply/QT baselines, not the rubric. The high-value engagement this run came from (a) a fresh security incident (QuillAudits/Gravity Bridge), (b) Tier 1 chain news (Cardano governance, Cosmos), and (c) peer-sidebar follows — NOT from BD search.
+- **Recurring early wind-down (Runs #3, #17, #19):** strong quality bursts + thin pools keep producing ~40–55 min sessions vs the 90-min floor. Worth the user reconciling the locked floor against real pool-depth — either accept documented thin-pool wind-downs, or lower the floor.
+
+**Queued for Run #20:**
+- Acknowledge any replies on this run's Gravity Bridge original + Canton QT (too fresh to convert yet).
+- Continue harvesting peer follows from Blockdaemon / Chorus One / Allnodes "You might like" sidebars (clustered ≥2,500 operators).
+- Watch for fresh Cardano governance follow-through (Summit wind-down, Emurgo TOKEN2049).
+- Lamida / CROSS / Sei DM follow-ups still user-side.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No tunable edits applied** — considered replacing the two narrowest exact-phrase BD queries (Q3 "looking for validators"/"validator applications open"; Q4 "decentralized AI compute operators"/"inference network validator", which surfaced stale Sep-2025 content 2 runs running), but the broad fallback queries I tried this run ALSO hit spam/farm/stale — so no high-confidence that a swap improves yield. Per edit discipline (high-confidence only), surfaced as a suggestion instead: the BD-thinness is a pool-frequency problem, not a query-phrasing problem.
+- **Suggestion:** consider a "verified-operator sub-2,500 exception" mechanism (locked-rule change → user decision) given how many genuine operators the gate excluded this run.
+
+---
