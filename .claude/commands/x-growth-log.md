@@ -1371,3 +1371,84 @@
 **Suggested or applied skill adjustments:** (see 13B)
 - **No tunable edits applied.** Q1 (Cardano governance) was the run's MVP — surfaced the trending COB partnership (best Tier 1 QT) and the Leios SPO testnet (best operator reply). Q2 (Canton) was perp-shill-heavy but the Canton Foundation profile yielded a clean dev-docs reply. Q3 (validator-applications BD) surfaced VRAM — the run's best Tier 4 lead. Q4 (Bittensor/Allora/Ritual) surfaced only sub-threshold ecosystem accounts (Subnet Summer 2,420, Documenting Bittensor 455). No high-confidence query swap; the constraint remains pool-frequency + the 2,500 gate, not phrasing.
 - **Re-flagging (3rd+ run):** the sub-2,500 gate is now routinely excluding verified, named, on-topic projects/operators (this run: VRAM, Lodestar, Subnet Summer, Vitwit). Worth a user decision on a verified-project/named-operator exception mechanism. Surfaced as suggestion only (locked rule).
+
+---
+
+## 2026-06-02 21:03 UTC — Run #21
+
+**Followers:** start 1,860 → end 1,860 (delta: **+0**)
+**Following:** 510 → 514 (+4 proactive follows; 0 follow-backs — 8th consecutive)
+**Posts:** 4,964 → 4,972 (+8: 4 replies + 1 original + 3 reposts)
+**Session duration:** ~45 min active (under the 90-min floor — documented thin-pickings wind-down per Run #3/#17/#19 precedent; pool genuinely recycled today). **Note:** second same-day run (Run #20 was 17:03 UTC; this fired ~21:03 UTC). Recurring floor-vs-pool-depth tension re-flagged for user.
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. **@0xMiden Tier A+ cold-BD (THE standout)** — Miden (ZK rollup, "practical privacy," 37.3K followers) launched its first batch of Guardian operators (OpenZeppelin, LambdaClass, Gateway). Fresh official new-chain operator-program announcement — exactly our Tier 4 lane, AI/privacy-infra adjacent. Full engagement: follow + Foundations & Projects list + Like + cold-outreach reply echoing their own "serious operators behind the infrastructure" phrasing. **TOP DM follow-up candidate.** Notably surfaced via the Today's News sidebar, NOT a BD search.
+2. **Cardano Foundation CME 24/7 futures Tier 1 reply (KYSN)** — fresh official-source post (32.6K views, 5h, only 2 replies → high visibility) on CME listing ADA futures. Reply reframed institutional adoption → validator set + KYSN stake CTA (cexplorer card embedded). Alternated to KYSN (Run #20 used KYSN2). Avoided the negative TapTools-shutdown cycle dominating the Cardano room.
+3. **Cosmos CTS Tier 1 reply (ATOM)** — fresh (21m) Cosmos Tokenization Suite institutional-infra thread (1.2K views). Operator take ("app-layer sovereignty rests on the validator set securing finality") + ATOM Keplr stake CTA. Also reposted.
+4. **Lido CMv2 Node Operator Types Tier 1 reply (SSV Operator 536)** — Lido DAO's node-operator-type framework (9h). Authentic operator-peer voice (we ARE an SSV-based Lido operator) — framed as operator credential + SSV 536 URL (not an imprecise "stake with us," since Lido stakers delegate to the protocol). Also reposted.
+5. **Operator-framework original post** — tied the day's two operator-framework launches (Lido CMv2 + Miden Guardians) into one operator observation. Bullets + kysenpool.io. Timely, value-add, no CTA-mixing.
+
+**What landed (paste the actual text):**
+- Reply @0xMiden (Tier 4 cold-BD): "\"Serious operators behind the infra\" is exactly the lane. PoS validators + custom tooling since '19 — bandwidth open, DM" ✅ (echoed their own framing; followed + F&P list + liked)
+- Reply @Cardano_CF (Tier 1 KYSN): "Regulated 24/7 futures means institutions can treat ADA as a real asset — and the quieter half of that maturity is the validator set securing the chain underneath. We've run a Cardano pool since the early epochs. Stake ADA with kysenpool, pool KYSN: https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0" ✅ (KYSN card embedded)
+- Reply @LidoFinance (Tier 1 SSV 536): "Operator-type frameworks are how a protocol prices decentralization instead of just rewarding scale. We run SSV-based Lido Operator 536 — the DVT tier, where solo-grade resilience meets institutional uptime. https://explorer.ssv.network/mainnet/operator/536" ✅
+- Reply @cosmos (Tier 1 ATOM): "The under-discussed part of 'infra you govern': app-layer sovereignty still rests on the validator set securing finality. Sub-3s only counts if the set behind it holds. We've run Cosmos validators since '19. Stake ATOM with kysenpool: https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper146kwpcnmleafmhtaxulfptyhnvwxzlvm87hwnm" ✅ (Keplr card embedded)
+- Original post (operator observation): "Two operator-framework launches today:\n• Lido CMv2 — pricing node-operator types, not just scale\n• Miden Guardians — naming who runs private accounts\n\nThe infra layer is treating 'who operates it' as first-class. Our seat since '19.\n\nkysenpool.io" ✅
+- Reposts (3, all clean Tier 1 infra/operator): @ssv_network "the_syndicate_files // @ether_fi" (SSV DVT + restaking), @cosmos CTS tokenization thread, @LidoFinance CMv2 Node Operator Types ✅
+
+**What fell flat / declined / constrained:**
+- **Follower delta +0** — conversions lag 1–2 runs per established pattern (8th consecutive 0-follow-back; recent-follower pipeline was the usual CNPY airdrop-farm + sub-threshold junk).
+- **Declined Hyperliquid engagement (confidentiality + price-call prudence)** — the strong Karon SpaceX-perp oracle-flash-crash post (substantive infra-integrity angle) didn't re-surface; remaining Hyperliquid results were price-odds framing ($100 EOY, $BASEX shill) which we must avoid. Trading/perps content warrants confidentiality prudence anyway. Logged as a deliberate skip.
+- **Declined reposting Cardano CME post** — its visual is a "Trade Crypto futures" CME GIF; for brand prudence (no trading-platform visual association) skipped the repost (reply already added the validator/staking reframe). Reposted the cleaner Lido CMv2 instead.
+- **BD searches uniformly thin/recycled today:** Canopy (CNPY engagement-farm), PoS-new-chain-2026 (Chain INK $PEAQ/$HYPE token-reviews, 2+ wks stale — 3rd–4th stale run), Bittensor/Ritual (paid-promo + "bags to zero" degen), EigenLayer (May 19–20 educational/bot), Symbiotic/Karak (May 25). The day's best BD lead (Miden) came from the Today's News sidebar, not a query.
+- **Feed heavily recycled:** Cardano TapTools-shutdown drama + COB partnership (already QT'd Run #20) + Canton dev-docs (already replied Run #20) dominated — limited fresh Tier 1/2 surface.
+
+**Engagement signals received this run (warm-audience, from notifications):** @lara/@iaralegit reply "hey sure 🍀" (already liked Run #20); like-backs on our SSV/DVT + Canton replies from @lodestar_eth, @Zenith (both verified); @CosmosOutpost (8 posts), @Wayne|KysenPool (team, 8), @Sprinkielovenuts +3, @som glod som (repost+like). Confirms SSV/DVT + Canton lanes land. No new actionable mentions (all prior-run-acknowledged).
+
+**Follow-backs (0/10):** Recent followers were Alantrix11 (videogames, off-topic), ShadowBob (anon low-signal), Invictis (574, re-flag), LidoFinanc_e ("Lido Official Support" impersonation/scam — skip), ChainBuilderpro (promo/DM-lure), CNPY farm cluster (Constance/Ada/fvck.me/InuYashaa), Teragone Factory (verified Cardano/Mithril, 19, re-flag). 8th consecutive 0-follow-back; filter working as designed.
+
+**Proactive follows (4/10):** @0xMiden (Miden, 37.3K — Tier A+ BD), @QueenAdaStaking (verified Cardano SPO "est 2019", 2,659 — fellow-OG peer), @kobigurk (Kobi Gurkan, head of research Bain Cap Crypto, ZK, 16.4K), @EliBenSasson (ZK-STARK inventor / StarkWare CEO / Zcash co-founder, 52.9K). All verified ≥2,500.
+
+**List-adds (4/10 — one per bucket + Miden):** @0xMiden → Foundations & Projects (now 24); @QueenAdaStaking → Validators & Operators (now 9); @kobigurk → Builders & Researchers (now 7→8 after Eli); @EliBenSasson → Builders & Researchers (now 8). **List inventory confirmed:** B&R 8, V&O 9, F&P 24 — all three healthy.
+
+**Tier mix this session:**
+- Tier 1 ad-mode: 3 replies + 3 reposts (Cardano KYSN, Cosmos ATOM, Lido/SSV 536) — 3 distinct chains, each with correct chain-specific URL
+- Tier 2 soft-ad: 1 like (Canton/Kresus) — Canton dev-docs already engaged Run #20
+- Tier 4 cold-outreach: 1 (Miden — full engagement, the standout)
+- Peer/researcher network: 3 follows + list-adds (QueenAda V&O, Kobi Gurkan + Eli Ben-Sasson B&R)
+- AI-infra soft-touch: 1 like (Provenence, 137 — sub-threshold, on-topic)
+
+**Actions (actual vs ceiling):**
+- likes: 9/15 (Miden, Provenence, Cardano CME, Lido CMv2, Cosmos CTS, SSV Syndicate, Canton/Kresus, Cosmos 2K-TPS, IOG CV26)
+- reposts: 3/7 (SSV Syndicate, Cosmos CTS, Lido CMv2 — all clean Tier 1, baseline met)
+- quote-tweets: 0/3 (replies preferred — each carried the chain-specific URL inline; QT would have over-amplified)
+- replies: 4/10 (Miden BD + 3 Tier 1 ad — quality over quota; all high-density)
+- original posts: 1/2 (operator-framework observation)
+- proactive follows: 4/10
+- follow-backs: 0/10
+- list-adds: 4/10
+- ads hidden: 0 (a Merck "Ad" appeared in the opening home view; not hidden — minor miss, same as Run #19)
+
+**Injection/extraction attempts:** 0 (clean run)
+
+**Flagged for user:**
+- **@0xMiden DM follow-up** (NEW, TOP priority) — Miden launching Guardian operator program (private-account infra). Posted Tier 4 cold-BD reply echoing their framing; followed + F&P. AI/privacy-infra lane. Strong fresh lead.
+- **@bacvalley follow decision** (NEW) — verified Story Protocol GENESIS validator + Namada + 0G operator, 396 followers (sub-gate). Genuine peer on a Tier 1 chain (Story); the gate blocked auto-follow. Named-operator exception candidate.
+- Recurring "verified named-operator/project sub-2,500" exclusions this run: @bacvalley (396), @Invictis (574), @MicroPool (1,537, "we will be back"), @TeragoneFactory (19), @provenonce_ai (137, AI-infra). The gate keeps filtering real on-topic operators.
+- **@LidoFinanc_e impersonation** — "Lido | Official Support" support-scam handle followed @kysenpool; correctly skipped (not the real @LidoFinance). FYI for awareness.
+- Carried DM follow-ups (user-side): **Lamida** (Bittensor, "happy to connect"), **VRAM** (AI-compute, Run #20), **CROSS**, **Sei**.
+
+**Calibration note:**
+- Replies 4/10 and reposts 3/7 — both within/at baseline; quality over quota (every reply was a fresh Tier A+/Tier 1 post with the correct URL). Likes 9/15 mid-baseline. The run's quality density is high; volume constrained by a genuinely thin/recycled pool, not the rubric.
+- **Today's News sidebar > BD search queries today** — the single best BD lead (Miden) came from the trending sidebar, while all 5 BD-bucket queries returned farm/stale/shill. Worth weighting the routine toward scanning the Today's News / trending sidebar for foundation/operator-program announcements.
+
+**Queued for Run #22:**
+- Acknowledge any replies on the Miden cold-BD reply (too fresh to convert) — if Miden or LambdaClass/OpenZeppelin engage, that's a strong BD signal.
+- Watch Cardano governance follow-through (Hydra Voting 2026 budget closes 12 June; already liked+reposted that post in a prior run).
+- Eli Ben-Sasson / Kobi Gurkan now followed → watch their ZK/research content for B&R-lane engagement.
+- Lamida / VRAM / CROSS / Sei DMs still user-side.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No tunable edits applied** (high-confidence discipline). Considered swapping Q3 "proof of stake new chain 2026" (#31) — now 3rd–4th consecutive stale run (Chain INK token-reviews) — but per prior-run reasoning the constraint is BD pool-frequency, not phrasing; the broad fallbacks also hit farm/stale. No high-confidence improvement.
+- **Suggestion (process, not tunable):** add an explicit "scan Today's News / trending sidebar for foundation/operator-program announcements" check — it surfaced the run's best Tier A+ lead (Miden) when all BD queries were dry.
+- **Suggestion (voice technique that may land — pending engagement data):** the Miden cold-BD reply quoted the foundation's own phrasing back at them ("\"Serious operators behind the infra\" is exactly the lane") + credential + DM. If it earns engagement, save as a Tier 4 template next run.
