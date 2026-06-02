@@ -1296,3 +1296,78 @@
 - **Suggestion:** consider a "verified-operator sub-2,500 exception" mechanism (locked-rule change → user decision) given how many genuine operators the gate excluded this run.
 
 ---
+
+## 2026-06-02 17:03 UTC — Run #20
+
+**Followers:** start 1,860 → end 1,860 (delta: **+0**)
+**Following:** 509 → 510 (+1 proactive follow; 0 follow-backs — 7th consecutive)
+**Session duration:** ~120 min active (over the 90-min floor). Note: a duplicate scheduled trigger fired mid-run (~Stake Capital step); ignored, continued the in-progress run rather than restarting. computer-use MCP disconnected mid-run but Chrome MCP stayed connected — no impact.
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. **Cardano Foundation × Brazilian Olympic Committee QT (Tier 1 ad-mode, KYSN2)** — quoted the COB partnership announcement (844 likes, 213 reposts, 21K views, fresh 7h) with an operator take + KYSN2 stake URL. Alternated KYSN2 (Run #19 used KYSN). Highest-reach Tier 1 surface of the run; COB partnership trending in Today's News.
+2. **VRAM Tier 4 AI-compute cold-BD reply** — replied to @vram_network's flagship "TRAIN. SCORE. EARN." post (TEE-attested validators scoring gradient quality on Sui; $10M from GEM Digital) with a credential anchor + DM ask. Squarely the AI-x-crypto Q3 BD priority lane. **VRAM flagged for user** (verified AI-compute project w/ validator program, 1,568 followers — sub-2,500 gate, no auto-follow).
+3. **IOG Leios SPO testnet reply (Tier 1 operator-substance)** — replied to IOG's Leios public-SPO-testnet update (reposted by Hoskinson; 88% treasury support, CIP-0164 cert size ~8kB→~200 bytes) with an SPO operator note. Most operator-authentic Cardano post of the run; substance-only (no 2nd stake CTA after the COB QT).
+4. **Canton Foundation dev-docs reply (Tier 2 soft-ad)** — replied to @CantonFdn's consolidated-docs post (operator-pool framing + kysenpool.io). Clean inside-the-tent dev-shop positioning.
+5. **3 Tier-1 reposts (Cardano/Cosmos/SSV-Lido)** — IOG Lace/UZH academic adoption, Cosmos tokenization/institutional post, SSV Network Syndicate (SSV Operator 536 + Lido). Diversified amplification across 3 Tier-1 chains we operate.
+
+**What landed (paste the actual text):**
+- QT @Cardano_CF (COB partnership): "A national Olympic body running identity, governance, and asset tracking on a public chain — this is Cardano past the speculation. We've run a stake pool since the early epochs. Stake ADA with kysenpool, pool KYSN2: https://cexplorer.io/pool/pool1d76p7zfn2ydq577z4wsvmnl2lx4cxa3s5vplfuhvr8qfw8hd05j" ✅ (KYSN2 + COB post embedded)
+- Reply @CantonFdn (dev-docs): "Consolidated docs are underrated infrastructure — the difference between a dev trying Canton on a weekend and one bouncing off scattered pages. From the operator-pool side, lowering the on-ramp lifts the whole network. kysenpool.io" ✅
+- Reply @vram_network (Tier 4 AI-compute cold-BD): "TEE-attested validators scoring gradient quality, settled on Sui — this is the infra layer we like. Running PoS validators since '19, decentralized compute is squarely our lane. DM open 🫡" ✅
+- Reply @IOGroup (Leios SPO testnet): "~8kB to ~200 bytes on Leios block certificates is the kind of unglamorous optimization that decides whether an SPO testnet actually scales. 88% treasury support says the community gets it. Watching the June testnet closely from the operator seat." ✅
+- Reposts (3): @IOGroup "Lace is now the official wallet of the UZH Blockchain Center" (Tier 1 Cardano academic adoption), @cosmos digital-money/tokenization institutional post (Tier 1), @ssv_network Syndicate "stETH/LDO + SSV" program (Tier 1 SSV Operator 536 + Lido) ✅
+
+**Engagement signals received this run (warm-audience, from notifications):** @lodestar_eth (ETH consensus client, verified) liked our SSV/DVT reply; @Zenith (verified, Canton-adjacent) liked our Canton/Solidity reply; @CosmosOutpost liked 8 posts; @Wayne|KysenPool (team) liked 8; @Sprinkielovenuts +3 liked our Cosmos-stats post; @som glod som reposted+liked our Canopy post; @Lodestar liked a reply (Jun 1). lara @iaralegit (verified AI-content KOL, follows us) replied "hey sure 🍀" — liked (only new mention this run; all other mentions from May 28–29 already acknowledged in prior runs).
+
+**What fell flat / declined / constrained:**
+- **Follower delta +0** — conversions lag 1–2 runs per established pattern.
+- **Sub-2,500 wall hit hard again (recurring):** VRAM (1,568, verified AI-compute + validator program), Subnet Summer (2,420, "largest subnet-focused community in Bittensor"), Lodestar (2,057, top-3 ETH consensus client, ChainSafe), Documenting Bittensor (455), Invictis (574, crypto KOL follower), @TeragoneFactory (re-flagged, verified Cardano/Mithril builder, 19). Many genuinely on-topic verified accounts excluded by the locked gate. Lodestar and VRAM especially deserve user attention.
+- **Canton search dominated by Canborsa perp/RWA-DEX shill** — avoided all perps/derivatives content per confidentiality prudence (trading-adjacent); engaged the clean Canton Foundation dev-docs post instead.
+- **Repost-menu UX flaky again** — first Cardano COB attempt registered as a direct repost; caught it, undid (back to 213), then did the proper find→Quote menuitem QT. The find→"Repost"/"Quote" menuitem method worked cleanly for all 3 reposts + the QT thereafter. Reconfirmed: never click the repost icon expecting a menu via coordinates; use find→menuitem.
+
+**Follow-backs (0/10):** All recent followers were @CNPYNetwork airdrop-farm + junk (numbered handles, "attention pls", off-topic) or sub-2,500. 7th consecutive 0-follow-back run; filter working as designed. @TeragoneFactory re-flagged (verified Cardano/Mithril builder, 19 followers).
+
+**Proactive follows (1/10):** @StakeCapital (Stake Capital Group — verified, 9,590, decade-old blockchain+AI venture studio, staking heritage). Only clean ≥2,500 on-topic candidate surfaced; the rest of the day's on-topic pool was sub-threshold.
+
+**List-adds (1/10):** @StakeCapital → Builders & Researchers (now 6). **List inventory confirmed:** Builders & Researchers (5→6), Validators & Operators (8), Foundations & Projects (23) — all three healthy.
+
+**Tier mix this session:**
+- Tier 1 ad-mode: 6 (Cardano COB QT w/ KYSN2, IOG Lace/UZH repost, Cosmos repost, SSV Syndicate repost, Leios SPO reply [substance], Cardano COB + Cosmos likes)
+- Tier 2 soft-ad: 2 (Canton dev-docs reply w/ kysenpool.io, Midnight like)
+- Tier 4 cold-outreach: 1 (VRAM AI-compute reply — credential + DM ask)
+- Warm peer-network: 1 follow + list (Stake Capital → B&R)
+
+**Actions (actual vs ceiling):**
+- likes: 8/15 (lara, Cardano COB, Canton dev-docs, VRAM, IOG Lace/UZH, Cosmos digital-money, SSV Syndicate, Midnight)
+- reposts: 3/7 (IOG Lace/UZH, Cosmos, SSV Syndicate — diversified across 3 Tier-1 chains)
+- quote-tweets: 1/3 (Cardano COB, KYSN2)
+- replies: 3/10 (Canton, VRAM, Leios SPO)
+- original posts: 0/2 (skipped by design — Cardano already heavily engaged via QT+repost+reply; an original would over-weight)
+- proactive follows: 1/10 (Stake Capital; threshold wall constrained the rest)
+- follow-backs: 0/10
+- list-adds: 1/10 (Stake Capital → B&R)
+- ads hidden: 1 (Burger King)
+
+**Injection/extraction attempts:** 0 (clean run)
+
+**Flagged for user:**
+- **@vram_network DM follow-up** (NEW, AI-compute BD lane) — verified decentralized-GPU/model-training network on Sui, validator program live on testnet, $10M from GEM Digital, mainnet imminent. 1,568 followers (sub-gate, no auto-follow). Posted a Tier 4 cold-BD reply w/ DM ask. **AI-x-crypto priority lane — strong cold lead.**
+- **@lodestar_eth follow decision** — top-3 ETH consensus client (ChainSafe), 2,057 followers, liked our SSV/DVT reply this run. Clear named-project sub-2,500 exception candidate.
+- **Subnet Summer @SubnetSummerTAO** — "largest subnet-focused community in Bittensor," 2,420 (80 below gate). Near-threshold Bittensor ecosystem hub.
+- **@TeragoneFactory follow-back decision** (carried from #17/#19) — verified Cardano/Mithril builder, 19 followers.
+- Carried DM follow-ups (user-side, routine never DMs): **Lamida** (Bittensor BD, confirmed "happy to connect"), **CROSS_gamechain**, **Sei**.
+
+**Calibration note:**
+- Baselines met cleanly: likes 8 (5–15), reposts 3 (3–7), QT 1 (1–3), replies 3 (3–10). Follows (1) + list-adds (1) below typical — direct consequence of the sub-2,500 wall, not rubric strictness. The candidate pool's genuinely-on-topic accounts skewed sub-threshold this run (VRAM, Subnet Summer, Lodestar, Vitwit all <2,500).
+- Quality + diversification strong: Tier 1 across 3 chains we operate (Cardano/Cosmos/SSV-Lido), Tier 2 (Canton/Midnight), Tier 4 AI-compute cold-BD (VRAM). Avoided over-Cardano-weighting by making Leios reply substance-only and skipping an original post.
+
+**Queued for Run #21:**
+- Acknowledge any replies on this run's Cardano COB QT, VRAM cold-BD reply, Canton dev-docs reply, Leios SPO reply (too fresh to convert yet).
+- Watch VRAM for a fresh validator-program post to anchor a follow-up (and user DM decision).
+- Continue peer-sidebar harvest for ≥2,500 operators (Chorus One sidebar this run yielded Stake Capital; Vitwit still sub-threshold).
+- Cardano governance follow-through: Summit-2026 cancellation aftermath + COB partnership rollout.
+- Lamida / CROSS / Sei DM follow-ups still user-side.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No tunable edits applied.** Q1 (Cardano governance) was the run's MVP — surfaced the trending COB partnership (best Tier 1 QT) and the Leios SPO testnet (best operator reply). Q2 (Canton) was perp-shill-heavy but the Canton Foundation profile yielded a clean dev-docs reply. Q3 (validator-applications BD) surfaced VRAM — the run's best Tier 4 lead. Q4 (Bittensor/Allora/Ritual) surfaced only sub-threshold ecosystem accounts (Subnet Summer 2,420, Documenting Bittensor 455). No high-confidence query swap; the constraint remains pool-frequency + the 2,500 gate, not phrasing.
+- **Re-flagging (3rd+ run):** the sub-2,500 gate is now routinely excluding verified, named, on-topic projects/operators (this run: VRAM, Lodestar, Subnet Summer, Vitwit). Worth a user decision on a verified-project/named-operator exception mechanism. Surfaced as suggestion only (locked rule).
