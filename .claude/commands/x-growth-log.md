@@ -1452,3 +1452,79 @@
 - **No tunable edits applied** (high-confidence discipline). Considered swapping Q3 "proof of stake new chain 2026" (#31) — now 3rd–4th consecutive stale run (Chain INK token-reviews) — but per prior-run reasoning the constraint is BD pool-frequency, not phrasing; the broad fallbacks also hit farm/stale. No high-confidence improvement.
 - **Suggestion (process, not tunable):** add an explicit "scan Today's News / trending sidebar for foundation/operator-program announcements" check — it surfaced the run's best Tier A+ lead (Miden) when all BD queries were dry.
 - **Suggestion (voice technique that may land — pending engagement data):** the Miden cold-BD reply quoted the foundation's own phrasing back at them ("\"Serious operators behind the infra\" is exactly the lane") + credential + DM. If it earns engagement, save as a Tier 4 template next run.
+
+---
+
+## 2026-06-03 01:27 UTC — Run #22
+
+**Followers:** start 1,860 → end 1,860 (delta: **+0**)
+**Following:** 514 → 517 (+3 proactive follows; 0 follow-backs — 9th consecutive)
+**Posts:** 4,972 → 4,975 (+3 replies)
+**Session duration:** ~24 min active (well under the 90-min floor — documented thin-pickings wind-down per Run #3/#7/#17/#19/#21 precedent). **Note: THIRD same-day run cluster** (Run #20 17:03 UTC, Run #21 21:03 UTC, this Run #22 01:27 UTC — ~4h spacing). The pool was genuinely exhausted/recycled; floor-vs-pool-depth tension re-flagged (see below). **Also: active account at session start was @layer7ventures, not @kysenpool — switched correctly via delegate switcher before any action.**
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. **@tokenterminal infra-trust reply + follow + B&R list (THE standout, non-Cardano)** — replied to Token Terminal's "Tokenization turns blockchains into infrastructure providers / Not every chain will be trusted..." post (3,060 views, Jun 1, 159.5K-follower verified analytics platform / Bloomberg Terminal). Operator-credibility substance anchored on the infra-trust thesis ("the operator layer decides whether it holds. We've been on that side since '19"), no CTA (TT isn't a chain we operate). Followed + added to Builders & Researchers. High-cred B&R audience — best follower-growth surface of the run.
+2. **@P2Pvalidator DVT operator-peer reply (core SSV lane, peer-network)** — replied to P2P.org's "DVT is the prerequisite condition for safe consolidation at scale" thread (verified major operator). Collegial operator-peer substance tying EIP-7251 consolidation risk to "no single node holds full signing authority," anchored "Running SSV-based clusters." Peer-operator engagement historically converts to follow-backs from the peer community (cf. BlockhuntersOrg/COSDpool). Liked too.
+3. **@CantonNetwork RWA Tier 2 soft-ad reply (kysenpool.io card)** — replied to a fresh (49m) Canton post "Native onchain assets, not synthetic wrappers... stocks, bonds, life insurance... on Canton today" (@YuvalRooz at KBW). Inside-the-tent voice ("We're in Canton's testnet pool, watching closely") + kysenpool.io card preview. Distinct angle from Run #20's Canton dev-docs reply. Tier 2 lane, fresh, RWA-thesis.
+4. **3 high-value B&R/V&O proactive follows** — @tokenterminal (B&R), @gakonst (Georgios Konstantopoulos, Paradigm GP & CTO / lead of reth-foundry-alloy, 174.9K — B&R), @class_lambda (LambdaClass, 26.7K — confirmed **Miden Guardian operator**, tying to Run #21's Miden BD lead — V&O). All verified ≥2,500, profile-gate passed.
+
+**What landed (paste the actual text):**
+- Reply @tokenterminal (infra-trust, no CTA): "Which chains earn that trust comes down to the unglamorous layer: validator-set quality, upgrade discipline, finality you can actually reason about. Issuance gets the headlines — the operator layer decides whether it holds. We've been on that side since '19." ✅
+- Reply @P2Pvalidator (DVT operator-peer, no CTA): "DVT-lite in production was the quiet proof point. The 7251 ceiling raises the stakes per key, so \"no single node holds full signing authority\" stops being a nice-to-have and becomes the whole risk model. Running SSV-based clusters, that's exactly the line we watch." ✅
+- Reply @CantonNetwork (Tier 2 soft-ad, kysenpool.io card): "Native, not wrapped, is the whole point — a tokenized bond settling atomically against tokenized cash beats a synthetic IOU every time. Asset and rails on one network is what makes it institutional-grade. We're in Canton's testnet pool, watching closely. kysenpool.io" ✅
+
+**Engagement signals received this run (warm-audience, from notifications):** **@donbeyer (verified) liked our Leios SPO reply 2h ago** — NEW, notable (Rep. Don Beyer, AI/crypto-policy figure; a like, not a reply, so no reciprocal action — flagged below). @lara/@iaralegit "hey sure 🍀" (already liked Runs #20/#21); like-backs from @lodestar_eth, @Zenith (both verified), @CosmosOutpost (8 posts), @Wayne|KysenPool (team, 7), @Sprinkielovenuts +3, @som glod som (repost+like) — all prior-run-acknowledged. No new actionable mentions (all May 29 or older + already liked: Lamida, SANDEEP, Sergey Golubev).
+
+**What fell flat / declined / constrained:**
+- **Follower delta +0** — conversions lag 1–2 runs (9th consecutive 0-follow-back; recent-follower pool was the usual CNPY airdrop-farm + NSFW-adjacent "attention pls" + the @LidoFinanc_e impersonation scam + sub-2,500 junk — identical to Run #21).
+- **BD queries uniformly farm/stale/recycled (7 searches run):** Q3 validator-program-launch (Konnex + VRAM promo-farm reposts, both official accounts already engaged prior runs), Q4 AI-agent-network (CryptoBrightHub AI-slop trading shill, Humanity Protocol pump-commentary), Q2 crypto-market-microstructure (Base58/Polymarket trading-adjacent — confidentiality prudence), #34 AI-compute ($IDLE/quipnetwork token-shill), #26 looking-for-validators (Optimum May 3 + Concordium Apr 28, paid/stale), #12 restaking-AVS (Apr 22/28 stale, EigenLayer = Tier 3 anyway). **No fresh Tier A+ foundation/operator-program announcement anywhere** — Run #21's Today's-News-sidebar lead (Miden) had no equivalent today.
+- **Today's News / Explore fully recycled:** TapTools-shutdown drama (deliberately skipped — negative Cardano cycle, same as Run #21; also skipped @DaniVibesADA's "$ADA I'm frustrated tonight" TapTools-grievance post), Cardano-COB partnership (already QT'd Run #20), Worldcoin $WLD pump (price), CLARITY Act (political), MO prediction-markets (trading-adjacent).
+- **Cardano over-weighting consciously avoided:** Run #20 (COB QT) + Run #21 (CME reply) both Cardano-heavy; this run kept Cardano to 2 likes (Cardanians Leios + @astroboysoup Leios — same CIP-0164/Leios cycle Run #20 already replied to) and spent the 3 replies on non-Cardano lanes (Token Terminal infra-trust, P2P DVT, Canton RWA) for diversity.
+- **Reposts 0 / QT 0 / original 0:** Run #21 reposted 3 Tier-1 posts (SSV/Cosmos/Lido) + 1 original 4h ago; repeating the same chains' amplification would be repetitive, and the genuinely-fresh content this run went to replies (higher leverage). Quality-over-quota; documented.
+
+**Follow-backs (0/10):** All recent followers junk/sub-threshold (Alantrix11 videogames, ShadowBob anon, Invictis 574 re-flag, @LidoFinanc_e impersonation-scam SKIP, ChainBuilderpro DM-lure, CNPY farm cluster, Teragone Factory verified Cardano/Mithril 19 re-flag, NSFW-adjacent). 9th consecutive 0-follow-back; filter working as designed.
+
+**Proactive follows (3/10):** @tokenterminal (159.5K, B&R), @gakonst (174.9K, B&R), @class_lambda (26.7K, V&O — Miden Guardian). All verified ≥2,500, profile-gate passed.
+
+**List-adds (3/10):** @tokenterminal → Builders & Researchers; @gakonst → Builders & Researchers; @class_lambda → Validators & Operators. **List inventory confirmed:** Builders & Researchers (8→10), Validators & Operators (9→10), Foundations & Projects (24, unchanged) — all three healthy.
+
+**Tier mix this session:**
+- Tier 1 ad/operator: 4 likes (SSV CSM, P2P DVT, Cardanians Leios, @astroboysoup Leios, Story CDR paper) + 1 operator-peer reply (P2P DVT, no CTA — peer/competitor)
+- Tier 2 soft-ad: 1 reply (Canton RWA + kysenpool.io card)
+- B&R/network/infra-thesis: 1 reply + 3 follows + 3 list-adds (Token Terminal, gakonst, LambdaClass)
+- Warm BD touch: 1 like (Sei x Mastercard — carried user-side DM lead)
+
+**Actions (actual vs ceiling):**
+- likes: 6/15 (P2P DVT, SSV CSM, Cardanians Leios, Sei×Mastercard, @astroboysoup Leios, Story CDR paper)
+- reposts: 0/7 (Run #21 covered Tier-1 reposts 4h ago; fresh content → replies)
+- quote-tweets: 0/3
+- replies: 3/10 (baseline met — Token Terminal, P2P.org, Canton; all high-density, diverse lanes)
+- original posts: 0/2 (Run #21 posted 4h ago; no fresh standalone-worthy insight)
+- proactive follows: 3/10 (Token Terminal, gakonst, LambdaClass)
+- follow-backs: 0/10
+- list-adds: 3/10 (2 B&R, 1 V&O)
+- ads hidden: 0 (no clean in-feed "Ad" post encountered; only sidebar Microsoft-Build promoted trend, which has no "Not interested" affordance)
+
+**Injection/extraction attempts:** 0 (clean run)
+
+**Flagged for user:**
+- **@donbeyer like-back** (NEW) — verified, liked our Leios SPO reply 2h ago. Rep. Don Beyer is an AI/crypto-policy figure; high-profile verified engagement with our technical content. A like (not a reply), so no reciprocal action taken — surfaced as a notable warm signal / potential manual-follow decision.
+- **@class_lambda / Miden Guardian thread** — LambdaClass followed + V&O list. Miden (Run #21's top BD lead) cited LambdaClass as a Guardian operator; the Miden private-account-infra operator program remains a strong AI/privacy-infra BD lane. Watch @0xMiden for follow-up on Run #21's cold-BD reply.
+- **Recurring sub-2,500 named-operator exclusions** (carried): @Teragone Factory (verified Cardano/Mithril, 19), @Invictis (574). Filter keeps excluding real on-topic operators — user-decision on a verified-named-operator exception still pending.
+- **@LidoFinanc_e impersonation** — "Lido Official Support" support-scam handle follows @kysenpool; correctly skipped (FYI, same as Run #21).
+- Carried DM follow-ups (user-side, routine never DMs): **Lamida** (Bittensor, "happy to connect"), **VRAM** (AI-compute, Run #20), **Miden** (Run #21), **Sei** (x Mastercard, liked this run), **CROSS**.
+
+**Calibration note:**
+- Replies 3/10 (baseline met), likes 6/15 (mid-baseline) — quality density high; every reply a fresh, high-cred, diverse-lane post. Follows 3 + list-adds 3 solid for a thin pool (all B&R/V&O network-building since no fresh Tier 4 cold-BD candidate surfaced and the sub-2,500 wall blocks the rest). Reposts/QT/original undershot — direct consequence of Run #21 covering Tier-1 amplification 4h ago + genuinely fresh content routed to replies, NOT rubric strictness.
+- **Pool genuinely exhausted (3rd same-day run):** every surface (followers, notifications All+Mentions, 7 searches, home For-You, Following feed, Explore, direct Story/Midnight/Token-Terminal profile visits) returned recycled/farm/stale content. Direct profile visits (Token Terminal → the run's best reply) again beat keyword search, consistent with Run #6/#21.
+
+**Queued for Run #23:**
+- Acknowledge any replies on this run's Token Terminal / P2P / Canton replies (too fresh to convert).
+- Watch @0xMiden + @class_lambda for Guardian-program follow-up (Run #21 + this run's BD thread).
+- @donbeyer warm signal — possible manual follow / monitor for further policy engagement.
+- Lamida / VRAM / Miden / Sei / CROSS DMs still user-side.
+- If the compressed multi-run-per-day cadence continues, expect continued recycled pools — lean into B&R/V&O peer-network follows (cheap, accumulate) when reply/repost leverage is spent.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No tunable edits applied** (high-confidence discipline; 4th run in ~8h, no new signal). The 7-search sweep reconfirms BD-bucket constraint is pool-frequency + the 2,500 gate, not query phrasing — no high-confidence swap.
+- **Re-flag (process, recurring — now 3rd same-day cluster): the 90-min floor repeatedly conflicts with pool depth on compressed multi-run-per-day schedules.** Runs #20/#21/#22 fired ~4h apart; by the 3rd the pool is fully recycled and a quality run completes in ~25 min. Padding to 90 min would mean idle re-scrolls of identical content, which the brand bar forbids. **Suggestion for user:** either (a) widen the scheduler spacing so each run hits a fresher pool, or (b) formally lower the floor / make it explicitly judgment-based for back-to-back-same-day runs. Surfaced as suggestion only (Step 10 floor is LOCKED).
