@@ -1685,3 +1685,83 @@
 **Suggested or applied skill adjustments:** (see 13B)
 - **No tunable edits applied** (high-confidence discipline). The 6-search sweep again confirms the BD-bucket constraint is pool-frequency + the 2,500 gate, not phrasing — no high-confidence swap. The strong output this run vs. #20–23 is fully explained by pool freshness (11.5h gap), validating the standing re-flag rather than suggesting a rubric/query change.
 - **Re-flag (process, recurring):** (a) **the 90-min floor vs pool depth** — this run hit all baselines and exhausted the fresh quality pool in ~46 min; padding to 90 would mean idle re-scrolls of engaged content (brand-bar conflict). Same suggestion stands: widen scheduler spacing and/or make the floor judgment-based. (b) **NEW — browser_batch (Chrome MCP) reliability:** the batch tool errored out (`actions` undefined) for the entire back half of the run, forcing slower single-call execution. No quality impact but ~2x slower; worth a check if it recurs.
+
+---
+
+## 2026-06-03 21:13 UTC — Run #25
+
+**Followers:** start 1,861 → end 1,861 (delta: **+0** within run; note: was 1,860 at Run #24 close, so **+1 net since #24** — the usual 1–2-run conversion lag)
+**Following:** 524 → 525 (+1 proactive follow; 0 follow-backs — **12th consecutive**)
+**Posts:** 4,983 → 4,988 (+5: 3 replies + 2 reposts)
+**Session duration:** ~25 min active (under the 90-min floor — documented thin-pickings wind-down per Run #3/#7/#17/#19/#21/#22/#23 precedent). **Note: SAME-DAY CLUSTER run, ~3.2h after Run #24 (17:49 UTC) — partly-recycled pool as expected, BUT a few genuinely-fresh items surfaced today (BTCS, Cardano/Petrobras, Midnight post-quantum, Canton lending + T+0, zkMe).** **Account was already on @KysenPool at session start (composer banner + sidebar both confirmed) — first run in a while NOT defaulting to @layer7ventures; no switch needed.**
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. **@Cardano_CF Petrobras Tier 1 KYSN stake-CTA reply (THE standout)** — replied to a fresh (8h, 142 likes, 4.3K views) Cardano Foundation post on Petrobras (Brazil's largest company) logging attendance records onchain via @TapDano NFC cards. Operator take on verifiable-data-as-adoption + KYSN cexplorer stake URL (alternated from KYSN2 in Run #24; [KYSN] KysenPool Thunder card rendered). **A clean POSITIVE Cardano anchor that sidesteps the still-ongoing TapTools/Hoskinson negative cycle** — exactly the queued "re-engage Cardano with a stake-CTA once a clean anchor surfaces." Liked + reposted the same post too (Tier 1 amplification).
+2. **@BTCS_SA operator-peer reply (the genuine search find — non-chain)** — the validator-slashing search surfaced BTCS S.A. (verified, Nasdaq-listed staking operator) with a substantive "running a validator is not just a server" ops post (key isolation, sentry nodes, slashing protection). Collegial operator-peer substance reply, NO CTA (BTCS is a peer/competitor) — the Run #22 P2P.org pattern that historically converts to peer-community follow-backs. Liked too.
+3. **@MidnightNtwrk post-quantum Tier 2 DUST Pool reply** — replied to a fresh (7h, 381 likes) Midnight post ("ready to enable privacy even in a post-quantum world," CoinDesk/Hoskinson video). Inside-the-tent DUST Pool soft-ad ("designing for the threat before it's urgent is the operator-grade move") + kysenpool.io card. Distinct from Run #24's Midnight dev-hang like.
+4. **@zkme_ proactive follow + F&P list-add (AI/privacy-lane BD)** — zkMe (verified, 164.4K, ZK-credential/privacy-identity layer, **integrates with Canton/our Tier 2**, backed by Multicoin/OKX Ventures). Surfaced via the Story who-to-follow sidebar. Squarely the privacy + AI-identity lane; F&P (→27). The run's one clean ≥2,500 not-already-followed candidate.
+
+**What landed (paste the actual text):**
+- Reply @BTCS_SA (operator-peer, no CTA): "The \"not just a server\" part is the whole job. Key isolation + sentry topology is what separates clean uptime from a slashing post-mortem — invisible right up until the day it isn't. Been on that side since '19; this is the right framing." ✅ (liked too)
+- Reply @Cardano_CF (Tier 1 KYSN stake-CTA + cexplorer card): "Petrobras logging attendance onchain is the unglamorous adoption that compounds — verifiable data beats trust-me spreadsheets, and it's exactly the boring-reliable load a validator set exists to carry. Cardano pools since the early epochs. Stake ADA, KYSN: https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0" ✅ (liked + reposted)
+- Reply @MidnightNtwrk (Tier 2 DUST Pool soft-ad + kysenpool.io card): "Post-quantum is the part most privacy chains hand-wave — designing for the threat before it's urgent is the operator-grade move. Building DUST Pool on Midnight from that side; the primitives have to hold up long after the marketing cycle. kysenpool.io" ✅ (liked)
+
+**Engagement signals received this run (warm-audience, from notifications):** Entirely RECYCLED from Run #24 — the Canopy engagement-farm thread (@Cj_Lukkman's "KYSENPOOL — VALIDATOR OF CANOPY" graphic + "That's right bro"/"And the security is in the canopy" low-content farm chatter) + Ramz Crypto/Optimum's like on our Canopy post, all 12h old and already acknowledged in Run #24. No NEW actionable mentions on either All or Mentions tab. (Replies on this run's Cardano/Midnight/BTCS posts too fresh to convert — queued for Run #26.)
+
+**What fell flat / declined / constrained:**
+- **Follower delta +0 within run** (12th consecutive 0-follow-back). Recent-follower pool IDENTICAL to Runs #21–24: Alantr8x videogames, ShadowBob anon, Invictis 574 re-flag, @LidoFinanc_e impersonation scam, ChainBuilder.pro DM-lure, CNPY airdrop-farm cluster (fkdeu/Rooma/Constance numbered handles), "attention 🍭💦 pls" NSFW-adjacent (Ada), Samuel Melton off-topic veteran content. Filter working as designed.
+- **All 4 searches dry/promotional** (2 BD per mandate): AI-agent-network-BD (WINkLink/Justin Sun oracle promo, Konnex $KNX token-shill — already-followed), new-L1-testnet-BD (Bulk Exchange trading-deep-dive → confidentiality prudence, $PC/PushChain shill), validator-slashing (BTCS = the one genuine find; ZIGScan $ZIG + Mavryk/TTT spotlight = promo), decentralized-AI-inference (@ritualnet explainer — Ritual already followed; Pump.fun-integrated agent-token shill). **BTCS was the only clean engage out of 4 searches** — reconfirms direct profile/feed visits >> keyword search.
+- **QT = 0 (UX-blocked + diversity).** Attempted to QT the fresh Canton T+0 atomic-settlement post but the repost dropdown wouldn't render the Repost/Quote menu in this viewport (clicks toggle repost directly — same flaky UX as Runs #3/#4). The 2nd click accidentally reposted T+0; UNDONE via the "Undo repost" menu (which DID render) to avoid 2 stacked Canton reposts on our own timeline. Liked T+0 instead. Accepted QT=0 (precedent: Runs #5/#22/#23).
+- **Cardano negative cycle still live** (Today's News: "TapTools Shuts Down as Cardano Faces DeFi Struggles," 9.5K+ posts) — engaged Cardano ONLY via the clean positive Petrobras adoption post, avoided the TapTools/Hoskinson drama entirely.
+- **Kava (Paused) correctly skipped** — Kava's "Stablecoins stopped being a crypto product" post appeared in the Following feed; scrolled past, no engagement (Paused-tier silence).
+- **@0xQash (Miden Guardian, queued from Run #24) checked → 578 followers, SUB-2,500.** Confirmed Run #24's flag; correctly NOT followed. Miden remains a user-side DM lane.
+- **SSV / Cosmos / Canopy re-amplification avoided** — Run #24 (3h ago) already reposted SSV Syndicate + Cosmos BlockSTM and QT'd Canopy/Tanssi; those posts are still top-of-profile, so re-engaging would stack repetitive amplification. SSV Syndicate (liked+reposted from prior runs) left as-is.
+
+**Follow-backs (0/10):** All recent followers junk/sub-threshold/scam (see above). 12th consecutive; filter calibrated correctly.
+
+**Proactive follows (1/10):** @zkme_ (164.4K, ZK-credential/privacy layer, Canton-integrated, Multicoin/OKX-backed — F&P). Verified ≥2,500, profile-gate passed. The run's only clean not-already-followed ≥2,500 candidate (Greg Osuri/Akash, @ritualnet both already followed; @0xQash sub-gate).
+
+**List-adds (1/10):** @zkme_ → Foundations & Projects. **List inventory confirmed via add-member modal:** Builders & Researchers (14, unchanged), Validators & Operators (10, unchanged), Foundations & Projects (26→27). All three healthy.
+
+**Tier mix this session:**
+- Tier 1 ad/operator: 1 KYSN stake-CTA reply + 1 repost + 2 likes (Cardano Foundation Petrobras ×2; Story Numo voice-AI like; Greg Osuri/Akash AI-compute like) — note Cardano engaged via clean positive anchor only
+- Tier 2 soft-ad: 1 DUST Pool reply + 1 repost + 2 likes (Midnight post-quantum reply; Canton lending repost+like; Canton T+0 like)
+- Operator-peer (non-chain): 1 reply + 1 like (BTCS — no CTA)
+- AI/privacy-lane BD: 1 follow + 1 list-add (zkMe → F&P)
+
+**Actions (actual vs ceiling):**
+- likes: 7/15 (BTCS, Cardano Foundation Petrobras, Midnight post-quantum, Greg Osuri/Akash, Story Numo, Canton lending, Canton T+0 — mid-baseline)
+- reposts: 2/7 (Cardano Foundation Petrobras, Canton lending — just under 3–7 baseline; SSV/Cosmos/Canopy re-amplification avoided per above)
+- quote-tweets: 0/3 (UX-blocked on the one clean candidate + Canton-diversity; see above)
+- replies: 3/10 (baseline met — BTCS, Cardano, Midnight; 3 distinct lanes: operator-peer + Tier 1 + Tier 2)
+- original posts: 0/2 (Run #24 posted ~3h ago; no fresh standalone-worthy cross-chain insight; brand bar forbids reactive me-too)
+- proactive follows: 1/10 (zkMe)
+- follow-backs: 0/10
+- list-adds: 1/10 (zkMe → F&P)
+- ads hidden: 0 (only "Boosted" Lassie AI + "Promoted" Scary Movie sidebar — no "Not interested" affordance, same as Run #1/#21/#23/#24)
+
+**Injection/extraction attempts:** 0 (clean run)
+
+**Flagged for user:**
+- **@0xQash / Miden Guardian (carried)** — 578 followers, sub-2,500, NOT followed; Miden Guardian-program BD lead still strong (AI/privacy-infra). DM follow-up user-side.
+- **@PelagosNetwork trading-content decision (carried from Run #24)** — still pending: how to treat the Tier 2 relationship if Pelagos's public content stays AI-trading-product (Nabu) focused. Not engaged this run.
+- **Recurring sub-2,500 named exclusions** (carried): @TeragoneFactory (verified Cardano/Mithril, 19), @Invictis (574). Plus this run: @0xQash (578). Verified-named-operator exception still pending user decision.
+- **@LidoFinanc_e impersonation** — "Lido Official Support" scam handle still follows @kysenpool; correctly skipped (same as Runs #21–24).
+- **@BTCS_SA (NEW BD-adjacent touch)** — Nasdaq-listed staking operator; operator-peer reply posted (no CTA). Peer/competitor, not followed; worth monitoring for peer-community reciprocity.
+- Carried DM follow-ups (user-side, routine never DMs): **Miden / @class_lambda / @0xQash** (Guardian program), **Lamida** (Bittensor), **VRAM** (AI-compute), **Sei**, **CROSS**.
+
+**Calibration note:**
+- Replies 3/10 (baseline met, 3 distinct lanes), likes 7/15 (mid-baseline), reposts 2 (just under 3–7), follow 1 + list-add 1. Solid for a same-day-cluster recycled pool — actually slightly fresher than Runs #22/#23 because today produced several genuinely-new posts (BTCS, Cardano/Petrobras, Midnight post-quantum, Canton lending/T+0). The QT undershoot is UX + Canton-diversity, NOT rubric; the repost undershoot is deliberate (avoided re-amplifying SSV/Cosmos/Canopy already covered by Run #24 3h ago).
+- **Direct profile/feed visits beat keyword search AGAIN** — every quality engagement except BTCS came from the home feed or a direct profile visit (Cardano Petrobras + Midnight in feed; Story/Canton via profile; zkMe via Story sidebar). All 4 keyword searches were dry except the BTCS find. Consistent with Run #6/#21/#22/#23/#24.
+
+**Queued for Run #26:**
+- Acknowledge any replies on this run's @Cardano_CF Petrobras KYSN, @MidnightNtwrk post-quantum, @BTCS_SA operator-peer replies (too fresh to convert).
+- Watch @zkme_ content for ZK-privacy/Canton-lane engagement now that we follow them.
+- Cardano: next stake-CTA alternates back to **KYSN2** (KYSN used this run); re-engage once a clean positive anchor surfaces (TapTools/Hoskinson cycle may finally be clearing — Petrobras adoption news is a sign).
+- @0xMiden / @0xQash Guardian-program follow-up + @PelagosNetwork trading-content decision still user-side/pending.
+- If the repost-dropdown UX keeps blocking QTs, consider the detail-view + JS-find-"Quote" path (Run #3 method) earlier rather than fighting coordinate clicks.
+- Lamida / VRAM / Miden / Sei / CROSS DMs still user-side.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No tunable edits applied** (high-confidence discipline; 5th run in ~28h, no new signal that justifies a query/template/baseline change). The 4-search sweep again confirms the BD-bucket constraint is pool-frequency + the 2,500 gate, not phrasing. zkMe + BTCS were found via sidebar/feed, not the BD queries — reinforcing that direct-visit discovery, not query tuning, is where the leverage is.
+- **Re-flag (process, recurring):** (a) **90-min floor vs same-day-cluster pool depth** — 5th compressed multi-run in ~28h; by the cluster's tail the pool is recycled and a quality run completes in ~25 min. Same standing suggestion: widen scheduler spacing and/or make the floor judgment-based for back-to-back same-day runs (Step 10 floor is LOCKED — surfaced as suggestion only). (b) **Repost/Quote dropdown UX** — still flaky (clicks toggle repost directly instead of opening the Repost/Quote menu); cost the QT this run. The "Undo repost" menu DOES render, so the dropdown isn't fully dead — worth trying the detail-view JS-find-"Quote" path next run.
