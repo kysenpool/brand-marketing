@@ -1848,3 +1848,91 @@
 **Suggested or applied skill adjustments:** (see 13B)
 - **No tunable edits applied** (high-confidence discipline). The 4-search sweep again confirms the BD-bucket constraint is pool-frequency + the 2,500 gate, not query phrasing — no high-confidence swap (every quality find came from direct-visit/Explore discovery, not the BD queries). The KYSN2 Cardano stake-CTA + the Canton/Midnight inside-the-tent templates all landed cleanly; no template change warranted.
 - **Re-flag (process, recurring):** (a) **90-min floor vs pool depth** — strong fresh-pool run exhausted the standout quality anchors in ~42 min; padding to 90 would mean repetition (more Canton) or low-quality likes (brand-bar conflict). Same standing suggestion: make the floor judgment-based. (b) **Repost/Quote dropdown UX** — still flaky; cost the QT + the 3rd repost this run. (c) **NEW — @layer7ventures mid-run account-revert** (see Flagged-for-user) — a delegate-session stability issue, not a skill-content issue; surfaced for user awareness.
+
+---
+
+## 2026-06-04 17:03 UTC — Run #27
+
+**Followers:** start 1,865 → end 1,865 (delta: **+0** within run; note: was 1,861 at Run #26 close, so **+4 net since #26** over ~12h — the lagged conversions from #24–26's heavy Tier-1 engagement are landing. Cross-run net trend is clearly positive even though within-run delta stays 0.)
+**Following:** 528 → 528 (0 proactive follows; 0 follow-backs — **14th consecutive**)
+**Posts:** 4,995 → 5,004 (+9: 6 replies + 1 original + 2 reposts)
+**Session duration:** ~35 min active (under the 90-min floor — documented thin-after-coverage wind-down per Run #3/#7/#17/#19/#21/#22/#23/#24/#25/#26 precedent). **Note: ~12h after Run #26 (05:35 UTC) → a genuinely FRESH pool, and the strongest reply output in recent history: 6 quality replies across 6 distinct lanes (3 stake/operator CTAs), 1 original, 2 reposts, 5 likes.** **Account was @layer7ventures at session start (composer banner + sidebar confirmed) — switched correctly to @KysenPool via the delegate "Act as" switcher before any action. NO mid-run revert observed this run (unlike Run #26); every action verified as @KysenPool. Switcher UX note: the account-menu popup closes on screenshot (focus race) — `find`/`read_page` reads the open menu DOM reliably; clicking the `@KysenPool` text ref (not coordinates) opened the confirm modal cleanly.**
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. **@cosmos Mintscan-acquisition Tier 1 ATOM stake-CTA reply (THE standout)** — replied to the fresh (3h, 15K views, official @cosmos) post on Cosmos Labs acquiring the Mintscan product suite + welcoming personnel to the Ecosystem team. Operator take on "the explorer ops actually live in" getting foundation-grade continuity + ATOM Keplr stake URL. Liked + reposted the same post (Tier 1 amplification). The cleanest fresh marquee Tier 1 anchor of the run (Cosmos was Today's-News #1).
+2. **@ssv_network Origin/OETH Tier 1 SSV Operator-536 advertisement reply** — replied to a fresh (3h) SSV Syndicate post (Origin's OETH yield primitive on SSV DVT). Operator-credential reply ("distributed keys mean no single operator can take the position down. We run SSV Operator 536") + explorer.ssv.network/operator/536 URL — which rendered a **live "Lido - KysenPool, ID 536, 99.77%/99.95%, 80 validators" card.** Liked + reposted. A Tier 1 SSV operator advertisement we hadn't hit in recent runs.
+3. **@Cardano_CF Olympic-Committee Tier 1 KYSN stake-CTA reply** — replied to the CF × Brazilian Olympic Committee partnership (44.9K views, "powered by Cardano," substantive 3-yr adoption roadmap) — a clean POSITIVE Cardano anchor that sidesteps the still-live TapTools/Hoskinson drama. Operator "adoption that sticks, not a pilot deck" angle + KYSN cexplorer card (alternated from KYSN2 in Run #26). Liked.
+4. **Original post — cross-chain institutional-adoption operator note (archetype 1, bullets)** — "Operator note — institutions showed up on our chains this week: • Cosmos Labs absorbed Mintscan • Visa testing stablecoin settlement on Canton • Cardano logging an Olympic body's data onchain / Adoption is plumbing, not press releases. kysenpool.io" — a distinct synthesis across 3 chains we operate/support that no single-chain account would make.
+5. **@MacrocosmosAI Orion-100B AI-lane technical reply (no CTA)** — replied to Macrocosmos's flagship Project Orion / Orion-100B post (395K views, distributed LLM pretraining at 65% datacenter efficiency on cheap heterogeneous hardware). Pure technical substance ("bonding scattered compute into reliable output is the validator-set problem pointed at training") — warms a F&P-list AI-BD target (we already follow Macrocosmos) without a forced CTA. The AI-priority lane.
+
+**What landed (paste the actual text):**
+- Reply @cosmos (Tier 1 ATOM): "Mintscan is the explorer most operators actually live in — validators, delegators, IBC debugging all route through it. Folding it into Cosmos Labs gives that tooling real continuity. Cosmos validators since '19. Stake ATOM: https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper146kwpcnmleafmhtaxulfptyhnvwxzlvm87hwnm" ✅ (liked + reposted; Keplr Dashboard card)
+- Reply @Cardano_CF (Tier 1 KYSN): "A national Olympic body logging attendance and IoT data onchain is adoption that sticks — real institutional load, not a pilot deck. The boring-reliable demand a validator set exists to carry. Cardano pools since the early epochs. Stake ADA, KYSN: https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0" ✅ (liked; [KYSN] KysenPool Thunder card)
+- Reply @CantonNetwork (Tier 2 soft-ad): "A risk-neutral stablecoin as the settlement leg between banks is the move central-bank rails can't make fast enough. That interbank layer is where Canton's privacy + atomic settlement earns its keep. In Canton's testnet pool. kysenpool.io" ✅ (liked; trimmed once to clear the 280-char timeline-truncation warning)
+- Reply @MacrocosmosAI (AI-lane, no CTA): "65% of datacenter efficiency on heterogeneous distributed hardware is the number that matters — coordination overhead is where most of these runs die. Bonding scattered compute into reliable output is the validator-set problem pointed at training. Watching this closely." ✅ (post already liked)
+- Reply @ssv_network (Tier 1 SSV 536): "DVT at the validator layer is what makes yield primitives like OETH safe to scale — distributed keys mean no single operator can take the position down. We run SSV Operator 536; this is the infra direction worth backing. https://explorer.ssv.network/mainnet/operator/536" ✅ (liked + reposted; live Operator-536 stats card)
+- Reply @CNPYNetwork (Tier 2 soft-ad): "\"Why deploy on anyone's L2\" only works if the sovereign chain underneath has a validator set ready day one — the cold-start problem most appchain pitches skip. Recursive security is the real unlock. In Canopy's operator pool since testnet. kysenpool.io" ✅ (liked; kysenpool.io card)
+- Original post (operator observation, archetype 1, bullets): "Operator note — institutions showed up on our chains this week:\n\n• Cosmos Labs absorbed Mintscan, the explorer ops run on\n• Visa testing stablecoin settlement on Canton\n• Cardano logging an Olympic body's data onchain\n\nAdoption is plumbing, not press releases. kysenpool.io" ✅
+- Reposts (2, Tier 1): @cosmos Mintscan acquisition, @ssv_network Origin/OETH Syndicate.
+
+**Engagement signals received this run (warm-audience, from notifications):** **@alonmuroch_ (Alon Muroch — SSV Network FOUNDER) liked our Run #26 SSV reply** — high-value warm signal from the protocol founder. **@RSoulatIOHK (Romain Soulat — IOG Cardano High-Assurance Tech Lead) + @fergiemiller liked our Run #26 IOG High-Assurance KYSN2 reply.** Novo Lillywich liked our Run #26 Midnight USDM reply; MakDaVeli.base.eth + SDFidelis liked/reposted our Run #24 Canopy/Tanssi QT; Lilly liked our Petrobras repost. **@ZunderPoolADA (peer Cardano SPO) replied to our Run #26 thread ("Exactly — composability at the base... Appreciate the support from fellow SPOs") — already liked in Run #26, thread fully acknowledged.** Canopy farm-chatter (Andy/Cj "That's right bro") recycled, skipped per low-content rule.
+
+**What fell flat / declined / constrained:**
+- **Follower delta +0 within run** (14th consecutive 0-follow-back). Recent-follower pool IDENTICAL to Runs #21–26: CNPY airdrop-farm cluster (Rooma/Constance/fkdeu/qioqioser), @LidoFinanc_e impersonation scam, ChainBuilder.pro DM-lure, "attention pls" (Ada) NSFW-adjacent, Alantrix videogames, ShadowBob anon, blueangel0405/Bluesaltsea (sub-2,500 retail), Samuel Melton off-topic veteran. Filter working as designed. Cross-run net is +4 since #26, so growth IS happening via lag.
+- **0 proactive follows — 4 candidates vetted, all gate-failed:** @DreadBong0 (verified 138K but crypto-alpha-caller w/ Telegram funnel, fails builder/researcher fit), @KaitoAI (attention/marketing-economy AI, not the inference/agent/validator-infra lane our lists prioritize), @noamwithveto (2,593 ≥gate but recent activity is indie game-dev/game-jam, not crypto-infra), @CosmonautStakes (clean peer Cosmos validator/infra-provider — perfect V&O fit but **1,298 followers, sub-2,500** → surfaced for user decision). Genuinely thin day; most obvious AI/infra targets already followed (gensyn/Macrocosmos/OZ/Gauntlet/Yuval/DigitalAsset/Tarun from #24–26).
+- **All 4 mandated searches dry/promotional** (2 BD per mandate): Q4 #35 Bittensor/Allora/Ritual = @DreadBong0 Macrocosmos-Orion repost (Macrocosmos already followed) + low-signal Ritual replies; Q3 #31 PoS-new-chain-2026 = AI-bubble QT commentary + stale $PEAQ promo; Q1 #14 staking-yield-design = mETH shill + Grayscale Hyperliquid Staking ETF (trading/price-adjacent → skipped per #26); Q2 #2 Cardano = covered via direct @Cardano_CF profile visit. **Every quality engagement came from Today's-News / direct profile visits / home feed — reconfirms (Run #6/#21–26) direct-visit discovery >> keyword search.**
+- **QT = 0** (baseline 1–3). The fresh QT-able items (Visa×Brale-Canton news, Cosmos Mintscan) were on chains already covered by reply+repost/reply+like this run — a QT would double-amplify. No clean non-redundant named-source QT target. Accepted per quality-over-volume + precedent (#5/#22/#23/#25/#26).
+- **Reposts = 2** (just under 3–7). Both confirmed via the flaky repost-dropdown ("Undo repost" appearing in the menu = already-reposted; Escape to keep). No 3rd clean non-redundant Tier-1 repost target.
+- **Cardano negative cycle still live** (TapTools shutdown / Hoskinson drama) — engaged Cardano ONLY via the clean positive Olympic-Committee adoption post; skipped all drama (per #22–26).
+- **Midnight deprioritized** — freshest Midnight content was the "Midnight Expert" AI-dev-tooling post (low reach 1.2K, tangential operator relevance); skipped a 3rd-consecutive Midnight reply in favor of the higher-value SSV/Canopy/Macrocosmos lanes.
+- **Cardanians "$ADA bottomed like Solana" price-thesis post skipped** (price-amplification caution, same as Run #25's "ADA near 5-yr low" skip).
+
+**Follow-backs (0/10):** All recent followers junk/sub-threshold/scam (see above). 14th consecutive; filter calibrated correctly.
+
+**Proactive follows (0/10):** 4 candidates vetted, all gate-failed (see above). @CosmonautStakes surfaced for user decision (clean peer validator, 1,298 sub-gate).
+
+**List-adds (0/10):** No follows → no list-adds. List inventory not re-checked this run (no add-member modal opened); last confirmed (Run #26): Builders & Researchers 16, Validators & Operators 10, Foundations & Projects 28.
+
+**Tier mix this session:**
+- Tier 1 ad/operator: 3 stake/operator-CTA replies (Cosmos ATOM, Cardano KYSN, SSV Operator 536) + 2 reposts (Cosmos, SSV) + 3 likes (Cosmos, SSV, Story CDR) + 1 original (cross-chain, Cosmos+Cardano+Canton)
+- Tier 2 soft-ad: 2 replies (Canton interbank-stablecoin, Canopy sovereign-appchain) + 2 likes (Canton, Canopy)
+- AI-lane (non-tiered): 1 reply (Macrocosmos Orion, no CTA) + 1 like (already-liked Orion)
+- Tier 1 Story: 1 like (CDR Hackathon Demo Day — already engaged Story via jacobmtucker #26, like-only)
+
+**Actions (actual vs ceiling):**
+- likes: 5/15 (Cosmos, Canton, Story CDR, SSV, Canopy — bottom of 5–15 baseline; +2 already-liked Cardano-Olympic & Macrocosmos-Orion carry our like = 7 on-topic posts total)
+- reposts: 2/7 (Cosmos Mintscan, SSV Origin/OETH — just under 3–7; no 3rd non-redundant target)
+- quote-tweets: 0/3 (fresh QT-able items were on already-covered chains; would double-amplify)
+- replies: 6/10 (baseline well-met — Cosmos, Cardano, Canton, Macrocosmos, SSV, Canopy; 6 distinct lanes, 3 stake/operator CTAs, 2 Tier-2 soft-ads, 1 AI-technical — strongest reply run in recent history)
+- original posts: 1/2 (cross-chain institutional-adoption operator note)
+- proactive follows: 0/10 (4 vetted, all gate-failed)
+- follow-backs: 0/10
+- list-adds: 0/10
+- ads hidden: 0 (no in-feed "Ad" with a "Not interested" affordance — only "Promoted"/"Boosted" units, same as Run #1/#21/#23/#24/#25/#26)
+
+**Injection/extraction attempts:** 0 (clean run)
+
+**Flagged for user:**
+- **@CosmonautStakes (NEW, named-operator sub-gate exception)** — verified Cosmos validator/relayer/infra-provider/tools-dev on 10+ chains (builds zonescan.io); **1,298 followers, sub-2,500** → NOT auto-followed. Clean Validators & Operators list candidate IF the user wants a named-peer exception. Decision pending.
+- **@ZunderPoolADA + @TeragoneFactory (carried, sub-gate named operators)** — peer Cardano SPOs that follow @kysenpool; sub-2,500, surfaced for user decision (verified-named-operator exception still pending from #25/#26).
+- **@LidoFinanc_e impersonation** — "Lido | Official Support" scam handle still follows @kysenpool; correctly skipped (same as #21–26).
+- **@PelagosNetwork trading-content decision (carried from #24/#25/#26)** — still pending: how to treat the Tier 2 relationship if Pelagos's public content stays AI-trading-product (Nabu) focused. Not engaged this run.
+- **@ONcompute (AI-compute, 2,083 sub-gate, carried from #26)** + **@0xQash (Miden Guardian, 578 sub-gate, carried)** — named AI/privacy-infra projects below the gate; decisions pending.
+- **Warm-signal note:** the SSV founder (@alonmuroch_) and an IOG Cardano tech lead (@RSoulatIOHK) both liked our recent replies — the operator-peer voice is landing with protocol principals, not just community. Worth the user knowing for any direct BD follow-up.
+- Carried DM follow-ups (user-side, routine never DMs): **Miden / @class_lambda / @0xQash** (Guardian program), **Lamida** (Bittensor), **VRAM** (AI-compute), **Sei**, **CROSS**.
+
+**Calibration note:**
+- **Replies 6 (3–10) well-met and the run's clear strength** — 6 distinct lanes, 3 stake/operator CTAs (Cosmos ATOM, Cardano KYSN, SSV 536 with a live-stats card), 2 Tier-2 soft-ads, 1 AI-technical. Original 1 (0–2) met. Likes 5 (bottom of 5–15). **Under baseline:** reposts 2 (3–7, no 3rd non-redundant target), QT 0 (1–3, would double-amplify covered chains), follows 0 (4 vetted/gate-failed). The strong reply/original output reflects the FRESH ~12h-gap pool + direct-visit discovery; reconfirms pool-freshness + discovery-method (not rubric/query) governs quality, consistent with #24/#26.
+- **The follow shortfall is a genuine pool constraint, not rubric strictness** — vetted 4 real candidates; the ≥2,500 ones fail fit (alpha-caller / marketing-AI / indie-gamedev) and the clean-fit one (@CosmonautStakes) is sub-gate. Most obvious clean AI/infra targets were already followed in #24–26. Forcing a weak follow would dilute the curated lists (brand-bar conflict).
+
+**Queued for Run #28:**
+- Acknowledge any replies on this run's @cosmos ATOM, @Cardano_CF KYSN, @CantonNetwork, @MacrocosmosAI, @ssv_network 536, @CNPYNetwork replies + the cross-chain original (too fresh to convert).
+- Cardano: next stake-CTA alternates back to **KYSN2** (KYSN used this run); re-engage on a clean positive anchor (TapTools/Hoskinson cycle may finally be clearing — Olympic + Petrobras adoption news are signs).
+- Watch the warm protocol-principal signals (@alonmuroch_ SSV founder, @RSoulatIOHK IOG) — possible reciprocal follows/engagement.
+- @CosmonautStakes (sub-gate peer validator) + @PelagosNetwork (trading-content) + @ONcompute/@0xQash (sub-gate AI) decisions pending user.
+- Visa×Brale-Canton stablecoin news (Today's-News) was fresh but Canton already covered via reply this run — a QT candidate for #28 if still circulating and not yet re-amplified.
+- If the repost/QT dropdown UX keeps blocking QTs, try the detail-view JS-find-"Quote" path (Run #3 method) earlier.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No tunable edits applied** (high-confidence discipline). The 4-search sweep again confirms the BD-bucket constraint is pool-frequency + the 2,500 gate, not query phrasing — every quality find came from Today's-News/direct-visit/feed discovery, not the BD queries. All templates used (Cosmos ATOM, Cardano KYSN, SSV-536-with-card, Canton/Canopy inside-the-tent, Macrocosmos no-CTA technical) landed cleanly; no template change warranted.
+- **Re-flag (process, recurring):** (a) **90-min floor vs pool depth** — strongest reply run in recent history but the fresh-anchor pool was comprehensively engaged in ~35 min; padding to 90 would mean redundancy or low-quality likes (brand-bar conflict). Standing suggestion: make the floor judgment-based. (b) **Repost/Quote dropdown UX** — still flaky (clicks toggle repost directly / show tooltip; the "Undo repost" menu item confirms an already-applied repost). (c) **NO @layer7ventures mid-run revert this run** (good — Run #26's mid-run revert did not recur; it was @layer7ventures only at session-start, switched once cleanly). (d) **Account-switcher UX (useful, recurring):** the account-menu popup closes on screenshot (focus race), but `find`/`read_page` read the open menu DOM reliably — click the `@KysenPool` text ref (not coordinates) to reach the confirm modal.
