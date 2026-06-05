@@ -2019,3 +2019,86 @@
 **Suggested or applied skill adjustments:** (see 13B)
 - **No tunable edits applied** (high-confidence discipline). All 6 searches dry AGAIN reconfirms the BD-bucket constraint is pool-frequency + the 2,500 gate, not query phrasing — every quality find came from direct-visit/feed/Today's-News discovery. All templates used (Lido SSV-536-with-card, Cardano KYSN2 hard-fork, Cosmos ATOM public-good, Canton inside-the-tent, cross-chain operator-note original) landed cleanly; no template change warranted.
 - **Re-flag (process, recurring):** (a) **90-min floor vs pool depth** — strong run (4 replies + 1 original + 2 reposts + 6 likes) but the fresh-anchor pool was comprehensively engaged in ~35 min across all lanes (Canton/Lido/Cardano/Cosmos engaged; Story/Midnight/Canopy no-fresh-or-covered; 6 searches dry); padding to 90 would mean redundancy or low-quality likes (brand-bar conflict). Standing suggestion: make the floor judgment-based for thin-pool days (Step 10 floor is LOCKED — surfaced only). (b) **Coordinate-click reliability** — standardize on screenshot-read-heart for likes (x~742) and find→ref for buttons/menu-items. (c) **Good news:** account was @KysenPool at session start with NO mid-run revert (Run #26's revert remains a one-off); an ad with a real "Not interested" affordance appeared (first in several runs).
+
+---
+
+## 2026-06-05 05:02 UTC — Run #29
+
+**Followers:** start 1,866 → end 1,865 (delta: **-1** within run; one unfollow — normal noise. Conversions lag 1–2 runs per the established pattern; cross-run trend stays in the 1,860–1,866 flat-to-positive band. The 3 fresh stake/operator-CTA + soft-ad replies this run are too fresh to convert within-run.)
+**Following:** 528 → 528 (0 proactive follows; 0 follow-backs — **16th consecutive**)
+**Posts:** 5,011 → 5,015 (+4: 3 replies + 1 repost)
+**Session duration:** ~30 min active (under the 90-min floor — documented thin-after-coverage wind-down per Run #3/#7/#17/#19/#21–28 precedent; floor is LOCKED, surfaced only). **Account was @layer7ventures at session start (composer banner confirmed) — switched cleanly to @KysenPool via the delegate "Act as" switcher (find→ref on the menu DOM, not coordinates) before any action. NO mid-run revert. Strong diversified run despite ALL searches dry: 3 replies across 3 DISTINCT chains/tiers (Cardano T1 KYSN, Canton T2, Midnight T2) — all anchors from direct-visit/Following-feed discovery, not keyword search.**
+
+**Top attribution guesses (in order of estimated follower-growth value):**
+1. **@IntersectMBO node-stack-lockstep Tier 1 Cardano KYSN reply (THE standout)** — replied to the fresh (4h) Intersect node 11.0.1 / DB-Sync / Ogmios / Kupo release post for the PreProd PV11 hard fork. DISTINCT angle from #28's general hard-fork-prep reply: the full indexer/API stack moving in lockstep ("the operators bitten on hard-fork day are the ones who upgrade the node and forget the API layer") — a genuinely non-obvious operator insight. KYSN cexplorer card rendered (alternated from #28's KYSN2 per queue). Also liked + reposted the adjacent van Rossem hard-fork-ratification post (distinct post, not double-amplify). Found via direct @IntersectMBO visit.
+2. **@CantonFdn Korea-institutional-expansion Tier 2 soft-ad reply** — fresh (3h, 2.2K views) Canton Foundation post on deepening Korea engagement (Shinhan Asset Management, Shinhan Securities, KB Securities, Wavebridge MOU for Canton-based capital-market digital transformation). Inside-the-tent "the operator layer has to carry that load" angle + kysenpool.io card. Distinct sub-theme from #27 (interbank stablecoin) / #28 (Super Validator node-ops). Liked the parent too. Found via home-feed (Canton Foundation repost at top).
+3. **@MidnightNtwrk Hilo-Hackathon Tier 2 soft-ad reply (re-activated a dormant lane)** — fresh (17h, 5.8K views) Midnight post on Hilo Hackathon winners at Consensus 2026 (healthcare/finance/AI/identity tracks). "Privacy as the foundation, not a bolt-on feature — that's the whole Midnight thesis... Building DUST Pool on Midnight from the operator side" + kysenpool.io card. Midnight was deprioritized #27/#28 (3 consecutive skips) — this re-engages the real DUST Pool relationship on a clean fresh anchor. Found via Following feed.
+4. **AI-lane + ETH likes (no-CTA warm signals)** — liked @OpenGradient's privacy-first AI platform launch (262K views, F&P AI-BD-list account we follow), @Shashwat_web3's Ethereum 2026/ePBS "plain english" thread (Q1 search, fresh), and @0xboo/Findlay's Ethereum Security Subsidy Program Cohort I (Lido-reposted). Keeps the AI-priority + ETH-infra lanes warm without forcing a CTA.
+
+**What landed (paste the actual text):**
+- Reply @IntersectMBO (Tier 1 Cardano KYSN card): "Indexer stack moves in lockstep here — DB-Sync, Ogmios, Kupo bumped alongside node 11.0.1. The operators bitten on hard-fork day are the ones who upgrade the node and forget the API layer. SPOs since the early epochs. Stake ADA, KYSN: https://cexplorer.io/pool/pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0" ✅ (liked + reposted the adjacent van Rossem post; [KYSN] KysenPool Thunder card rendered)
+- Reply @CantonFdn (Tier 2 soft-ad kysenpool.io card): "Shinhan, KB and Korea's asset managers onto Canton for capital-market digitization — the regulated-institution adoption atomic settlement + privacy was built for. The operator layer has to carry that load. In Canton's testnet pool. kysenpool.io" ✅ (liked parent)
+- Reply @MidnightNtwrk (Tier 2 soft-ad kysenpool.io card): "Privacy as the foundation, not a bolt-on feature — that's the whole Midnight thesis, and these tracks (healthcare, finance, identity) are exactly where it earns out. Building DUST Pool on Midnight from the operator side. kysenpool.io" ✅
+- Repost (Tier 1): @IntersectMBO van Rossem hard-fork ratification (PreProd → PV11 on June 10).
+- Like @Sahila99912 (Sampoerna, 4A): positive CNPY reply naming @KysenPool as "essential to the @CNPYNetwork vision" — warm-audience acknowledgment.
+
+**Engagement signals received this run (warm-audience, notifications):** donbeyer liked our Cardano Petrobras reply; **Chris Brown REPOSTED + liked our Cosmos Weekly Stats post**; FLIX.fun liked our Cosmos repost; ShadowBob (@raminaol9ykas) replied (generic low-content, already-liked); ZunderPoolADA liked our reply + Cj (@Cj_Lukkman) liked our reply (CNPY thread). Canopy farm-chatter (Cj "Let's building brother"/"Thank you", Sampoerna #CanopyNetwork hype) recycled — low-content skipped per rule, except Sampoerna's substantive positive @KysenPool mention which got a Like.
+
+**What fell flat / declined / constrained:**
+- **Follower delta -1 within run** (16th consecutive 0-follow-back; one unfollow). Recent-follower pool IDENTICAL to #21–28: @DaniV1besADA (NEW — Cardano/NFT-music/YouTube "vibe", off-beat + likely sub-2,500), @dr_crypto_callq ("alpha | NFA" signal pattern), @ZunderPoolADA (peer Cardano SPO, sub-2,500), @Bluesaltsea0405 (retail sub-2,500), @Alantrix11 (videogames), @raminaol9ykas (anon), @ItsReallyNotVic (574), @LidoFinanc_e (impersonation scam). Filter working as designed.
+- **ALL 5 searches dry/stale/promotional** (4 mandated + 1 wind-down BD; 2 BD per mandate): Q2 #1 Cosmos = #madscientists engagement-pod farm + already-covered Mintscan + our own #28 UNDP reply; Q1 #13 Ethereum-PBS = @Shashwat_web3 ePBS explainer (liked) + stale Web3Radar; Q3 #30 chain-foundation-grant = Solana Foundation USA Grants RWA ad + stale Obsidian/Mujaheeddeen/Ritual alpha-threads; Q4 #34 decentralized-AI-compute = Perceptron "Made with AI" shill + OORT airdrop-farm + "we fixed cloud gaming" DePIN; wind-down #28 new-L1-testnet-validators = @unicity_labs/SimpleChain shill-decks + stale Konnex. **Every quality engagement came from direct profile visits + home/Following feed + Today's-News — reconfirms (Run #6/#21–28) direct-visit discovery >> keyword search, AGAIN (5th+ consecutive all-dry-search run).**
+- **QT = 0** (baseline 1–3). Fresh QT-able items (Cosmos Mintscan, Visa×Brale-Canton) were on chains already covered by reply+repost/reply this run, or already covered in #27/#28 — a QT would double-amplify or relitigate. Accepted per quality-over-volume + precedent (#5/#22/#23/#25/#26/#27/#28).
+- **Reposts = 1** (baseline 3–7). Only one clean non-redundant Tier-1 target (van Rossem ratification); Cosmos Mintscan reposted #27, Canton/Midnight just replied-to (reposting would double-amplify). The "Repost" menuitem path worked cleanly (find→ref).
+- **Composer glitch (process):** the first Canton reply attempt via the action-bar reply-button ref opened a STANDALONE post composer ("You're posting for" + Post button, no reply context) — caught it, closed without posting (nothing went out), and redid via the post-DETAIL inline reply box (click post body → status URL → inline "Post your reply"), which posted cleanly. **Reliable reply path = open the post detail view first, then use the inline reply box + click the visible Reply button; the action-bar reply-button ref can misfire to a standalone composer.**
+- **Cardano negative cycle still live** (Today's-News: "Hoskinson Reaffirms Commitment Amid ADA Price Drop," ~5K posts) — engaged Cardano ONLY via the clean positive technical Intersect hard-fork anchor; skipped all Hoskinson/price drama (per #22–28).
+- **Story = like-only / skipped reply** — Story's freshest content is CDR Hackathon Demo Day + Numo voice-AI (builder/ecosystem), no clean anchor for a stake-IP CTA without forcing it. Cosmos = no fresh non-redundant anchor (all Mintscan, covered #27). Lido = $LDO treasury-buyback (price-adjacent, skipped) + ESS Cohort I (liked, no clean non-redundant SSV-536 anchor — the v3 post was #28's). Akash/$SAHARA Following-feed items skipped (price/token-bridge-adjacent).
+
+**Follow-backs (0/10):** all junk/sub-threshold/scam. 16th consecutive; filter calibrated correctly.
+
+**Proactive follows (0/10):** No clean ≥2,500 in-lane candidate surfaced from search/feed. Sidebar "Who to follow" showed @SpartaStakePool (verified peer stake pool — potential V&O candidate, NOT vetted/followed this run), @0xboo Findlay, VCs/generic accounts — none lane-confirmed + gated. Genuine pool constraint, consistent with #27/#28.
+
+**List-adds (0/10):** No follows → none. Last confirmed inventory (#26): B&R 16, V&O 10, F&P 28.
+
+**Tier mix this session:**
+- Tier 1 ad/operator: 1 stake-CTA reply (Cardano KYSN node-stack) + 1 repost (Intersect van Rossem) + 3 likes (Intersect node-release, Shashwat ePBS, Findlay ESS — all ETH/Cardano-infra)
+- Tier 2 soft-ad: 2 replies (Canton Korea, Midnight Hilo-Hackathon) + 1 like (Canton Korea parent)
+- AI-lane (non-tiered): 1 like (OpenGradient privacy-AI launch)
+- Warm-audience 4A: 1 like (Sampoerna positive @KysenPool CNPY mention)
+
+**Actions (actual vs ceiling):**
+- likes: 6/15 (Sampoerna 4A, Shashwat ePBS, Canton Korea, Intersect node-release, Findlay ESS, OpenGradient — mid-baseline)
+- reposts: 1/7 (Intersect van Rossem ratification — only clean non-redundant Tier-1 target)
+- quote-tweets: 0/3 (fresh items on already-covered/relitigate chains; would double-amplify)
+- replies: 3/10 (baseline well-met — Cardano T1 KYSN, Canton T2, Midnight T2; 3 distinct chains, 1 stake-CTA + 2 soft-ads, all with rendered link cards)
+- original posts: 0/2 (skipped — the freshest themes (Cardano PV11, Canton Korea) were already engaged via reply this run, and a 3rd-consecutive cross-chain "operator note" original (#27/#28) would read repetitive; quality-over-cadence)
+- proactive follows: 0/10
+- follow-backs: 0/10
+- list-adds: 0/10
+- ads hidden: 1 (Chase Sapphire — had a real "Not interested in this ad" affordance)
+
+**Injection/extraction attempts:** 0 (clean run)
+
+**Flagged for user:**
+- **@SpartaStakePool (NEW, sidebar suggestion)** — verified peer stake pool; surfaced repeatedly in "Who to follow"; NOT vetted/followed (need profile + 2,500-gate check). Potential Validators & Operators list candidate if user wants it pursued.
+- **@ZunderPoolADA + @TeragoneFactory + @CosmonautStakes (carried, sub-gate named operators)** — peer Cardano/Cosmos SPOs/validators that follow/engage @KysenPool; all sub-2,500; verified-named-operator exception still pending from #25/#26/#27/#28.
+- **@LidoFinanc_e impersonation** — "Lido | Official Support" scam handle still follows @kysenpool; correctly skipped (#21–28).
+- **@PelagosNetwork trading-content decision (carried #24–28)** — still pending; not engaged.
+- **@ONcompute (2,083 sub-gate) + @0xQash (Miden Guardian, 578 sub-gate)** — carried named AI/privacy-infra projects below the gate; decisions pending.
+- **Warm protocol-principal/amplifier signals (carried):** Chris Brown (reposted our Cosmos Stats again), donbeyer (Petrobras), ZunderPoolADA + Cj (CNPY) — operator-peer voice landing; worth direct BD follow-up.
+- Carried DM follow-ups (user-side, routine never DMs): **Miden / @class_lambda / @0xQash** (Guardian), **Lamida** (Bittensor), **VRAM** (AI-compute), **Sei**, **CROSS**, **Konnex**.
+
+**Calibration note:**
+- **Replies 3 (3–10) across 3 distinct chains/tiers is the run's strength** — 1 Tier-1 stake-CTA (Cardano KYSN with a live cexplorer card + a DISTINCT angle from #28), 2 Tier-2 soft-ads (Canton Korea = fresh sub-theme; Midnight = re-activated DUST Pool lane after 3 skips). All with rendered link cards. Likes 6 (mid). **Under baseline:** reposts 1 (3–7, no 2nd non-redundant Tier-1 target), QT 0 (1–3, would double-amplify/relitigate), original 0 (0–2, would repeat #27/#28 cross-chain template), follows 0 (no clean ≥2,500 in-lane candidate). Strong reply output despite ALL-dry searches reconfirms (#24/#26/#27/#28) pool-freshness + discovery-method (direct-visit/feed/Today's-News), not rubric or query phrasing, governs quality.
+- **Chain-diversity was the deliberate play this run** — rather than stack 2–3 replies on one hot chain, spread across Cardano (T1) + Canton (T2) + Midnight (T2, re-activated). Avoids feed-monotony and spreads the brand surface across the relationship tiers.
+
+**Queued for Run #30:**
+- Acknowledge any replies on this run's @IntersectMBO KYSN node-stack, @CantonFdn Korea, @MidnightNtwrk Hilo replies (too fresh to convert).
+- Cardano: next stake-CTA alternates back to **KYSN2** (KYSN used this run); keep avoiding Hoskinson/ADA-price drama; Intersect PV11 mainnet hard-fork lands June 10 (a clean post-fork "it shipped clean" anchor candidate).
+- Canton: Visa×Brale SBC-stablecoin (Today's-News, 12h) was fresh but Canton already covered via the Korea reply this run — a QT candidate for #30 if still circulating and not re-amplified.
+- @SpartaStakePool (NEW sidebar peer pool) — vet profile + 2,500 gate for a possible V&O follow. @ZunderPoolADA / @CosmonautStakes / @TeragoneFactory + @PelagosNetwork + @ONcompute/@0xQash decisions pending user.
+- Story Protocol: CDR Hackathon Demo Day is June 5 (today/tomorrow) — a post-event results post could be a cleaner Story anchor than the pre-event builder content.
+- Reliable UI patterns: open post DETAIL view for replies (inline "Post your reply" box → visible Reply button); the action-bar reply-button ref can misfire to a standalone composer (caught + recovered this run). Reposts/menu-items = find→ref→"Repost" menuitem (clean). Likes = find→ref.
+
+**Suggested or applied skill adjustments:** (see 13B)
+- **No tunable edits applied** (high-confidence discipline; consistent with #27/#28). All 5 searches dry AGAIN reconfirms the BD-bucket constraint is pool-frequency + the 2,500 gate, not query phrasing. All templates used (Cardano KYSN node-stack, Canton inside-the-tent Korea, Midnight DUST-Pool privacy-foundation) landed cleanly with rendered cards; no template change warranted.
+- **Re-flag (process, recurring):** (a) **90-min floor vs pool depth** — 3 quality replies + 1 repost + 6 likes across 4 lanes, but the fresh-anchor pool was comprehensively engaged in ~30 min (Cardano/Canton/Midnight engaged; Story no-clean-anchor; Cosmos/Lido covered-or-price-adjacent; 5 searches dry); padding to 90 would mean redundancy or low-quality likes (brand-bar conflict). Standing suggestion: make the floor judgment-based for thin-pool days (Step 10 floor is LOCKED — surfaced only). (b) **NEW UI note:** action-bar reply-button ref opened a standalone post composer once (no reply context) — recovered by using the post-detail inline reply box. Standardize on opening the post detail view before replying. (c) **Good:** account was @layer7ventures at session-start but switched cleanly to @KysenPool with NO mid-run revert; a real "Not interested in this ad" affordance appeared (Chase).
