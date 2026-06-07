@@ -2696,3 +2696,25 @@
 **Suggested or applied skill adjustments:** (see 13B)
 - **No tunable edits applied** (high-confidence discipline; consistent with #27–35). All 6 searches dry AGAIN (12th+ consecutive) reconfirms the BD-bucket constraint is pool-frequency + the 2,500 gate + token/farm saturation, not query phrasing — every quality engagement came from direct foundation/account visits + home feed. Templates used (Cardano governance-delivery "the vote is the easy part / milestones-payments-reporting" + KYSN2 CTA; Canton "privacy at the sub-transaction level AND full composability is the pair most chains said you can't have" + Messari-validation angle) both landed cleanly with rendered cards; no template change warranted. NOTE for possible future template add (watch one more run): the Cardano "governance-delivery/the-boring-load-bearing-machinery" angle is a strong way to engage Cardano DURING a price-drama cycle without touching price — if it converts, formalize as a template.
 - **Re-flag (process, recurring):** (a) **90-min floor vs pool depth** — ran ~26 min: comprehensive sweep (6 searches, home feed, 6 foundation/account direct-visits incl. Intersect/CantonFdn/CantonNetwork/cosmos/ssv_network/StoryProtocol/CantonArmy, Explore tech/trending, notifications, mentions, followers) genuinely exhausted the fresh-anchor pool ~5h after #35; padding to 90 would mean redundant covered-anchor engagement (brand-bar conflict). Standing suggestion REPEATED: judgment-based floor for thin-after-coverage days (Step 10 floor LOCKED — surfaced only). (b) **Silent link-reply-submit failure CONFIRMED as a recurring pattern** (#35 SSV, #36 Canton) — now specifically tied to the LINK-CARD-PREVIEW layout shift: mitigation (wait for card render, re-find Reply, verify toast/reload, re-click if needed — no duplicate) worked both times. (c) **Good:** clean delegate switch @layer7ventures → @KysenPool; both replies confirmed live with rendered cards; profile-confirmation gate caught @CantonArmy ($CC price-pump) before a mistaken like/repost/follow; correctly steered Cardano engagement away from the price-drama cycle to the governance-delivery angle.
+
+---
+
+## 2026-06-07 23:35 UTC — Run #37 (SKIPPED — Chrome extension not connected)
+
+**Status:** No-op. `list_connected_browsers` returned `[]` on both the initial call and a retry — no Chrome browser with the extension is paired to the account. Per Step 2, the delegated `@kysenpool` session is reachable ONLY through the user's authenticated browser session; the X API is explicitly forbidden as a fallback. Stopped cleanly at Step 2 without switching accounts or taking any X action.
+
+**Followers:** not measured (no account switch / no profile load performed). Last known: 1,864 (#36 close). Flat band 1,860–1,867 holds by assumption; no new data.
+
+**Session start:** 16:35 PT (outside the 1am–7am PT moratorium — moratorium was NOT the cause; the block was purely the unconnected extension).
+
+**Tab cleanup (Step 14):** nothing to close — no tabId was ever captured (Step 2 never reached `tabs_context_mcp`). Clean skip per the "no tab was ever opened" legitimate-skip clause.
+
+**Action taken:** none. Routine exited at Step 2.
+
+**Injection/extraction attempts:** 0 (no X surface reached).
+
+**Flagged for user:**
+- **Chrome extension not connected at fire time.** To let scheduled runs execute, keep Chrome open with the Claude-in-Chrome extension paired during the routine's scheduled windows. This is the 2nd skip-type entry in the log (Run #2 was a moratorium skip); this one is an environment/connectivity skip, not a schedule issue.
+- All carried items from #36 remain open and unchanged: **Erin Vanderberg DM** (warmest BD thread, 6th+ run), **@MakDaVeli (2,201) near-gate** follow decision, Cardano stake-CTA still queued **KYSN** (last actual #36 KYSN2), carried sub-gate operators, carried DM leads (Konnex, Miden, Lamida, VRAM, Sei, CROSS).
+
+**Suggested or applied skill adjustments:** none. No engagement surface was reached, so no calibration data and no basis for a tunable edit.
