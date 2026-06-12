@@ -3425,3 +3425,25 @@
 - **Erin Vanderberg (@ErintheCyborg) — warmest BD thread, user DM follow-up (15th carry).** @MakDaVeli (2,201) + @DoublePi_Crypto (905) — sub-gate operator decisions pending user.
 
 **Suggested or applied skill adjustments:** none (no tab opened, no engagement taken; tunable-edit discipline not exercised on a skip). **Re-flag for user (recurring):** triple/double daily fires landing close together (#42 at 1.4h, #45 at 3.6h, this #47 at 3.7h + third-of-day, all skipped) reconfirm the cron schedule may be firing extra runs too soon after the prior one. Consider widening the minimum inter-run spacing (e.g. ≥6h, which #46 at 7.6h after #44 satisfied) or capping to one fire/day given chronic pool-thinness (22nd+ consecutive dry-search runs, 30th consecutive 0-follow-back).
+
+---
+
+## 2026-06-12 13:03 UTC — Run #48 (SKIPPED — moratorium window, 1am–7am Pacific)
+
+**Status:** No-op. Stopped at Step 0 moratorium check before loading Chrome MCP tools, switching accounts, or taking any X action. No tab opened → Step 14 tab-close is a clean no-op.
+
+**Reason — hard moratorium hit:** Session fired at 2026-06-12 13:03 UTC = **06:03 PDT**, which falls squarely inside the **1am–7am Pacific Time** moratorium defined in Step 0. The moratorium is an unconditional hard stop ("stop immediately without loading any tools") — it overrides any other consideration. KL time was 21:03 +08.
+
+**Secondary note (not the gating reason):** This is also the first fire of June 12 PDT (no successful run yet today — #46 at 01:21 UTC and #47 at 05:03 UTC both landed on June 11 PDT), so the twice-daily ceiling would NOT have blocked it. Spacing since #46 is ~11.7h, comfortably clear. The moratorium alone is why this run is a no-op; pool/spacing were not the issue this time.
+
+**Followers:** not measured (no account switch performed).
+**Action taken:** none. Routine exited at Step 0. No tab opened → Step 14 clean no-op.
+
+**Carried-forward (unchanged from #46/#47 — for next real run):**
+- **Cardano stake-CTA alternation: #46 used KYSN2 → next = KYSN.** ALWAYS suppress cexplorer.io card — but **WAIT FOR THE CARD TO FULLY RENDER (image + pool-name title) BEFORE clicking ×** (suppression FAILED #46 by clicking the loading skeleton). Keep avoiding ADA price-drama (CC-election Jun 21; budget-vote process; VRHF hard-fork ops; Hoskinson Discord-migration drama).
+- **CHECK THREAD for prior @KysenPool replies before replying when direct-visiting a foundation's recent posts** (Canton P35 near-dup lesson).
+- **Acki Nacki Tier-4 watch: @ackinacki is WRONG (personal acct) — real foundation handle TBD (user to confirm).** Vexidus Labs (@vexiduslabs, 51 followers) sub-gate watch.
+- Cosmos: ease off ATOM CTAs (well-warmed #43/#44/#46); watch for fresh non-CTA anchors. Canton: $USDCx/Kraken follow-through; OpenZeppelin dev-tooling; Protocol 35 rollout. Midnight: DUST-Pool Tier-2 template watch. Story: thought-leadership. SSV/Lido-536: fresh non-token thesis only (cSSV-Syndicate saturating until ~Jul 9).
+- **Erin Vanderberg (@ErintheCyborg) — warmest BD thread, user DM follow-up (16th carry).** @MakDaVeli (2,201) + @DoublePi_Crypto (905) — sub-gate operator decisions pending user.
+
+**Re-flag for user (recurring):** the cron continues to fire runs at awkward times — this one at 06:03 PDT lands inside the moratorium. Combined with the close-spacing skips (#42/#45/#47), the schedule may benefit from being retimed to fire during active Pacific daytime/evening hours and with ≥6h spacing, to reduce the rate of guaranteed no-op fires.
