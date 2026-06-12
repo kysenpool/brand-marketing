@@ -3447,3 +3447,29 @@
 - **Erin Vanderberg (@ErintheCyborg) — warmest BD thread, user DM follow-up (16th carry).** @MakDaVeli (2,201) + @DoublePi_Crypto (905) — sub-gate operator decisions pending user.
 
 **Re-flag for user (recurring):** the cron continues to fire runs at awkward times — this one at 06:03 PDT lands inside the moratorium. Combined with the close-spacing skips (#42/#45/#47), the schedule may benefit from being retimed to fire during active Pacific daytime/evening hours and with ≥6h spacing, to reduce the rate of guaranteed no-op fires.
+
+---
+
+## 2026-06-12 17:03 UTC — Run #49 (ABORTED — Chrome extension not connected)
+
+**Status:** No-op abort at Step 2. `list_connected_browsers` returned `[]` on two consecutive attempts — no Chrome browser with the extension is paired to this account right now. Per Step 2, delegated-account access only works through the user's authenticated browser session; the routine does NOT fall back to the X API. No `tabs_context_mcp` call was reached → no tab was ever opened → Step 14 tab-close is a clean no-op (nothing to close).
+
+**Not a moratorium or spacing issue.** This fire is legitimately due: 2026-06-12 17:03 UTC = **10:03 PDT**, outside the 1am–7am PT moratorium, and it is the **first real run of the June 12 PDT calendar day** (#47 at 05:03 UTC and #46 at 01:21 UTC both landed June 11 PDT; #48 at 13:03 UTC was the moratorium skip). Spacing since the last successful run (#46, 01:21 UTC) is ~15.7h — comfortably clear. The run would have proceeded normally; it is blocked purely by the missing browser connection, an environment/infrastructure gap, not a guardrail.
+
+**Followers:** not measured (no account switch performed; browser never connected).
+**Action taken:** none. Routine exited at Step 2. No tab opened → Step 14 clean no-op.
+
+**Search picker (computed, unused this run — for reference / next run):** day_of_year 163 + run_index 49. Q1 idx20 = `crypto market microstructure`; Q2 idx8 = `Ethereum DVT`/`SSV operator network`; Q3 = #29 `Symbiotic restaking`/`Karak network validators`; Q4 = #33 `AI agent network validators`/`AI x crypto foundation`.
+
+**Carried-forward (unchanged from #46/#47/#48 — for next real run):**
+- **Cardano stake-CTA alternation: #46 used KYSN2 → next = KYSN.** ALWAYS suppress cexplorer.io card — but **WAIT FOR THE CARD TO FULLY RENDER (image + pool-name title) BEFORE clicking ×** (suppression FAILED #46 by clicking the loading skeleton). Keep avoiding ADA price-drama (CC-election Jun 21; budget-vote process; VRHF hard-fork ops; Hoskinson Discord-migration drama).
+- **CHECK THREAD for prior @KysenPool replies before replying when direct-visiting a foundation's recent posts** (Canton P35 near-dup lesson).
+- **Acki Nacki Tier-4 watch: @ackinacki is WRONG (personal acct) — real foundation handle TBD (user to confirm).** Vexidus Labs (@vexiduslabs, 51 followers) sub-gate watch.
+- Cosmos: ease off ATOM CTAs (well-warmed #43/#44/#46); watch for fresh non-CTA anchors. Canton: $USDCx/Kraken follow-through; OpenZeppelin dev-tooling; Protocol 35 rollout. Midnight: DUST-Pool Tier-2 template watch. Story: thought-leadership (no stake anchor). SSV/Lido-536: fresh non-token thesis only (cSSV-Syndicate saturating until ~Jul 9).
+- **Erin Vanderberg (@ErintheCyborg) — warmest BD thread, user DM follow-up (17th carry).** @MakDaVeli (2,201) + @DoublePi_Crypto (905) — sub-gate operator decisions pending user.
+
+**Re-flag for user:**
+- **Chrome extension disconnected at run time.** Two consecutive `list_connected_browsers` calls returned empty. To let the routine execute, Chrome must be open with the Claude-in-Chrome extension connected and the @kysenpool delegated session authenticated. This is the gating issue for #49 — no engagement possible without it.
+- **Recurring schedule note (carried from #45/#47/#48):** the cron keeps firing at awkward times (moratorium / close-spacing skips on #42/#45/#47/#48). Combined with this missing-browser abort, consider retiming the schedule to fire during active Pacific daytime/evening hours with ≥6h spacing so fires land when both the moratorium is clear AND Chrome is likely to be open and connected.
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement taken; tunable-edit discipline not exercised on an abort).
