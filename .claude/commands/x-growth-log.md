@@ -3712,3 +3712,27 @@ So the run is blocked purely by the environment/infrastructure gap (Chrome not c
 - **Recurring schedule note (carried from #45/#47–#56):** the cron keeps firing into moratorium / missing-browser windows. Consider retiming the schedule to fire during active Pacific daytime/evening hours with ≥6h spacing so fires land when both the moratorium is clear AND Chrome is likely to be open and connected.
 
 **Suggested or applied skill adjustments:** none (no tab opened, no engagement taken; tunable-edit discipline not exercised on an abort).
+
+---
+
+## 2026-06-14 13:03 UTC — Run #58 (SKIPPED — moratorium window 1am–7am PT)
+
+**Status:** Clean moratorium skip at Step 0. Session start 2026-06-14 13:03 UTC = **2026-06-14 06:03 PDT**, inside the 1am–7am Pacific moratorium window. Per Step 0, the routine stops immediately without loading any tools. No Chrome MCP load, no account switch, no `tabs_context_mcp` call → no tab was ever opened → Step 14 tab-close is a clean no-op.
+
+**Followers:** not measured (moratorium skip; no account switch performed).
+**Action taken:** none. Routine exited at Step 0.
+
+**Search picker (computed, unused — for reference / next run):** day_of_year 165 + run_index 58 = 223. Q1 idx 7 = `Lido SSV operator` (#7); Q2 idx 19 = `quant crypto strategy` (#19); Q3 = #32 `validator RFP`/`validator selection`; Q4 = #36 `AVS AI operator`/`EigenLayer AI`.
+
+**Carried-forward (unchanged from #46–#57 — for next real run):**
+- **Cardano stake-CTA alternation: #46 used KYSN2 → next = KYSN.** ALWAYS suppress cexplorer.io card — but **WAIT FOR THE CARD TO FULLY RENDER (image + pool-name title) BEFORE clicking ×** (suppression FAILED #46 by clicking the loading skeleton). Keep avoiding ADA price-drama (CC-election Jun 21; budget-vote process; VRHF hard-fork ops; Hoskinson Discord-migration drama).
+- **CHECK THREAD for prior @KysenPool replies before replying when direct-visiting a foundation's recent posts** (Canton P35 near-dup lesson).
+- **Acki Nacki Tier-4 watch: @ackinacki is WRONG (personal acct) — real foundation handle TBD (user to confirm).** Vexidus Labs (@vexiduslabs, 51 followers) sub-gate watch.
+- Cosmos: ease off ATOM CTAs (well-warmed #43/#44/#46); watch for fresh non-CTA anchors. Canton: $USDCx/Kraken follow-through; OpenZeppelin dev-tooling; Protocol 35 rollout. Midnight: DUST-Pool Tier-2 template watch. Story: thought-leadership (no stake anchor). SSV/Lido-536: fresh non-token thesis only (cSSV-Syndicate saturating until ~Jul 9).
+- **Erin Vanderberg (@ErintheCyborg) — warmest BD thread, user DM follow-up (24th carry).** @MakDaVeli (2,201) + @DoublePi_Crypto (905) — sub-gate operator decisions pending user.
+
+**Re-flag for user (URGENT — Chrome still the dominant blocker):**
+- **This fire was a moratorium skip, not a Chrome abort — but the Chrome-disconnected problem from #49–#57 is unresolved.** Seven Chrome-not-connected aborts in the last nine fires (#49–#52, #54, #55, #56, #57; #53 and #58 moratorium). Chrome must be open with the Claude-in-Chrome extension connected and the @kysenpool delegated session authenticated for any real engagement. **No @kysenpool engagement has happened since #46 (~60h ago).**
+- **Recurring schedule note (carried from #45/#47–#57):** the cron keeps firing into moratorium / missing-browser windows. Consider retiming the schedule to fire during active Pacific daytime/evening hours with ≥6h spacing so fires land when both the moratorium is clear AND Chrome is likely to be open and connected.
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement taken; tunable-edit discipline not exercised on a moratorium skip).
