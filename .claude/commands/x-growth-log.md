@@ -3823,3 +3823,27 @@ So the run is blocked purely by the environment/infrastructure gap (Chrome not c
 - **Schedule retiming is NOT the fix.** This fire landed at 10am PT — squarely in the active daytime window the prior notes recommended — and Chrome was still disconnected. The blocker is the browser/extension not being open+paired, not the cron timing. The actionable ask: open Chrome on the Mac with the Claude-in-Chrome extension installed, signed in, and the @kysenpool delegated session authenticated, then leave it running so a fire can land.
 
 **Suggested or applied skill adjustments:** none (no tab opened, no engagement taken; tunable-edit discipline not exercised on an abort).
+
+## 2026-06-15 13:03 UTC — Run #60 (SKIPPED — moratorium window 1am–7am PT)
+
+**Status:** Clean moratorium skip at Step 0. Session start 2026-06-15 13:03 UTC = **2026-06-15 06:03 PDT**, which falls **inside the 1am–7am Pacific moratorium window**. Per Step 0, the routine stops immediately without loading any tools (Chrome MCP never loaded, no account switch, no `tabs_context_mcp` call). No tab was ever opened → Step 14 tab-close is a clean no-op (nothing to close). (KL was 15 Jun 21:03 +08 for reference.)
+
+**Why a skip, not an abort:** unlike the recent Chrome-not-connected aborts (#49–#52, #54–#57, #59), this fire was gated by the moratorium guardrail before any tool load was attempted — so the browser-connectivity state was never tested this run. The prior #61/#60 worktree-branch commits are on the detached worktree lineage; the canonical `main` log ended at #59, so this entry is the next sequential on `main`.
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 166 + run_index 60 = 226. Q1 idx 10 = `liquid staking risk` (#10); Q2 idx 22 = `on-chain liquidation` (#22); Q3 = #27 `mainnet launch validator set`; Q4 = #35 `Bittensor subnet`/`Allora network`/`Ritual AI`.
+
+**Followers:** not measured (no account switch; moratorium skip before any browser action).
+**Action taken:** none. Routine exited at Step 0. No tab opened → Step 14 clean no-op.
+
+**Carried-forward (unchanged from #46 — for next real run):**
+- **Cardano stake-CTA alternation: #46 used KYSN2 → next = KYSN.** ALWAYS suppress cexplorer.io card — but **WAIT FOR THE CARD TO FULLY RENDER (image + pool-name title) BEFORE clicking ×** (suppression FAILED #46 by clicking the loading skeleton). Keep avoiding ADA price-drama (CC-election Jun 21; budget-vote process; VRHF hard-fork ops; Hoskinson Discord-migration drama).
+- **CHECK THREAD for prior @KysenPool replies before replying when direct-visiting a foundation's recent posts** (Canton P35 near-dup lesson).
+- **Acki Nacki Tier-4 watch: @ackinacki is WRONG (personal acct) — real foundation handle TBD (user to confirm).** Vexidus Labs (@vexiduslabs, 51 followers) sub-gate watch.
+- Cosmos: ease off ATOM CTAs (well-warmed #43/#44/#46); watch for fresh non-CTA anchors. Canton: $USDCx/Kraken follow-through; OpenZeppelin dev-tooling; Protocol 35 rollout. Midnight: DUST-Pool Tier-2 template watch. Story: thought-leadership (no stake anchor). SSV/Lido-536: fresh non-token thesis only (cSSV-Syndicate saturating until ~Jul 9).
+- **Erin Vanderberg (@ErintheCyborg) — warmest BD thread, user DM follow-up (25th carry).** @MakDaVeli (2,201) + @DoublePi_Crypto (905) — sub-gate operator decisions pending user.
+
+**Re-flag for user (still URGENT — environment gap persists across fires):**
+- **Chrome extension disconnected has blocked 8 of the last 10 non-moratorium fires (#49–#52, #54–#57, #59).** This fire (#60) was a moratorium skip so connectivity wasn't tested, but the standing ask is unchanged: open Chrome on the Mac with the Claude-in-Chrome extension installed, signed in, and the @kysenpool delegated session authenticated, and leave it running so a daytime fire can land. **No @kysenpool engagement has happened since #46 (~3.5 days ago).**
+- **Schedule timing note:** this fire landed at 06:03 PDT — just inside the moratorium's tail end. If the user wants more daytime coverage, nudging the cron toward later-morning/afternoon PT fires would both clear the moratorium and hit the active window.
+
+**Suggested or applied skill adjustments:** none (moratorium skip; no engagement taken, tunable-edit discipline not exercised).
