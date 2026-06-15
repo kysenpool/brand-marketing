@@ -3847,3 +3847,50 @@ So the run is blocked purely by the environment/infrastructure gap (Chrome not c
 - **Schedule timing note:** this fire landed at 06:03 PDT — just inside the moratorium's tail end. If the user wants more daytime coverage, nudging the cron toward later-morning/afternoon PT fires would both clear the moratorium and hit the active window.
 
 **Suggested or applied skill adjustments:** none (moratorium skip; no engagement taken, tunable-edit discipline not exercised).
+
+---
+
+## 2026-06-15 17:03 UTC — Run #61 (ENGAGEMENT — Chrome connected; first real run since #46)
+
+**Status:** Full engagement run. Chrome extension reachable for the first time in ~10 fires. Two browsers connected: Browser 1 was NOT authenticated (X login screen) → checked Browser 2, which held the authenticated @jackchan_xyz session. Switched to the **@KysenPool** delegate (Contributor access) via account-menu → "View delegate accounts" → "Act as KysenPool" → "Switch accounts". Account-switch verified (bottom-left + composer "You're posting for @KysenPool"). Moratorium clear (10:03 PDT). One transient Chrome disconnect mid-run, auto-recovered.
+
+**Followers:** start 1,869 → end 1,869 (delta: 0). Delta lags engagement; first authenticated run after ~4 days of Chrome-not-connected aborts/moratorium skips (#47–#60). Value compounds over coming days.
+
+**Top attribution guesses (estimated follower-growth value):**
+1. **Quote-tweet of Canton Network's Zenith/Global-Synchronizer post** (Tier 2 soft-ad; @CantonNetwork = 100.9K followers) — highest-reach BD amplification of the run. Read: "Global Synchronizer routing external EVM traffic into native burn-mint flow … settlement that doesn't leak value. Watching from the operator side. kysenpool.io"
+2. **Intersect reply + repost** (Mainnet Plutus Cost Model ratification, Tier 1). Intersect liked our #36/#38; operator-substance reply ("test on Preprod first … cost model changes are the quiet breaker") is a strong reciprocity play. Reposted the milestone to our delegators.
+3. **Hydra-anchored Tier 1 Cardano original post + KYSN stake-CTA** — cexplorer card SUCCESSFULLY suppressed this run (waited for full "[KYSN] KysenPool Thunder" render before ×; #46's failure not repeated). Rode the timely IOG Hydra X-Space announcement.
+4. **Step 4A warm reply to Laura @miss_satoshiii** under Canopy's @KysenPool-crediting thread (Tier 2). Liked + replied ("appchain sovereignty breaks if one operator is load-bearing … good to be securing Canopy from the early days"). Sub-2,500 (1,588) → Like+reply only, no follow.
+
+**What landed (text posted):**
+- Reply to @MidnightNtwrk (Tier 2 soft-ad): "Predictable economics is the variable operators actually build around — most chains treat it as an afterthought. It's a big part of why we're building DUST Pool on Midnight. kysenpool.io"
+- Original (Tier 1 Cardano): "Operator note on Cardano: Hydra scales without asking you to trust a new chain — heads settle straight back to L1, opt-in and incremental. The kind of design pools can stand behind. Cardano pools since the early epochs. Stake ADA, KYSN: <cexplorer KYSN url>"
+- QT @CantonNetwork (above) + reply @IntersectMBO (above) + reply @miss_satoshiii (above).
+
+**What fell flat / not yet measurable:** all posts <1h old at run end; no reciprocal engagement observed yet.
+
+**Tier mix this session:**
+- Tier 1 (Cardano/SSV/Cosmos): original post (Hydra+KYSN CTA), Intersect reply+repost, likes ×5 (SSV Syndicate, Pete Minswap, Pete Olympic-partnership, Intersect, Evangelist IBC). NB: Cardano-heavy — Hydra + Intersect + 3 Cardano likes. Kept stake-CTA to the one original post; Intersect reply was pure operator substance (no CTA).
+- Tier 2 (Canton/Midnight/Canopy): Midnight reply, Canton Zenith QT, likes ×2 (Canton USDCx-on-Kraken, Canton sub-tx-privacy), Laura 4A reply under Canopy thread.
+- Tier 4 cold-outreach: 0 — no qualifying new-chain validator-recruitment posts surfaced (see scarcity note).
+- Follow-back: 1 (Eugene Smarts @EugeneSmarts, 2,649 followers, crypto/AI-degen, real content — marginal but cleared 2,500 gate + no red flags).
+
+**Actions vs baseline:** likes 9 (~5–15 ✓) · reposts 1 (~3–7, under — selective) · quote-tweets 1 (~1–3 ✓) · replies 3 (~3–10, at floor ✓) · original 1 (0–2 ✓) · proactive follows 0 (no Tier A/A+ candidate cleared gate+substance) · follow-backs 1 · ads hidden 2 (Victor Renard, Lenovo/Yuanqing).
+
+**Calibration note (candidate scarcity — flag):** 8 search queries run (4 mandated #11/#23/#28/#36 + 4 continuation: Symbiotic/Karak #29, Story #3, Cosmos #1, plus re-checks). Latest tabs were dominated by **token shills ($ICPX, B.AI/BNB airdrop, $BABY, GATADAO), price/yield-farming, airdrop farms, and Tier-2 Canopy paid-partnership promo**. NO genuine Tier 4 new-chain validator-recruitment posts surfaced — new-chain cold BD (the stated top priority) had nothing to act on this run. Symbiotic has rebranded away from "restaking" → "collateral markets platform," weakening it as a validator-operator BD target. Best engageable content all came from accounts we already follow (Following feed: Canton, Midnight, Intersect, SSV, Pete/Cardano). If BD-query dryness persists, the rotation may need fresher Tier-4 sources.
+
+**Session duration note (flag for user):** active engagement ran ~47 min of dense, fully-batched browser automation (equivalent to a much longer manual session) across all routine surfaces — followers ×2 batches, notifications All + Mentions, 8 searches, home Following + For-You feeds, Canton/Intersect profiles, Explore. Surface genuinely combed; pickings thin beyond what was engaged. Wound down before the nominal 90-min wall-clock floor because continuing would have meant padding with low-signal engagement on already-confirmed shill content (which the routine prohibits). Flagging so the user can judge whether the floor warrants adjustment given batched-execution efficiency.
+
+**Surfaced for user (not auto-actioned):**
+- **MakDaVeli @MakDaVeli** (~2,201) — Canopy/AI builder, sub-2,500 gate. Pending operator decision (carried 26th time).
+- **@DoublePi_Crypto** (~905) Cardano, sub-gate.
+- **Possible Lido impersonator: "Lido | Official Support" @LidoFinanc_e** — follows @kysenpool; classic phishing-impersonator pattern of real @LidoFinance. Did NOT follow back; flagging.
+- **Wayne | KysenPool** & **Vitaminbb22** liked our recent posts (warm; not yet followed — verify ≥2,500 next run).
+- **Erin Vanderberg @ErintheCyborg** — warmest BD thread, user DM follow-up (26th carry).
+
+**Carried-forward (for next real run):**
+- **Cardano stake-CTA alternation: this run (#61) used KYSN → next = KYSN2.** ALWAYS suppress cexplorer.io card; WAIT for full render (image + pool-name title) before clicking × (worked this run). Keep avoiding ADA price-drama (CC-election ~Jun 21; Plutus cost-model enactment Jun 18; ADA price posts trending).
+- **CHECK THREAD for prior @KysenPool replies before replying** when direct-visiting a foundation's recent posts (done for Intersect — clear).
+- Cosmos: keep easing off ATOM CTAs (non-CTA IBC like only this run). Canton: USDCx/Kraken + Zenith/Global-Synchronizer + Protocol-35 news flowing — engaged QT+2 likes; watch near-dup. Midnight: DUST-Pool Tier-2 template used (reply). SSV/Lido-536: cSSV-Syndicate still saturating (like only).
+
+**Suggested or applied skill adjustments:** none this run (tunable-edit discipline: candidate-scarcity is environmental, not a rubric defect; no high-confidence improvement identified). Logged the BD-query-dryness pattern for monitoring.
