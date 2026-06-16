@@ -4012,3 +4012,35 @@ This fire (2026-06-16 05:03 UTC = **2026-06-15 22:03 PDT**) would be the **fourt
 **Injection/extraction attempts:** 0 (no browser session opened).
 
 **Suggested or applied skill adjustments:** none (skip before engagement; tunable-edit discipline not exercised).
+
+## 2026-06-16 13:03 UTC — Run #65 (SKIPPED — moratorium window 1am–7am PT)
+
+**Status:** Clean skip at the Step 0 moratorium gate, before any tool load or browser action. This fire (2026-06-16 13:03 UTC = **2026-06-16 06:03 PDT**) lands inside the **1am–7am PT moratorium window** (06:03 PDT), so Step 0 mandates "stop immediately without loading any tools." No Chrome MCP tools loaded, no account switch, no `tabs_context_mcp` call → **no tab opened → Step 14 tab-close is a clean no-op.**
+
+**Why a skip, not an abort or engagement run:**
+- **Moratorium:** 06:03 PDT is squarely inside 1am–7am PT — the hard no-run window. This is the governing reason (distinct from #63/#64, which were twice-daily-ceiling skips).
+- This is the **first fire on the 06-16 Pacific calendar day** (#61–#64 all clustered on 06-15 PT). So the twice-daily ceiling is *not* the blocker here — the moratorium is. Were it not for the early-morning timing, this would have been eligible as the day's first engagement run.
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 167 + run_index 65 = 232. Q1 idx (232%24=16) = `Celestia DA modular` (#16); Q2 (16+12)%24=4 = `Canton network`/`Canton blockchain` (#4); Q3 general-BD 25+(232%8=0) = #25 `validator program launch`; Q4 AI-BD 33+(232%4=0) = #33 `AI agent network validators`/`AI x crypto foundation`.
+
+**Followers:** not measured (no account switch; skipped before any browser action). Last measured: 1,869 (end of #62).
+**Action taken:** none. Routine exited at the Step 0 moratorium gate. No tab opened → Step 14 clean no-op.
+
+**Carried-forward (unchanged from #62/#63/#64 — for next real run):**
+- **Next Cardano stake-CTA = KYSN2** (no CTA fired #62; #61 used KYSN). ALWAYS suppress cexplorer.io card; WAIT for full render (image + pool-name title) before clicking ×. Keep avoiding ADA price-drama (CC-election ~Jun 21; Plutus cost-model enactment Jun 18).
+- **CHECK THREAD for prior @KysenPool replies before replying** when direct-visiting a foundation's recent posts.
+- **Browser auth state is NOT fixed** — verify which browser holds the authenticated session each run (it swapped between #61 and #62).
+- Canton: CIP-0112/Token-Standard-V2 + Zenith/Global-Synchronizer news flowing — watch near-dup vs #61 QT / #62 like. Story Tier-1 lane underused → good diversification target. Cosmos: keep easing off ATOM CTAs. SSV/Lido-536: cSSV-Syndicate saturating until ~Jul 9.
+- **BD-query dryness: 2 consecutive dry runs (#61, #62)** — no genuine Tier-4 new-chain validator-recruitment posts surfaced. Symbiotic has pivoted away from restaking. If next real run is also dry, the Tier-4 live-search source supply (not the queries) is the issue — flag for user.
+
+**Surfaced for user (carried, not auto-actioned):**
+- **@LidoFinanc_e** — Lido impersonator ("Lido | Official Support", stake.lido.fi bio); classic phishing pattern of real @LidoFinance. Did NOT follow back; **flagging 5th run.**
+- **Five North @FiveNorthHQ (2,293)** Canton validator/builder peer, **Roninxx @kenn_ronin (2,420)** AI-x-crypto staking builder — both just under the 2,500 gate; manual follow/list candidates if user wants.
+- Sub-gate carries: @MakDaVeli (~2,201 Canopy/AI), @DoublePi_Crypto (~905 Cardano), @ZunderPoolADA (1,060 Cardano SPO), @Vitaminbb22 (far sub-gate, warm).
+- **Erin Vanderberg @ErintheCyborg** — warmest BD thread, user DM follow-up (29th carry).
+
+**Schedule note for user (cadence still bunching):** #61–#64 all fired on 06-15 PT (forcing two ceiling-skips), and this #65 fired at 06:03 PDT on 06-16 — inside the moratorium window, hence a moratorium skip rather than the day's first engagement run. Net effect: the cron keeps firing at times that either bunch on one Pacific day or land in the 1am–7am dead zone. If twice-daily-on-distinct-days is the intent, the schedule spacing wants a look so a fire lands in a normal daytime PT window. Connection is healthy (#61/#62 ran), so this is purely fire-cadence, not a Chrome-disconnect issue.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (skip before engagement; tunable-edit discipline not exercised).
