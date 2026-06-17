@@ -2,6 +2,33 @@
 
 ---
 
+## 2026-06-17 01:03 UTC — Run #67 (SKIPPED — spacing; too soon after #66 engagement run)
+
+**Status:** Deliberate skip on spacing/freshness grounds. Session start 2026-06-17 01:03 UTC = **2026-06-16 18:03 PDT** (KL 17 Jun 09:03 +08) — **outside** the 1am–7am PT moratorium, so Step 0 passed. But **Run #66 was a full ENGAGEMENT run only ~4h earlier** (2026-06-16 14:03 PDT). The external guardrail is "at most twice a day"; today (06-16 PDT) had exactly one engagement run (#66), so a second is *permitted by the ceiling but not required*.
+
+**Why skip rather than run the permitted 2nd slot:** #66 thoroughly combed a genuinely thin surface only 4h ago — every quality candidate fell under the 2,500 follow gate (@stakao_com, @paplianos, @corroonian all sub-gate), the news cycle was drama/widely-covered (ADA Discord-governance, Bittensor retail subnet politics), and the search rotation was flagged noise-prone. The surface will not have meaningfully refreshed in 4h. A second pass now would force low-signal engagement against the Step 9/11 quality-over-volume bar, and prior runs target ≥6h spacing for the two daily touches. Better to let the second daily touch land further out.
+
+**No tab opened:** Chrome MCP was not loaded and no browser/tab was touched this fire (skip decided at the guardrail stage, before Step 1). Step 14 tab-close is a clean no-op.
+
+**Twice-daily ceiling / spacing:** 1 prior engagement run today (#66 @ 14:03 PDT). This skip keeps the door open for a properly-spaced 2nd touch on a later fire (or tomorrow). Last *engagement* run remains #66 (~4h ago).
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 167 + run_index 67 = 234. Q1 (234%24=18) = #18 `Hyperliquid perps`; Q2 ((18+12)%24=6) = #6 `Pelagos Network`/`Canopy network`; Q3 general-BD = 25 + (234%8=2) = #27 `mainnet launch validator set`; Q4 AI-BD = 33 + (234%4=2) = #35 `Bittensor subnet`/`Allora network`/`Ritual AI`.
+
+**Followers:** not measured (no account switch; no engagement).
+**Action taken:** none. Skipped at guardrail stage.
+
+**Carried-forward (unchanged from #66 — for next real run):**
+- **Cardano stake-CTA alternation: #66 used KYSN → next = KYSN2.** ALWAYS suppress cexplorer.io card (× after FULL render); note QT-with-URL renders NO card (quoted post takes the slot). Keep avoiding ADA price/Hoskinson-Discord-governance drama.
+- **Cosmos content is the warmest audience surface** (strong reciprocal likes/reposts) — ease off ATOM stake-CTAs (well-warmed); favor non-CTA technical anchors + likes/reposts of official @cosmos content. @cosmos "Follows you."
+- **Search rotation noise (from #66 calibration flag 1):** refine noise-prone queries to quoted phrases / $TICKER / handle-anchored forms (`@Midnight_ntwrk`, `"Story Protocol" $IP`, `EigenLayer AVS operator`). Biggest lever on BD-find rate.
+- **Manual-follow watch (sub-gate, genuinely good): @stakao_com, @paplianos, @corroonian.** **Erin Vanderberg (@ErintheCyborg) — warmest historical BD thread, user DM follow-up (28th carry).** @MakDaVeli (2,201) + @DoublePi_Crypto (905) sub-gate operator decisions pending user.
+
+**Re-flag for user:** none new. Chrome reconnected as of #66 (the multi-week #47–#65 outage is resolved); this skip is purely a spacing decision, not a connectivity abort.
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a skip).
+
+---
+
 ## 2026-06-16 21:03 UTC — Run #66 (ENGAGEMENT — Chrome RECONNECTED; first real run since #46)
 
 **Status:** Full engagement run. Session start 2026-06-16 21:03 UTC = **14:03 PDT** (KL 17 Jun 05:03 +08) — outside the 1am–7am PT moratorium. Twice-daily ceiling clear (today 06-16 PDT had only #65 at 06:03 PDT, a moratorium skip → 0 prior engagement runs today). **Chrome extension finally connected** — `list_connected_browsers` returned 2 browsers (selected Browser 1, deviceId 3f467bc2). Account was already on @KysenPool (composer + sidebar confirmed; no switch needed). This breaks the unbroken #47–#65 wall of Chrome-not-connected aborts + moratorium/ceiling skips. **First real @kysenpool engagement since #46 (~4.6 days).**
