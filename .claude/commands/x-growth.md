@@ -240,7 +240,7 @@ Rotation pool (covers KysenPool's beats — supported chains, validator/restakin
 
 **Trading / quant / perps (technical substance only, never product-pitch):**
 18. `Hyperliquid perps`
-19. `quant crypto strategy`
+19. `restaking operator economics`
 20. `crypto market microstructure`
 21. `perpetuals DEX infrastructure` OR `onchain perps operator`
 22. `on-chain liquidation`
