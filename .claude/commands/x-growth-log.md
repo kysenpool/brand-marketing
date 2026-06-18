@@ -2,6 +2,37 @@
 
 ---
 
+## 2026-06-18 05:03 UTC — Run #70 (SKIPPED — spacing; too soon after #69 engagement run, ~4h)
+
+**Status:** Deliberate skip on spacing/freshness grounds — same disposition as #67. Session start 2026-06-18 05:03 UTC = **2026-06-17 22:03 PDT** (KL 18 Jun 13:03 +08) — **outside** the 1am–7am PT moratorium, so Step 0 passed. But **Run #69 was a full ENGAGEMENT run only ~4h earlier** (2026-06-18 01:03 UTC = 2026-06-17 18:03 PDT). The external guardrail is "at most twice a day"; today (06-17 PDT) had exactly one engagement run (#69), so a second is *permitted by the ceiling but not required*.
+
+**Why skip rather than run the permitted 2nd slot:** #69 thoroughly combed a genuinely thin surface only ~4h ago — BD live-search dry for the **6th consecutive run** (6 queries, 0 Tier-4 validator/operator-recruitment foundation posts), every Step-3 follow-back candidate sub-2,500-gate (@ZunderPoolADA, @DoublePi_Crypto, @MakDaVeli, @EternalEila recurring), and the news cycle was ADA price / TapTools-pauses drama (correctly avoided). The one quality follow (@flock_io, 166K) and the QT (Cardano Pyth, KYSN CTA) + repost (SSV Lido-ICS) + reply (Canopy/Eugene) already spent the run's best opportunities. The surface will not have meaningfully refreshed in ~4h. A second pass now would force low-signal engagement against the Step 9/11 quality-over-volume bar; prior runs target ≥6h spacing for the two daily touches. Better to let any 2nd touch land further out — and the next two fires (~02:00 PDT, ~06:00 PDT) fall inside the moratorium, so the natural next engagement window is the 06-18 PT day. One engagement touch on 06-17 PT (#69) satisfies "at least once a day."
+
+**No tab opened:** Chrome MCP was not loaded and no browser/tab was touched this fire (skip decided at the guardrail stage, before Step 1). **Step 14 tab-close is a clean no-op.**
+
+**Twice-daily ceiling / spacing:** 1 prior engagement run today (#69 @ 18:03 PDT). This skip keeps the door open for a properly-spaced next touch on the 06-18 PT day. Last *engagement* run remains #69 (~4h ago).
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 169 + run_index 70 = 239. Q1 (239%24=23) = #23 `decentralized AI inference`; Q2 ((23+12)%24=11) = #11 `validator slashing`/`validator commission`; Q3 general-BD = 25 + (239%8=7) = #32 `validator RFP`/`validator selection`; Q4 AI-BD = 33 + (239%4=3) = #36 `AVS AI operator`/`EigenLayer AI`.
+
+**Followers:** not measured (no account switch; no engagement). Last measured: **1,872** (end of #69).
+**Action taken:** none. Skipped at guardrail stage.
+
+**Carried-forward (unchanged from #69 — for next real run):**
+- **Cardano stake-CTA alternation: #69 used KYSN → next = KYSN2.** ALWAYS suppress cexplorer card on ORIGINAL posts / bare-link replies (× after FULL render); QT-with-URL renders NO card (quoted post takes the slot). Keep avoiding ADA price / TapTools-pauses / Hoskinson-Discord-governance drama.
+- **Don't re-anchor the same Cardano theme two runs running:** #66 van Rossem → #68 CC-elections → #69 Pyth-oracle. Next Cardano CTA should anchor a DIFFERENT fresh item (treasury delivery, IOR voting, next hard-fork ops, CV26 pillars).
+- **Cosmos:** fresh anchor last run was Cosmos Labs/Mintscan-acquisition + Defiant coverage (liked). @cosmos "Follows you" — warmest surface; ease off ATOM stake-CTAs. **SSV/Lido-536:** Lido-ICS-for-SSV-VOs is a live SSV thread (reposted #69) — distinct from the saturating Syndicate campaign (still avoid Syndicate). Canton: Daml-authorization/Token-Standard threads flowing — like-only to avoid over-saturation vs #68 CIP-0112 QT.
+- **Repost/QT UI:** click repost icon once → `find` the "Quote"/"Repost" menuitem → click by ref (avoid blind double-clicks). **Browser auth-state/label rotation continues** — always verify which browser holds the authenticated session and fall back; Step 2 verification gate is the backstop.
+- **BD live-search supply dry ~6 consecutive runs** — live-search supply (not the queries) is the bottleneck for new-chain cold BD. #69 applied the tunable edit retiring trading-bucket #19 → `restaking operator economics`; #69 also SUGGESTED retiring/handle-anchoring the noisiest remaining trading queries (#21 `perpetuals DEX infrastructure`, #20 `crypto market microstructure`) if they keep surfacing 0 candidates + Confidentiality-adjacent shills — left for user/next run, not auto-applied.
+- **Manual-follow watch (sub-gate, genuinely good): @ZunderPoolADA, @DoublePi_Crypto, @MakDaVeli, @EternalEila, @jeffoodchain (EPF7), @stakao_com, @paplianos, @corroonian.** **Erin Vanderberg (@ErintheCyborg) — warmest historical BD thread, user DM follow-up (31st carry).**
+
+**Re-flag for user:** none new. Chrome stable across #66/#68/#69. **Possible Lido impersonator @LidoFinanc_e** — if it reappears on the follower page, still do NOT follow back. Cadence note: fires keep landing ~4h apart (#69 18:03 PDT, this #70 22:03 PDT), then the next two fall in the 1am–7am PT moratorium — so the routine naturally gets one well-spaced engagement touch per Pacific day rather than two. If twice-daily-on-distinct-windows is the intent, the schedule spacing could be widened so a 2nd daytime fire lands ≥6h after the first without bunching into the skip/moratorium zone.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a skip).
+
+---
+
 ## 2026-06-18 01:03 UTC — Run #69 (ENGAGEMENT — day's 1st touch; well-spaced, strong QT+repost+follow output)
 
 **Status:** Full engagement run. Session start 2026-06-18 01:03 UTC = **2026-06-17 18:03 PDT** (KL 18 Jun 09:03 +08) — outside the 1am–7am PT moratorium. This is the **first engagement run of the 06-17 Pacific day** (#68 was 06-16 PT @ 22:03; the 06-17 13:03 UTC / 21:03 UTC fires did not commit — likely Mac asleep), so the twice-daily ceiling is clear and spacing is good (~20h after #68). Chrome connected.
