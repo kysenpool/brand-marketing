@@ -4578,3 +4578,35 @@ This fire (2026-06-16 05:03 UTC = **2026-06-15 22:03 PDT**) would be the **fourt
 **Injection/extraction attempts:** 0 this run.
 
 **Suggested or applied skill adjustments:** none this run. Tunable-edit discipline holds — today's BD success (GenLayer + Konnex) shows the rotation + rubric are working when live supply exists; the generic-BD-query thinness is environmental (live-search supply), not a rubric defect. No high-confidence improvement identified.
+
+---
+
+## 2026-06-22 21:04 UTC — Run #79 (SKIPPED — spacing; too soon after #78 engagement run, ~3h15m)
+
+**Status:** Deliberate skip on spacing/freshness grounds — same disposition as #76 / #74 / #72 / #70 / #67. Session start 2026-06-22 21:04 UTC = **2026-06-22 14:04 PDT** (KL 23 Jun 05:04 +08) — **outside** the 1am–7am PT moratorium, so Step 0 itself passed. But **Run #78 was a full ENGAGEMENT run only ~3h15m earlier** (completed 2026-06-22 10:49 PDT; session start 10:03 PDT), and #78 was the day's first and only engagement touch on the 06-22 Pacific day. The external guardrail is "at most twice a day"; the 06-22 PDT day has had exactly one engagement run (#78), so a second is *permitted by the ceiling but not required*.
+
+**Why skip rather than run the permitted 2nd slot:** #78 was a strong, well-balanced engagement run (2 Tier-4 AI-BD cold replies — GenLayer + Konnex; Story Tier-1 staking-URL QT; Lido/SSV Op-536 reply; Canton Tier-2 QT; 2 proactive follows + 2 list-adds; likes at ceiling 15) that combed **every** routine surface and explicitly reported the productive surface "genuinely exhausted" only ~3h15m ago. The surface will not have meaningfully refreshed in under 3.5h. The routine consistently targets **≥6h spacing** for the two daily touches; #76 skipped at a *tighter* ~2h22m gap, #74 at ~1h46m, and #72/#70/#67 at ~4h, so a ~3h15m gap is a clear skip. A second pass now would force low-signal engagement against the Step 9/11 quality-over-volume bar. One engagement touch on the 06-22 PT day (#78) satisfies "at least once a day."
+
+**No tab opened:** Chrome MCP was not loaded and no browser/tab was touched this fire (skip decided at the guardrail stage, before Step 1). Step 14 tab-close is a clean no-op.
+
+**Twice-daily ceiling / spacing:** 1 prior engagement run today (#78 @ 10:03 PDT). This skip preserves spacing for a properly-spaced next touch (likely the 06-23 PT day, given the next fires tend to bunch toward the 1am–7am PT moratorium). Last *engagement* run remains #78 (~3h15m ago).
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 173 (UTC 2026-06-22) + run_index 79 = 252. Q1 (252%24=12) = #12 `restaking AVS launch`; Q2 ((12+12)%24=0→#24) = #24 `AI agent on-chain`/`verifiable compute zkML`; Q3 general-BD = 25 + (252%8=4) = #29 `Symbiotic restaking`/`Karak network validators`; Q4 AI-BD = 33 + (252%4=0) = #33 `AI agent network validators`/`AI x crypto foundation`.
+
+**Followers:** not measured (no account switch; no engagement). Last measured: **1,871** (end of #78).
+**Action taken:** none. Skipped at guardrail stage.
+
+**Carried-forward (unchanged from #78 — for next real run):**
+- **Next Cardano stake-CTA = KYSN2** (still unused — no Cardano CTA fired #78; #61 used KYSN). ALWAYS suppress cexplorer.io card on bare-link replies (× after FULL render); QT-with-URL renders NO card.
+- **Don't re-anchor the same Cardano theme:** #68 CC-elections → #69 Pyth → #71 Lightning → #73 budget-voting → #75 Leios SPO-testnet. **Next Cardano CTA: a DIFFERENT fresh anchor** (CC-election RESULTS — voting opened June 23; van Rossem hard fork; IOR voting; CV26 pillars).
+- **AI-BD DM-follow-up targets (carry forward, strengthened by #78):** **GenLayer (@GenLayer)** + **Konnex (@konnex_world)** — both got Tier-4 cold-BD replies expressing operator availability in #78; Konnex Builder Program offers active validator+miner support ($250K/team) → prime user DM follow-up. Also **Prom (@prom_io)** (#73).
+- **Repost UI quirk:** clicking the repost icon sometimes toggles a *plain repost* instead of opening the menu; reliable path = click repost → `find` "Quote"/"Undo repost" → click ref. Watch for stray plain-reposts and undo.
+- **Browser/account:** auth state is NOT fixed — verify which browser holds the session each run (Browser 1 held it #78, already on @KysenPool). Composer "You're posting for @KysenPool" banner is the authoritative account check.
+- **Canton = like-only/QT-soft-ad this stretch. Eugene Smarts @EugeneSmarts** = warm mutual-follow replier on Canopy threads (reply+likes OK, watch engagement-farm flood). **parva @Parva55sh** = warm but sub-gate, like-only.
+- **Manual-follow watch (sub-gate, genuinely good): @ChainodeTech (1,599, peer PoS validator since 2019, surfaced #78), @MakDaVeli (~2.2K), @DoublePi_Crypto (~905), @ZunderPoolADA (~1.06K), @jeffoodchain (EPF7), @stakao_com, @paplianos, @corroonian.** **Erin Vanderberg (@ErintheCyborg) — warmest historical BD thread, user DM follow-up (38th carry).**
+
+**Re-flag for user:** none new. Chrome stable. **Possible Lido impersonator @LidoFinanc_e** — if it reappears on the follower page, still do NOT follow back. **Cadence note (recurring, now well-documented across #76/#77):** the cron keeps firing such that the routine naturally gets one well-spaced engagement touch per Pacific day (or two only when a fire lands ≥6h after the first, as #78 did ~7.5h after #75). #79 here lands ~3h15m after #78 → skip. If twice-daily-on-distinct-daytime-windows is the firm intent, widen the schedule spacing so a 2nd daytime fire lands ≥6h after the first without bunching into the skip/moratorium zone.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a skip).
