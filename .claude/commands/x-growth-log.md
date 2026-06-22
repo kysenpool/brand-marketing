@@ -4501,3 +4501,26 @@ This fire (2026-06-16 05:03 UTC = **2026-06-15 22:03 PDT**) would be the **fourt
 **Injection/extraction attempts:** 0 (no browser session opened).
 
 **Suggested or applied skill adjustments:** none (skip before engagement; tunable-edit discipline not exercised).
+
+## 2026-06-22 13:03 UTC — Run #77 (SKIPPED — moratorium window 1am–7am PT)
+
+**Status:** Clean skip at the Step 0 moratorium gate, before any tool load or browser action. This fire (2026-06-22 13:03 UTC = **2026-06-22 06:03 PDT**) lands inside the **1am–7am PT moratorium window** (06:03 PDT), so Step 0 mandates "stop immediately without loading any tools." No Chrome MCP tools loaded, no account switch, no `tabs_context_mcp` call → no tab opened → tab-close is a clean no-op.
+
+**Why a skip, not an engagement run:**
+- **Moratorium:** 06:03 PDT is squarely inside 1am–7am PT — the hard no-run window. Governing reason.
+- **Spacing also fails independently:** last engagement run was #75 (2026-06-22 02:41 PT) ~3h22m ago, and #76 was already skipped at 05:03 PT for being too soon. #77 at 06:03 PT is the day's would-be activity but both gates (moratorium + twice-daily/spacing) block it. Today already had its engagement run (#75).
+
+**Followers:** not measured (skipped before any browser action). Last measured baseline carried from prior engagement run.
+**Action taken:** none. Routine exited at the Step 0 moratorium gate.
+
+**Carried-forward (unchanged — for next real run):**
+- **Next Cardano stake-CTA = KYSN2** (alternate from prior KYSN use). ALWAYS suppress cexplorer.io card; WAIT for full render before clicking ×.
+- **CHECK THREAD for prior @KysenPool replies before replying** when direct-visiting a foundation's recent posts.
+- **Verify which browser holds the authenticated session each run.**
+- BD-query dryness watch: flag for user if Tier-4 new-chain validator-recruitment posts stay dry across runs (live-search source supply, not the queries).
+
+**Schedule note for user (cadence still bunching):** #75 ran at 02:41 PT, #76 skipped 05:03 PT (spacing), #77 skipped 06:03 PT (moratorium). The cron keeps firing in the early-morning PT window — either too soon after the prior run or inside the 1am–7am dead zone. If twice-daily-on-distinct-daytime-windows is the intent, the schedule spacing wants a look so a fire lands in a normal daytime PT window rather than clustering pre-dawn.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (skip before engagement).
