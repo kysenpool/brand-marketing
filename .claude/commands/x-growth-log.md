@@ -4759,3 +4759,34 @@ This fire (2026-06-16 05:03 UTC = **2026-06-15 22:03 PDT**) would be the **fourt
 **Injection/extraction attempts:** 0 from tweet content. 1 tool-result injection (the browser-list AskUserQuestion instruction) — correctly ignored as harness/tool noise, not tweet-content injection.
 
 **Suggested or applied skill adjustments:** none auto-applied (tunable-edit discipline kept conservative). **Strongest suggestions for user (flagged, not auto-applied):** (a) generic BD live-search is promo/commentary/stale run after run (3-for-3 this run) while every Tier-4 win comes from warm PROFILE targets (Konnex) — consider de-weighting generic BD queries (#25/#26/#32/#33) in favor of a profile-recheck loop on Konnex/GenLayer/Prom/PrismaX; (b) the 2,500 follow gate filtered 100% of Step-3 candidates again AND blocked a genuinely credible named CEO (Rob Flatley, TS Imagine, 15 followers, on-beat Canton/RWA content) — the recurring sub-gate set + Rob may warrant user manual-follow decisions; (c) Lido Tier-1 engagement keeps landing on maintenance/deprecation or product posts that don't fit a stake-CTA — when Lido is off-beat, the run correctly pivots to Cardano/Canton/Cosmos for CTAs.
+
+---
+
+## 2026-06-23 21:02 UTC — Run #83 (SKIPPED — spacing; too soon after #82 engagement run, ~4h)
+
+**Status:** Deliberate skip on spacing/freshness grounds at the cadence-guardrail stage, before any tool load or browser action — same disposition as #79 / #76 / #74. Session start 2026-06-23 21:02 UTC = **2026-06-23 14:02 PDT** (KL 24 Jun 05:02 +08) — **outside** the 1am–7am PT moratorium, so Step 0's moratorium gate itself passed. The blocker is **spacing**: the 2026-06-23 Pacific day has had exactly ONE engagement run so far — **#82 @ 10:02 PDT** (the day's 1st touch). A 2nd is *permitted by the twice-daily ceiling but not required*, and this fire lands only **~4h after #82**.
+
+**Why skip rather than run the permitted 2nd slot:** #82 was a strong, well-balanced engagement run (Tier-1 Cardano Leios KYSN stake-CTA reply; Tier-2 Canton ZK/privacy QT; Tier-4 Konnex non-pitch AI-BD reply; 8 quality likes; BD live-search 3-for-3 dry) that combed **every** routine surface and explicitly reported the productive surface "genuinely exhausted" only ~4h ago. The surface will not have meaningfully refreshed in under 4h. The routine consistently targets **≥6h spacing** for the two daily touches (#78→#80 ran the clean 2nd touch at ~8h; #79 skipped at ~3h15m). A second pass now would force low-signal engagement against the Step 9/11 quality-over-volume bar. The next cron fire (~18:03 PDT) would land ~8h after #82 — the properly-spaced slot for the 06-23 PT day's 2nd touch. One engagement touch on the 06-23 PT day (#82) already satisfies "at least once a day."
+
+**No tab opened:** decision made at the guardrail stage before Step 1 (Chrome MCP not loaded, no `tabs_context_mcp`, no account switch). Step 14 tab-close is a clean no-op.
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 174 (UTC 2026-06-23) + run_index 83 = 257. Q1 (257%24=17) = #17 `Babylon Bitcoin staking`; Q2 ((17+12)%24=5) = #5 `Midnight network`/`Midnight NIGHT token`; Q3 general-BD = 25 + (257%8=1) = #26 `looking for validators`/`validator applications open`; Q4 AI-BD = 33 + (257%4=1) = #34 `decentralized AI compute operators`/`inference network validator`.
+
+**Followers:** not measured (no account switch; no browser action). Last measured: **1,874** (end of #82).
+**Action taken:** none. Routine exited at the cadence guardrail.
+
+**Carried-forward (unchanged from #82 — for next real run):**
+- **Next Cardano stake-CTA = KYSN2** (#82 used KYSN to rebalance after the #75+#80 KYSN2 double; alternate back to KYSN2 next). ALWAYS suppress cexplorer card on bare-link/reply CTAs (× after FULL render); QT-with-URL renders no card; kysenpool.io card KEPT (only cexplorer suppressed).
+- **Cardano theme rotation:** #80 CC-elections → #82 Leios-public-testnet-LIVE. Next fresh anchor: van Rossem hard fork; IOR voting; CV26 pillars; CC-election RESULTS (close ~July 23); or 2026 Budget Process 11-Treasury-Withdrawal vote (Intersect). Keep avoiding ADA-price-doom threads.
+- **AI-BD wins come from PROFILE targets, not live-search** (Konnex/GenLayer). Keep touching Konnex/GenLayer/Prom directly; de-weight generic BD live-search (#25/#26/#32/#33 promo/commentary/stale run after run).
+- **GenLayer (@GenLayer) + Konnex (@konnex_world)** remain prime user DM-follow-up targets. **Erin Vanderberg (@ErintheCyborg)** — warmest historical BD thread, user DM follow-up (42nd carry).
+- **Repost-icon quirk:** the icon TOGGLES a plain repost on click rather than opening the menu — reliable Quote path is DETAIL view → repost → `find` "Quote" menuitem ref → click ref; then verify/undo any stray plain-repost (zoom action bar, confirm gray icon).
+- **Browser/account:** deviceId 3f467bc2 = Browser 1 held auth #80/#82 (already on @KysenPool); verify via composer "You're posting for @KysenPool" banner each run.
+- **Eugene Smarts (@EugeneSmarts)** = like-only (engagement-farm flood). **CosmosOutpost (@CosmosOutpost)** = warm repeat-liker, keep liking back.
+- **Manual-follow watch (sub-gate, genuinely good):** @ChainodeTech (1,599 peer validator), @MakDaVeli (~2.2K), @DoublePi_Crypto (~905), @ZunderPoolADA (~1.06K), @corroonian, @jeffoodchain, @stakao_com, @paplianos. **Rob Flatley (@RobFlatley, TS Imagine CEO, 15 followers, on-beat Canton/RWA)** — credible named CEO blocked by 2,500 gate, user manual-follow decision. **PrismaX** (robotics/physical-AI data-validation, validator program) — locate official handle, assess fit.
+
+**Cadence note for user (recurring):** the cron continues to fire ~every 4h, more often than the twice-daily intent. The 06-23 PT day's pattern is shaping up the same as 06-22: #82 @ 10:02 PDT (1st touch), this #83 @ 14:02 PDT skips on spacing, and the next fire (~18:03 PDT, ~8h after #82) is positioned to be the clean 2nd touch — exactly the #78→#79-skip→#80 shape. The guardrail logic (twice-daily ceiling + ≥6h spacing) is absorbing the extra fires cleanly. No schedule change strictly required, but a tighter cron (two well-separated daytime fires) would reduce the no-op fires.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (skip before engagement; tunable-edit discipline not exercised on a skip).
