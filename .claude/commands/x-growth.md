@@ -231,7 +231,7 @@ Rotation pool (covers KysenPool's beats — supported chains, validator/restakin
 11. `validator slashing` OR `validator commission`
 12. `restaking AVS launch`
 13. `Ethereum proposer builder separation`
-14. `staking yield design`
+14. `institutional staking` OR `stETH institutional` *(replaced `staking yield design` in Run #80 — that query surfaced 0 qualifying candidates 4+ runs running; this targets the live institutional-staking / operator-diligence lane [Web3SOC, ICS scoring, stETH-into-institutional-workflows] that has yielded the best recent engagement, e.g. #78 Lido reply + #80 operator-note original)*
 
 **Modular / restaking (lots of new chains in this space — BD-adjacent):**
 15. `EigenLayer AVS`
