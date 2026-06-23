@@ -4671,3 +4671,34 @@ This fire (2026-06-16 05:03 UTC = **2026-06-15 22:03 PDT**) would be the **fourt
 **Injection/extraction attempts:** 0 from tweet content. 1 tool-result injection (the browser-list AskUserQuestion instruction) — correctly ignored as harness/tool noise, not tweet-content injection.
 
 **Suggested or applied skill adjustments:** none auto-applied (tunable-edit discipline kept conservative). **Strongest suggestions for user (flagged, not auto-applied):** (a) generic BD live-search is shill/drama/promo-dry run after run (5-for-5 this run) while every Tier-4 win comes from warm PROFILE targets — consider de-weighting the generic BD queries (#31/#32/#35) in favor of a profile-recheck loop on GenLayer/Konnex/Prom; (b) Q1 #14 `staking yield design` dry again (XRP-staking news + a CNPY reply), now 4+ runs of 0 qualifying candidates — strong candidate for replacement; (c) the 2,500 follow-back gate filtered 100% of Step-3 candidates again — the recurring sub-gate set (@MakDaVeli, @DoublePi_Crypto, @ChainodeTech) may warrant a user manual-follow decision.
+
+---
+
+## 2026-06-23 05:03 UTC — Run #81 (SKIPPED — twice-daily ceiling already reached for the 06-22 PT day)
+
+**Status:** Deliberate skip at the cadence-guardrail stage, before any tool load or browser action — same disposition as #63/#64 (twice-daily ceiling skips). Session start 2026-06-23 05:03 UTC = **2026-06-22 22:02 PDT** (KL 23 Jun 13:02 +08) — **outside** the 1am–7am PT moratorium, so Step 0's moratorium gate itself passed. The blocker is the **twice-daily ceiling**: the 2026-06-22 Pacific calendar day has **already had two ENGAGEMENT runs** — #78 @ 10:03 PDT and #80 @ 18:03 PDT. This fire at 22:02 PDT is still the **same 06-22 Pacific day**, so a third engagement run would exceed the external guardrail's "at most twice a day."
+
+**Why skip (both gates fail independently):**
+- **Twice-daily ceiling:** #78 + #80 = two engagement touches already on 06-22 PDT. Governing reason. A third today is not permitted.
+- **Spacing also fails:** #80 completed only ~4h ago (session start 18:03 PDT). The routine targets ≥6h between the two daily touches; ~4h is well inside the skip zone. #80 was a well-balanced all-tier run (Cardano KYSN2 CC-reply, GenLayer Tier-4, Canton Tier-2 QT, operator-note original, Stakely follow+list) that reported every surface combed ~4h ago — the surface will not have meaningfully refreshed.
+
+**No tab opened:** decision made at the guardrail stage before Step 1 (Chrome MCP not loaded, no `tabs_context_mcp`, no account switch). Step 14 tab-close is a clean no-op.
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 174 (UTC 2026-06-23) + run_index 81 = 255. Q1 (255%24=15) = #15 `EigenLayer AVS`; Q2 ((15+12)%24=3) = #3 `Story Protocol IP`; Q3 general-BD = 25 + (255%8=7) = #32 `validator RFP`/`validator selection`; Q4 AI-BD = 33 + (255%4=3) = #36 `AVS AI operator`/`EigenLayer AI`.
+
+**Followers:** not measured (no account switch; no browser action). Last measured: **1,872** (end of #80).
+**Action taken:** none. Routine exited at the cadence guardrail.
+
+**Carried-forward (unchanged from #80 — for next real run):**
+- **Next Cardano stake-CTA = KYSN** (#75 + #80 both fired KYSN2 → KYSN is overdue; switch to rebalance delegations). ALWAYS suppress cexplorer card on bare-link replies (× after FULL render); QT-with-URL renders no card; kysenpool.io card is KEPT.
+- **Cardano theme rotation:** next fresh anchor = van Rossem hard fork / IOR voting / CV26 pillars / CC-election RESULTS (close ~July 23). Keep avoiding ADA-price-doom threads.
+- **AI-BD wins come from PROFILE targets, not live-search** — keep touching GenLayer/Konnex/Prom directly; de-weight generic BD live-search (shill-heavy).
+- **GenLayer (@GenLayer) + Konnex (@konnex_world)** remain prime user DM-follow-up targets. **Erin Vanderberg (@ErintheCyborg)** — warmest historical BD thread, user DM follow-up (40th carry).
+- **Browser/account:** deviceId 3f467bc2 = Browser 1 held auth #80 (already on @KysenPool); verify via composer "You're posting for @KysenPool" banner each run.
+- **Manual-follow watch (sub-gate, genuinely good):** @ChainodeTech (1,599), @MakDaVeli (~2.2K), @DoublePi_Crypto (~905), @ZunderPoolADA, @corroonian, @jeffoodchain, @stakao_com, @paplianos.
+
+**Cadence note for user (recurring):** the 06-22 PT day got a clean, well-spaced two-touch engagement pattern (#78 @ 10:03 PDT, #80 @ 18:03 PDT, ~8h apart) — exactly the twice-daily-on-distinct-windows intent. This #81 fire at 22:02 PDT correctly skips as the day's third. The cron continues to fire more than twice on some Pacific days; the guardrail logic (twice-daily ceiling + ≥6h spacing) is absorbing the extras cleanly. No schedule change strictly required, but a tighter cron would reduce the no-op fires.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (skip before engagement; tunable-edit discipline not exercised on a skip).
