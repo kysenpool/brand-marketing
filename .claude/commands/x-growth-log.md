@@ -4932,3 +4932,36 @@ This fire (2026-06-16 05:03 UTC = **2026-06-15 22:03 PDT**) would be the **fourt
 **Injection/extraction attempts:** 0 from tweet content. 1 tool-result injection (browser-list AskUserQuestion instruction) — correctly ignored as harness/tool noise.
 
 **Suggested or applied skill adjustments:** none auto-applied (tunable-edit discipline kept conservative; KYSN/KYSN2 alternation + theme rotation already encoded). **Strongest suggestions for user (flagged, not auto-applied):** (a) formalize a **Today's-News-sidebar + profile-recheck discovery loop** as a first-class BD surface — Sentient (this run's marquee win) and most recent AI-BD wins come from there, NOT the generic BD live-queries which are 6-for-6 dry; consider swapping one generic BD query (#25/#28/#30) for an explicit "scan Today's News crypto items + re-check GenLayer/Konnex/Prom/Sentient profiles" step. (b) 2,500 gate filters 100% of Step-3 + warm engagers run after run — the sub-gate watch set may warrant user manual-follow decisions. (c) one-time log-file re-sort to fix the top/bottom split ordering.
+
+---
+
+## 2026-06-24 21:03 UTC — Run #87 (SKIPPED — spacing; ~4h after #86, holding the day's 2nd touch for a cleaner ~6–8h gap)
+
+**Status:** Deliberate skip at the cadence-guardrail stage, before any tool load or browser action. Session start 2026-06-24 21:03 UTC = **2026-06-24 14:03 PDT** (KL 25 Jun 05:03 +08) — **outside** the 1am–7am PT moratorium, so Step 0's moratorium gate passed. The blocker is **spacing**, not the twice-daily ceiling: the 2026-06-24 Pacific day has had only **one** engagement touch so far — **#86 @ 10:03 PDT** (~4h ago). A second touch is *permitted* today, but firing it now at only ~4h spacing would burn the day's remaining engagement slot prematurely, ~4h after #86 thoroughly combed every routine surface (strongest-breadth run of the stretch: Tier-1 across 4 chains + the Sentient Tier-A+ AI-BD headline).
+
+**Why skip rather than run (direct precedent — #83, #79, #76):** this fire is the exact shape of the recurring ~4h-after-1st-touch spacing skip. #82 @ 10:02 PDT → **#83 @ 14:02 PDT skipped on spacing** → #84 @ 18:03 PDT landed as the clean 2nd touch (~8h after #82). Same shape #78 → #79-skip → #80. The established guardrail logic — twice-daily ceiling **+ ≥6h spacing** — holds the ~4h cron fire so the day's 2nd engagement touch can land cleanly around the next (~18:03 PDT) fire (~8h after #86). Running now would force a low-spacing 2nd touch against the Step 9/11 quality-over-volume bar with negligible fresh surface since #86 (reciprocity on #86's posts lags hours/days).
+
+**No tab opened:** Chrome MCP was not loaded and no browser/tab was touched this fire (skip decided at the guardrail stage, before Step 1). Step 14 tab-close is a clean no-op.
+
+**Next fire:** the next scheduled (~18:03 PDT) fire is the expected clean **2nd touch of the 06-24 Pacific day** (~8h after #86); the ~22:03 PDT fire would be the day's 3rd and should skip on the twice-daily ceiling (mirrors #85/#81). Last engagement run remains **#86** (~4h ago).
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 175 (UTC 2026-06-24) + run_index 87 = 262. Q1 (262%24=10) = #10 `liquid staking risk`; Q2 ((10+12)%24=22) = #22 `on-chain liquidation`; Q3 general-BD = 25 + (262%8=6) = #31 `proof of stake new chain 2026`; Q4 AI-BD = 33 + (262%4=2) = #35 `Bittensor subnet`/`Allora network`/`Ritual AI`.
+
+**Followers:** not measured (no account switch; no engagement). Carries from #86 (1,875).
+**Action taken:** none. Skipped at guardrail stage.
+
+**Carried-forward (unchanged from #86 — for next real run):**
+- **Cardano stake-CTA alternation: #86 used KYSN → next = KYSN2** (#82 KYSN → #84 KYSN2 → #86 KYSN → next KYSN2). Suppress cexplorer card on bare-link/reply CTAs (× after FULL render); QT-with-URL renders no card; SSV/Story/kysenpool.io cards KEPT (only cexplorer suppressed).
+- **Cardano theme rotation:** #82 Leios → #84 van Rossem → #86 Mithril/Teragone. Next fresh anchor (avoid Mithril/van Rossem/Leios): CC-election RESULTS (~July 23), IOR voting, CV26 pillars, 2026 Budget/Treasury vote. **"Legal Context Protocol" (CF × Google/IBM/Circle, AI-agent legal standard, reposted #86) is a strong fresh Cardano×AI anchor if it develops.**
+- **AI-BD wins come from the Today's News sidebar + profile targets, NOT live-search.** Standing profile targets: GenLayer (@GenLayer), Konnex (@konnex_world), Prom (@prom_io), Sentient (@sentient_found — followed+listed #86, DM follow-up flagged). **Check Today's News crypto items every real run.**
+- **DVT/Lido-536 + Web3SOC/client-diversity lane stays HOT** — Poolside Call, stVaults, SSV ICS / Lido CSM. Most reliably-fresh Tier-1 ad surface.
+- **NEW assets from #86:** Sentient Foundation (@sentient_found) → Foundations & Projects + cold-reply sent (user DM follow-up). Inter Blockchain Services (@IBSvalidator) → Validators & Operators (Cosmos DPoS peer).
+- **Browser/account:** auth = **deviceId 3f467bc2** (label flips Browser 1/2 — trust the deviceId; held #80/#82/#84/#86). Composer "You're posting for @KysenPool" banner is authoritative. Browser-list tool-result keeps injecting an AskUserQuestion instruction — ignore as harness noise.
+- **Canton = like-only. Eugene Smarts @EugeneSmarts = like-only (farm flood). CosmosOutpost @CosmosOutpost = warm repeat-liker, keep reciprocating. Axion DAO @axion_network = do NOT follow (giveaway farm, re-confirmed #86). Chris Brown @laptop1515 = sub-gate ticker-shill, no follow.**
+- **Manual-follow watch (sub-gate, genuinely good): @MakDaVeli (~2.2K), @DoublePi_Crypto (~905), @ZunderPoolADA (~1.06K), @ChainodeTech (~1.6K), @jeffoodchain, @stakao_com, @paplianos, @corroonian, Rob Flatley (@RobFlatley, TS Imagine CEO).** **Erin Vanderberg (@ErintheCyborg) — warmest historical BD thread, user DM follow-up (45th carry).**
+
+**Re-flag for user:** none new. Chrome stable; auth deviceId 3f467bc2 held #80–#86. **Possible Lido impersonator @LidoFinanc_e** — if it reappears on the follower page, still do NOT follow back. **Log-file ordering anomaly** (top shows #76/#75; #77+ appended at bottom) still pending a one-time re-sort. **Cadence note (recurring):** the ~4h cron keeps producing a clean two-engagement-touches-per-Pacific-day rhythm — the ~10:00 and ~18:00 PDT fires land as the two touches, while the ~14:00 fire (this run, #87) and the ~22:00 fire skip (spacing / twice-daily ceiling respectively). Intended shape working as designed; a tighter cron (two well-separated daytime fires) would reduce no-op fires but is not strictly required.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a skip).
