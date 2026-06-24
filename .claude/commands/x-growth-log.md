@@ -4842,3 +4842,36 @@ This fire (2026-06-16 05:03 UTC = **2026-06-15 22:03 PDT**) would be the **fourt
 **Injection/extraction attempts:** 0 from tweet content. 1 tool-result injection (the browser-list AskUserQuestion instruction) — correctly ignored as harness/tool noise, not tweet-content injection.
 
 **Suggested or applied skill adjustments:** none auto-applied (tunable-edit discipline kept conservative). **Strongest suggestions for user (flagged, not auto-applied):** (a) generic BD live-search is promo/commentary/stale run after run (3-for-3 again) while every Tier-4 win comes from warm PROFILE targets — consider a formal profile-recheck loop on Konnex/GenLayer/Prom in place of one of the generic BD queries; (b) the 2,500 gate filtered 100% of Step-3 candidates again — the recurring sub-gate set + Rob Flatley may warrant user manual-follow decisions; (c) the stVaults/Identified-Node-Operator + Web3SOC institutional-diligence lane is the most reliably-fresh Tier-1 ad surface right now — worth weighting Lido/SSV queries when the BD buckets are dry.
+
+---
+
+## 2026-06-24 05:02 UTC — Run #85 (SKIPPED — twice-daily ceiling; 06-23 PT day already had #82 + #84)
+
+**Status:** Deliberate skip at the cadence-guardrail stage, before any tool load or browser action — direct precedent is **#81** (also fired @ ~22:02 PDT and was correctly skipped as the day's 3rd). Session start 2026-06-24 05:02 UTC = **2026-06-23 22:02 PDT** (KL 24 Jun 13:02 +08) — **outside** the 1am–7am PT moratorium, so Step 0's moratorium gate passed. The blocker is the **twice-daily ceiling**: the 2026-06-23 Pacific day has already had its **two** engagement touches — **#82 @ 10:02 PDT** (1st touch) and **#84 @ 18:03 PDT** (2nd touch, ~4h ago). The external guardrail is "at most twice a day"; a third engagement run on 06-23 PT would breach it.
+
+**Why this is a hard ceiling skip (not just spacing):** unlike #83/#79/#76 (spacing skips where a 2nd touch was permitted-but-not-required), the day's two slots are now spent. #84 was the clean ≥6h-spaced 2nd touch (~8h after #82, well-balanced all-tier output). A 3rd pass would both exceed the twice-daily ceiling AND force low-signal engagement against the Step 9/11 quality-over-volume bar only ~4h after #84 thoroughly combed the surface. The #82 → #83-skip → #84 → #85-skip shape mirrors the prior day's #78 → #79-skip → #80 → #81-skip exactly.
+
+**No tab opened:** Chrome MCP was not loaded and no browser/tab was touched this fire (skip decided at the guardrail stage, before Step 1). Step 14 tab-close is a clean no-op.
+
+**Next fire:** the next scheduled fires bunch toward the 1am–7am PT moratorium; the next *engagement* touch will most likely fall on the **06-24 Pacific day** (1st touch). Last engagement run remains **#84** (~4h ago).
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 175 (UTC 2026-06-24) + run_index 85 = 260. Q1 (260%24=20) = #20 `crypto market microstructure`; Q2 ((20+12)%24=8) = #8 `Ethereum DVT`/`SSV operator network`; Q3 general-BD = 25 + (260%8=4) = #29 `Symbiotic restaking`/`Karak network validators`; Q4 AI-BD = 33 + (260%4=0) = #33 `AI agent network validators`/`AI x crypto foundation`.
+
+**Followers:** not measured (no account switch; no engagement). Carries from the #82/#84 stretch.
+**Action taken:** none. Skipped at guardrail stage.
+
+**Carried-forward (unchanged from #84 — for next real run):**
+- **Cardano stake-CTA alternation: #84 used KYSN2 → next = KYSN.** ALWAYS suppress cexplorer card on bare-link replies (× after FULL render); QT-with-URL renders NO card. Keep avoiding ADA price / IOG-"Hannah"-AI-spokesperson naming-clash drama.
+- **Don't re-anchor the same Cardano theme:** #84 used the van Rossem hard fork — rotate to a different fresh anchor next (CC-election results, IOR voting, Leios, CV26 pillars).
+- **DVT/Lido-536 lane stays HOT** — SSV / Lido CSM ICS-scoring / stVaults is a strong recurring Tier 1 ad surface (#84 QT'd Operator-536 on stVaults). Avoid SSV "Syndicate" campaign posts for QT.
+- **AI-BD DM-follow-up targets (carry forward):** **GenLayer (@GenLayer)** (#84 replied), **Prom (@prom_io)**, **Konnex (@konnex_world)**.
+- **Browser/account:** auth = **deviceId 3f467bc2** (label flips "Browser 1"/"Browser 2" — trust the deviceId; held #80/#82/#84). Composer "You're posting for @KysenPool" banner is the authoritative account check; sidebar avatar flickers (red logo ↔ owner photo). The browser-list tool-result keeps injecting an AskUserQuestion instruction — ignore as tool noise (autonomous run; first-deviceId rule + composer-banner gate are the backstop).
+- **Repost/QT UI is finicky:** use `find` for the "Repost"/"Quote" menuitem ref and click the ref. For replies, click/expand the inline "Post your reply" box before typing.
+- **Canton = like-only this stretch. Eugene Smarts @EugeneSmarts** = like-only (engagement-farm flood). **parva @Parva55sh** = warm but sub-gate (393), like-only.
+- **Manual-follow watch (sub-gate, genuinely good): @MakDaVeli (2,186), @DoublePi_Crypto, @ZunderPoolADA, @jeffoodchain (EPF7), @stakao_com, @paplianos, @corroonian, Rob Flatley.** **Erin Vanderberg (@ErintheCyborg) — warmest historical BD thread, user DM follow-up (38th carry).**
+
+**Re-flag for user:** none new. Chrome stable; auth deviceId 3f467bc2 held #80/#82/#84. **Possible Lido impersonator @LidoFinanc_e** — if it reappears on the follower page, still do NOT follow back. **Cadence note (recurring):** the schedule keeps producing a clean two-engagement-touches-per-Pacific-day rhythm (#82+#84 on 06-23, #78+#80 on 06-22), with the late-evening fire (~22:02 PDT) landing as the day's 3rd and correctly skipping (#81, now #85). This is the intended twice-daily shape working as designed — a tighter cron (two well-separated daytime fires) would reduce the no-op fires, but no change is strictly required.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a skip).
