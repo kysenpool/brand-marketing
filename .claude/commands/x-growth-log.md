@@ -2,6 +2,37 @@
 
 ---
 
+## 2026-06-25 13:03 UTC — Run #90 (SKIPPED — MORATORIUM; session start 06:03 PDT is inside the 1am–7am PT no-run window)
+
+**Status:** Hard moratorium skip at the Step 0 guardrail. Session start 2026-06-25 13:03 UTC = **2026-06-25 06:03 PDT** (KL 25 Jun 21:03 +08) — **inside** the 1am–7am Pacific moratorium. Step 0 is unambiguous: "Do not run between 1am–7am Pacific Time… If the current Pacific Time falls in that window at session start, stop immediately without loading any tools." 06:03 PDT is ~54 min short of the 7am boundary, so this is a clean moratorium stop, distinct from the recent *spacing/ceiling* skips (#89/#87/#85).
+
+**No tools loaded, no tab opened:** Chrome MCP was not loaded and no browser/tab was touched (skip decided at the guardrail stage, before Step 1). Step 14 tab-close is a clean no-op. Account was NOT switched — no risk of acting under @jackchan_xyz.
+
+**Twice-daily ceiling / spacing context (for the next fire):** The **06-24 PT day** had two engagement touches — **#86** (06-24 10:03 PDT) and **#88** (06-24 18:03 PDT, ~8h after #86) — plus a spacing skip **#89** (06-24 22:03 PDT). The **06-25 PT day** has had **zero** engagement touches so far; this fire (#90) would have been its first, but lands in the moratorium. The next scheduled fire (~17:03 UTC = ~10:03 PDT) is outside the moratorium and would be a clean candidate for the 06-25 PT day's 1st engagement touch, well-spaced (~16h since #88).
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 176 (UTC 2026-06-25) + run_index 90 = 266. Q1 (266%24=2) = #2 `Cardano staking`/`Cardano governance`; Q2 ((2+12)%24=14) = #14 `institutional staking`/`stETH institutional`; Q3 general-BD = 25 + (266%8=2) = #27 `mainnet launch validator set`; Q4 AI-BD = 33 + (266%4=2) = #35 `Bittensor subnet`/`Allora network`/`Ritual AI`.
+
+**Followers:** not measured (no account switch; no engagement). Last measured: **1,871** (end of #88; #89 also a skip, no measure).
+**Action taken:** none. Skipped at guardrail stage.
+
+**Carried-forward (unchanged from #88 — for next real run):**
+- **Cardano stake-CTA alternation: #88 used KYSN2 (Intersect DRep reply) → next = KYSN.** ALWAYS suppress cexplorer card on bare-link replies (× after FULL render); QT-with-URL renders NO card. Keep avoiding ADA price / IOG-AI-spokesperson naming-clash drama.
+- **Don't re-anchor the same Cardano theme:** recent anchors ran CC-elections → Pyth → Lightning → budget-voting → Leios → Mithril (#86 QT) → Intersect DRep governance (#88). **Next Cardano CTA: a DIFFERENT fresh anchor** (CC-election RESULTS, van Rossem hard fork, IOR voting, CV26 pillars).
+- **DVT/Lido-536 lane stays HOT** — Operator-536 stETH replies landed in both #86 and #88; SSV/Lido CSM ICS-scoring a reliable Tier 1 ad surface. SSV "Syndicate" campaign still saturating → avoid for QT.
+- **AI-BD DM-follow-up targets (carry forward):** **Sentient Foundation** ($42M grant, followed+listed #86), **Cameron.near** (AI, followed+listed #88), **Prom (@prom_io)**, **GenLayer (@GenLayer)**, **Konnex (@konnex_world)**. BD live-search ran 6-for-6 DRY in #88 — cold-BD surface remains thin; the AI-BD wins keep coming from profile-level targets, not live-search.
+- **Browser/account:** auth = **deviceId 3f467bc2** (label flips "Browser 1"/"Browser 2" across runs — trust the deviceId). Composer "You're posting for @KysenPool" banner is the authoritative account check; sidebar avatar flickers (red logo ↔ owner photo) on delegate profiles.
+- **Repost/QT UI is finicky:** use `find` for the "Repost"/"Quote" menuitem ref and click the ref. For replies, click/expand the inline "Post your reply" box before typing.
+- **Canton = like-only this stretch. Eugene Smarts @EugeneSmarts** = like-only (engagement-farm flood). **parva @Parva55sh** = warm but sub-gate (393), like-only.
+- **Manual-follow watch (sub-gate, genuinely good): @MakDaVeli (2,186), @DoublePi_Crypto, @ZunderPoolADA, @jeffoodchain (EPF7), @stakao_com, @paplianos, @corroonian.** **Erin Vanderberg (@ErintheCyborg) — warmest historical BD thread, user DM follow-up (39th carry).**
+
+**Re-flag for user:** none new. Chrome stable; auth deviceId 3f467bc2. **Possible Lido impersonator @LidoFinanc_e** — if it reappears on the follower page, still do NOT follow back. **Cadence note (recurring):** this is the first MORATORIUM skip in a while (recent skips #89/#87/#85 were spacing/ceiling). Fires keep landing such that some land inside 1am–7am PT. The 06-25 PT day still has 0 engagement touches; the next fire (~10:03 PDT) is well-placed to be the day's 1st. If a 2nd well-spaced daytime touch is the intent, the ~6–8h gap pattern (as #86→#88 achieved) is the target.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a skip).
+
+---
+
 ## 2026-06-22 05:03 UTC — Run #76 (SKIPPED — spacing; too soon after #75 engagement run, ~2h22m)
 
 **Status:** Deliberate skip on spacing/freshness grounds — same disposition as #74 / #72 / #70 / #67. Session start 2026-06-22 05:03 UTC = **2026-06-21 22:03 PDT** (KL 22 Jun 13:03 +08) — **outside** the 1am–7am PT moratorium, so Step 0 itself passed. But **Run #75 was a full ENGAGEMENT run only ~2h22m earlier** (2026-06-22 02:41 UTC = 2026-06-21 19:41 PDT), and #75 was the *first and only engagement touch of the 06-21 Pacific day*. The external guardrail is "at most twice a day"; the 06-21 PDT day has had exactly one engagement run (#75), so a second is *permitted by the ceiling but not required*.
