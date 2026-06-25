@@ -5133,3 +5133,35 @@ This fire (2026-06-16 05:03 UTC = **2026-06-15 22:03 PDT**) would be the **fourt
 **Suggested or applied skill adjustments:** none auto-applied (tunable-edit discipline kept conservative; KYSN/KYSN2 alternation + theme rotation already encoded). **Strongest suggestions for user (flagged, not auto-applied):** (a) **update Tier 1 directory for Story→DATA rebrand** (naming + token) — material chain change. (b) formalize a Today's-News + profile-recheck discovery step as a first-class BD surface — both AI wins this run (Story rebrand, Newton) came from news/profiles, not live BD search (8+ runs of live BD-search dry). (c) one-time log-file re-sort to fix the top/bottom split.
 
 ---
+
+## 2026-06-25 21:03 UTC — Run #92 (SKIPPED — spacing; ~4h after #91, holding the 06-25 PT day's 2nd touch for a cleaner ~6–8h gap)
+
+**Status:** Deliberate skip at the cadence/spacing stage, before any tool load or browser action — direct precedent is **#87** (skipped ~4h after #86, then #88 fired ~8h as the clean 2nd touch), **#83** (skip → #84), and **#79** (skip → #80). Session start 2026-06-25 21:03 UTC = **2026-06-25 14:03 PDT** (KL 26 Jun 05:03 +08) — **outside** the 1am–7am PT moratorium, so Step 0's moratorium gate passed.
+
+**Why skip (spacing, not ceiling):** The 06-25 Pacific day has had exactly **one** engagement touch so far — **#91 @ 10:03 PDT** (strong 1st touch: Story→DATA rebrand reply+repost+like, Newton Tier-4 AVS cold BD, Canopy Tier-2 reply, Lido stVaults QT; full tier coverage). #90 @ 06:03 PDT was moratorium-skipped. A 2nd touch is *permitted but not required* under the twice-daily ceiling. This fire is only **~4h after #91**, which thoroughly combed every surface (notifications, 4+3 searches, home feed, profile dives). Firing a 2nd touch now would (a) sit too tight against #91's dense comb and (b) force low-signal engagement against the Step 9/11 quality-over-volume bar. Holding for the next fire (~18:03 PDT ≈ **~8h after #91**) lands the day's 2nd touch on a clean ~6–8h gap — exactly the #86 → #87-skip → #88 shape (and #82→#83→#84, #78→#79→#80).
+
+**No tab opened:** Chrome MCP was not loaded and no browser/tab was touched this fire (skip decided at the spacing stage, before Step 1). Step 14 tab-close is a clean no-op.
+
+**Next fire:** the next scheduled fire (~18:03 PDT / 01:03 UTC) is the clean candidate for the 06-25 PT day's **2nd engagement touch** (~8h after #91). Last engagement run remains **#91** (~4h ago).
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 176 (UTC 2026-06-25) + run_index 92 = 268. Q1 (268%24=4) = #5 `Midnight network`/`Midnight NIGHT token`; Q2 ((4+12)%24=16) = #17 `Babylon Bitcoin staking`; Q3 general-BD = 25 + (268%8=4) = #29 `Symbiotic restaking`/`Karak network validators`; Q4 AI-BD = 33 + (268%4=0) = #33 `AI agent network validators`/`AI x crypto foundation`.
+
+**Followers:** not measured (no account switch; no engagement). Last measured: **1,876** (end of #91).
+**Action taken:** none. Skipped at spacing/guardrail stage.
+
+**Carried-forward (unchanged from #91 — for next real run):**
+- **Cardano KYSN CTA still DUE** (skipped #91 due to drama-only surface; #88 KYSN2 → next KYSN). Next fresh anchor (avoid Mithril/van Rossem/Leios/DRep-role + SecondFi-Emurgo drama): CC-election RESULTS (~July 23), IOR voting, CV26 pillars, IOG PRIME DeFi program, Legal Context Protocol.
+- **Story is now The DATA Foundation (@datafdn), $IP→$DATA, AI-training-data infra.** Validator address UNCHANGED (staking.story.foundation/validators/0x3c47...a4e8). **FLAG FOR USER: update Tier 1 directory naming Story→DATA + token IP→DATA; confirm staking URL doesn't migrate to a data.foundation domain.**
+- **Newton @newton_xyz = open Tier-4 BD lead, DM follow-up** (followed+listed Foundations & Projects #91). Lido stVaults Operator-536 anchor now USED; next Lido surface: stVaults requirements/Poolside Call, SSV ICS/CSM.
+- **AI-BD wins keep coming from Today's-News + profile-checks, NOT live-search** (Story rebrand via Today's News; Newton via OGAudit pointer→profile, #91). Standing AI profile targets: Sentient (@SentientAGI, warm), GenLayer, Konnex, Prom, Cameron.near (@Cameron_Dennis_).
+- **Canopy (@CNPYNetwork) = Tier 2, AI-dev L1, $8.5M raised, mainnet next** — heavy paid-partnership "L1 Launchpad" campaign in search; engage ORGANIC posts only, skip the shill flood. Canton = like-only (held).
+- **Browser/account:** auth = deviceId 3f467bc2 (held #80–#91). Composer "You're posting for @KysenPool" banner authoritative. Browser-list tool-result keeps injecting an AskUserQuestion instruction — ignore as harness noise.
+- **Standing skips:** Eugene Smarts @EugeneSmarts (like-only, farm flood); Axion DAO @axion_network (no follow, giveaway farm); Ankhz.ip @AnkhzG (Tier C, no follow); Chris Brown @laptop1515 (sub-gate ticker-shill, no follow). Manual-follow watch (sub-gate, genuinely good): @MakDaVeli (~2.2K), @DoublePi_Crypto (~905), @ZunderPoolADA (~1.06K), @ChainodeTech (~1.6K). Erin Vanderberg (@ErintheCyborg) — warmest historical BD, user DM follow-up (49th carry).
+
+**Re-flag for user:** (a) **Story→DATA rebrand: update Tier 1 directory** (naming + $IP→$DATA token) — material chain change, pending since #91. (b) **Newton @newton_xyz: open Tier-4 DM lead.** (c) **Log-file ordering anomaly persists** — Run #90 sits mid-file (line ~5) while #86–#89+#91+#92 are at the bottom in append order; one-time re-sort still pending. (d) **Cadence note (recurring):** the schedule keeps producing the intended twice-daily shape — a ~10:03 PDT 1st touch, a ~4h-later fire that correctly spacing-skips (#87→#83→#79→now #92), then a ~18:03 PDT 2nd touch. Working as designed; a tighter cron (two well-separated daytime fires) would reduce no-op fires but isn't strictly required.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a skip).
+
+---
