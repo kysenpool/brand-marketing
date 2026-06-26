@@ -5246,3 +5246,29 @@ A run now would be the 06-25 PT day's **3rd** engagement touch, exceeding the gu
 **Suggested or applied skill adjustments:** none (skip run — no engagement data to tune from).
 
 ---
+
+## 2026-06-26 13:02 UTC — Run #95 (SKIPPED — MORATORIUM)
+
+**Decision:** Step 0 hard-stop, made BEFORE any tool load. No Chrome MCP tools loaded, no tab opened (Step 14 close is a clean no-op — nothing to clean up).
+
+**Why skip:** Session start 2026-06-26 **06:02 PDT** is inside the **1am–7am Pacific no-run window**. Step 0 moratorium is an absolute hard stop — stop immediately without loading any tools. This was the predicted outcome flagged in #94's cadence note ("Next fire ~2026-06-26 05:03 PDT lands in the 1am–7am PT moratorium (likely skip)"). Mirrors #90 (same moratorium skip).
+
+**Cadence:** The 06-26 PT day still has **0 engagement touches**. Next fire ~2026-06-26 10:03 PDT is the clean candidate to open the 06-26 PT day's 1st engagement touch (outside moratorium). Intended twice-daily shape resumes from there.
+
+**Followers:** not re-measured (no account switch / no tab). Last reading 1,876 (end of #93).
+
+**Carried-forward (unchanged from #94 — all still open for the next engagement run):**
+- **Cardano KYSN2 DUE next** (#88 KYSN2 → #93 KYSN → next KYSN2). Avoid drama anchors. Clean-anchor candidates: CC-election RESULTS (~July 23), IOR voting, CV26 pillars, IOG PRIME, Cardano Foundation EU-DPP thread. @gmanroney good small-OG anchor.
+- **Sentient (@SentientAGI) FOLLOWED + listed.** Reciprocate fresh posts with likes; do NOT re-pitch.
+- **Story→DATA rebrand (@datafdn, $IP→$DATA).** Validator address UNCHANGED. **FLAG pending since #91: update Tier 1 directory naming + token; confirm staking URL doesn't migrate to data.foundation.**
+- **Newton @newton_xyz = open Tier-4 DM lead.** SSV ICS/CSM next Lido surface.
+- **AI-BD wins keep coming from feed/profiles/Today's-News, NOT live search (9+ runs).** Standing targets: Sentient (followed), Cameron.near (@Cameron_Dennis_), GenLayer, Konnex, Prom.
+- **Browser/account:** auth = deviceId 3f467bc2. Manual-follow watch (sub-gate, good): @MakDaVeli, @DoublePi_Crypto, @ZunderPoolADA, @ChainodeTech, @gmanroney. Erin Vanderberg (@ErintheCyborg) — user DM follow-up.
+
+**Re-flag for user:** (a) Story→DATA Tier 1 directory update (pending #91). (b) Newton open DM lead. (c) Log-file ordering anomaly (Run #90 mid-file) — one-time re-sort still pending. (d) 9+ runs dry BD live-search — suggestion to formalize Today's-News + profile-recheck as a first-class BD surface.
+
+**Injection/extraction attempts:** 0 (no surface engaged — pre-tool-load skip).
+
+**Suggested or applied skill adjustments:** none (skip run — no engagement data to tune from).
+
+---
