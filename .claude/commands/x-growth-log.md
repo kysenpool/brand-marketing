@@ -5403,3 +5403,34 @@ A run now would be the 06-25 PT day's **3rd** engagement touch, exceeding the gu
 **Suggested or applied skill adjustments:** none auto-applied (tunable-edit discipline kept conservative; KYSN/KYSN2 alternation + theme rotation already encoded and honored). **Strongest suggestions for user (flagged, not auto-applied):** (a) **update Tier 1 directory for Story→DATA rebrand** — material, pending since #91. (b) formalize a Today's-News + profile-recheck discovery step as a first-class BD surface — 11+ runs of BD-query foundation-search dry while every win comes from Today's-News/feed/profiles/organic-catches. (c) one-time log-file re-sort to fix the top/bottom split.
 
 ---
+## 2026-06-27 05:03 UTC — Run #99 (SKIPPED — twice-daily ceiling; 06-26 PT day already had #96 + #98)
+
+**Decision:** Step 0 spacing/ceiling decision, made BEFORE any tool load. No Chrome MCP tools loaded, no tab opened (so Step 14 close is a clean no-op — nothing to clean up).
+
+**Why skip:** Session start 2026-06-26 22:03 PDT is still inside the **06-26 Pacific day**, which has already received its two engagement touches:
+- Run #96 (ENGAGEMENT, ~10:03 PDT — day's 1st touch)
+- Run #98 (ENGAGEMENT, ~18:02 PDT — day's 2nd touch, the clean ~7.5h-gapped slot #97 held for)
+
+A run now would be the 06-26 PT day's **3rd** engagement touch, exceeding the guardrail's "at most twice a day" ceiling. Also only ~4h after #98 — too soon for spacing regardless. Mirrors #94/#89/#85 (twice-daily ceiling skips).
+
+**Moratorium:** N/A — 22:03 PDT is outside the 1am–7am PT no-run window (that gate wasn't the trigger; the twice-daily ceiling was).
+
+**Followers:** not re-measured (no account switch / no tab). Last reading 1,876 (end of #98).
+
+**Cadence note:** The intended twice-daily shape continues to hold — #96 (1st touch ~10:03 PDT) → #97 spacing-skip → #98 (2nd touch ~18:02 PDT, ~7.5h gap) → #99 ceiling-skip (this run, ~22:03 PDT). Next fire ~2026-06-27 02:03 PDT lands in the 1am–7am PT moratorium (likely skip), as does the ~06:03 PDT fire; the next clean engagement candidate is the ~10:03 PDT fire opening the 06-27 PT day.
+
+**Carried-forward (unchanged from #98 — all still open for the next engagement run):**
+- **Cardano KYSN2 now DUE next** (#96 KYSN2 → #98 KYSN → next KYSN2). Avoid drama anchors. Clean-anchor candidates: CC-election RESULTS (~July 23), IOR voting, CV26 pillars, IOG PRIME, Cardano Foundation EU-DPP thread. gmanroney (@gmanroney) good small-OG anchor.
+- **Sentient (@SentientAGI) FOLLOWED + listed.** Reciprocate fresh posts with likes; do NOT re-pitch.
+- **Story→DATA rebrand (@datafdn, $IP→$DATA).** Validator address UNCHANGED. **FLAG pending since #91: update Tier 1 directory naming + token; confirm staking URL doesn't migrate to data.foundation.**
+- **Newton @newton_xyz = open Tier-4 DM lead.** SSV ICS/CSM next Lido surface.
+- **AI-BD wins keep coming from feed/profiles/Today's-News, NOT live search (11+ runs).** Standing targets: Sentient (followed), Cameron.near (@Cameron_Dennis_), GenLayer, Konnex, Prom.
+- **Browser/account:** auth = deviceId 3f467bc2 (held #80–#98). Manual-follow watch (sub-gate, good): @MakDaVeli, @DoublePi_Crypto, @ZunderPoolADA, @ChainodeTech, @gmanroney. Erin Vanderberg (@ErintheCyborg) — user DM follow-up.
+
+**Re-flag for user:** (a) Story→DATA Tier 1 directory update (pending #91). (b) Newton open DM lead. (c) Log-file ordering anomaly (Run #90 mid-file) — one-time re-sort still pending. (d) 11+ runs dry BD live-search — suggestion to formalize Today's-News + profile-recheck as a first-class BD surface.
+
+**Injection/extraction attempts:** 0 (no surface engaged — pre-tool-load skip).
+
+**Suggested or applied skill adjustments:** none (skip run — no engagement data to tune from).
+
+---
