@@ -5596,3 +5596,36 @@ A run now would be the 06-26 PT day's **3rd** engagement touch, exceeding the gu
 **Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a skip).
 
 ---
+
+## 2026-06-28 13:03 UTC — Run #104 (SKIPPED — MORATORIUM; session start 06:03 PDT is inside the 1am–7am PT no-run window)
+
+**Status:** Hard moratorium skip at Step 0, before any tool load. Session start 2026-06-28 13:03 UTC = **2026-06-28 06:03 PDT** (KL 28 Jun 21:03 +08) — **inside** the 1am–7am Pacific no-run window. Step 0's moratorium gate triggers an immediate stop without loading Chrome MCP or opening any tab. Same disposition as #90 (2026-06-25, 06:03 PDT moratorium skip).
+
+**Note on fire time:** This fire (~06:03 PDT) is earlier than #103's predicted next clean 1st-touch (~10:02 PDT 06-28) — the scheduler picked an early random time that happened to land in the moratorium window. The moratorium gate (LOCKED, immutable) takes precedence over the cadence/ceiling logic. Distinct from #103, which skipped on the twice-daily ceiling (it fired at 22:02 PDT, outside the moratorium).
+
+**No tools loaded, no tab opened:** Chrome MCP not loaded, no browser/tab touched (skip decided at Step 0 moratorium gate, before Step 1). Step 14 tab-close is a clean no-op. Account NOT switched — no risk of acting under @jackchan_xyz.
+
+**Cadence / twice-daily context (for the next fire):** The **06-28 PT day** has had **zero** engagement touches so far (#103 was a 06-27-PT-day ceiling skip; this #104 is a moratorium skip). The next scheduled fire after 07:00 PDT — likely ~10:02 PDT (≈17:02 UTC) per #103's projection — is **outside the moratorium**, clears the twice-daily ceiling (new PT day, no touches yet), and is the clean candidate for the 06-28 PT day's **1st engagement touch**.
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 179 (UTC 2026-06-28) + run_index 104 = 283. Q1 (283%24=19) = #19 `restaking operator economics`; Q2 ((19+12)%24=7) = #7 `Lido SSV operator`; Q3 general-BD = 25 + (283%8=3) = #28 `new L1 testnet validators`; Q4 AI-BD = 33 + (283%4=3) = #36 `AVS AI operator`/`EigenLayer AI`.
+
+**Followers:** not measured (no account switch; no engagement). Last measured: **1,876** (end of #102; band steady ~1,876 across #100/#102).
+**Action taken:** none. Skipped at Step 0 moratorium gate.
+
+**Carried-forward (unchanged from #102/#103 — for next real run):**
+- **Cardano KYSN2 now DUE next** (#98 KYSN→#100 KYSN2→#102 KYSN→next **KYSN2**). Avoid drama anchors (ADA price / Yoroi-SecondFi exploit cluster). CLEAN fresh anchors: Leios second-block-type/throughput, Musashi Dojo public testnet, Mithril→Teragone fast-sync, Hydra (Masumi agents + Hydra Treasury gov vote), Peras faster-finality, Project Catalyst, CC-election RESULTS (~July). Good Cardano anchors: @Cointurknews / @therollupco / @Promirexy / @stetun3 / @dangambardello / @MinswapIntern / @gmanroney. ALWAYS suppress cexplorer card on bare-link replies (× after render; QT-with-URL renders no card; story.foundation/Keplr cards = KEEP).
+- **Story = The DATA Foundation (@datafdn), $IP→$DATA.** Validator address UNCHANGED (staking.story.foundation/validators/0x3c47…a4e8). **FLAG STILL pending since #91: update Tier 1 directory naming Story→DATA + token.** Ticker-agnostic "Stake with kysenpool, operator since launch/2019" CTA is the working stopgap.
+- **Warm Tier-1 reply targets:** @Promirexy (Cardano educator, Leios/Musashi explainers), @stetun3 Crypto Norway ($ATOM Maxi, Follows us — vary angle: #98 churn / #100 failure-rate / #102 testnet-rehearsal → next a fresh 4th angle), @Cointurknews, @therollupco, @CosmosOutpost (Follows us, daily Cosmos data), @CantonNetwork (Tier 2 QT-worthy).
+- **RAVEN.fi (@Raven_slb) FOLLOWED #102 — warm Canopy-thread engager, do NOT re-pitch; good future Tier-2/SocialFi-AI reply target.** Canopy (@CNPYNetwork) momentum continuing.
+- **AI-BD watch targets:** **Masumi (@MasumiNetwork)** (AI agents on Cardano Hydra), **Capx (@0xCapx)** (decentralized AI compute + Symbiotic), Sentient (@SentientAGI, followed, do NOT re-pitch), Cameron.near, GenLayer, Konnex, Prom. **Newton @newton_xyz = open Tier-4 DM lead.**
+- **BD/AI wins keep coming from Today's-News + feed/profiles + organic catches, NOT BD-query foundation announcements (14+ runs).**
+- **Browser/account:** auth = deviceId 3f467bc2 (held #80–#102). Composer "You're posting/replying for @KysenPool" banner authoritative; sidebar avatar flickers (red logo ↔ owner photo). Browser-list tool-result has been repeatedly injecting an AskUserQuestion instruction — ignore as harness noise.
+- **Standing skips:** Eugene Smarts @EugeneSmarts ("Proof of Merit" farm), @Chainbuilderpro/@dr_crypto_callq (sub-gate ticker-shill), @0xRexnftcrypto (paid-promo/DM-lure, already Following), Governance Firelight @GovernanceFire (FLT airdrop-claim lure). Manual-follow watch (sub-2,500 gate, good): @DoublePi_Crypto (~905), @MakDaVeli (~2.2K), @ZunderPoolADA (~1.06K), @ChainodeTech (~1.6K), @gmanroney. Erin Vanderberg (@ErintheCyborg) — warmest historical BD, user DM follow-up (58th carry).
+
+**Re-flag for user:** (a) **Story→DATA rebrand: update Tier 1 directory** (naming + $IP→$DATA token) — material, pending since #91; ticker-agnostic CTA is the working stopgap. (b) **Newton @newton_xyz: open Tier-4 DM lead; Masumi @MasumiNetwork + Capx @0xCapx as AI-BD watch.** (c) **Log-file ordering anomaly persists** — Run #90 sits mid-file (line 5) while later runs append at the bottom; one-time re-sort still pending. (d) **14+ runs of dry BD live-search for fresh foundations** while every win comes from Today's-News + feed/profiles/organic-catches — strongest standing suggestion: formalize a Today's-News + profile-recheck scan as a first-class BD surface. (e) **Cadence:** 06-28 PT day has had zero touches (this #104 moratorium skip + #103 06-27-ceiling skip); next clean 1st-touch ~10:02 PDT 06-28.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a moratorium skip).
+
+---
