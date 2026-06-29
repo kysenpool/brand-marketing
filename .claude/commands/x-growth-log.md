@@ -5764,3 +5764,35 @@ A run now would be the 06-26 PT day's **3rd** engagement touch, exceeding the gu
 **Suggested or applied skill adjustments:** none auto-applied (tunable-edit discipline kept conservative; KYSN/KYSN2 alternation [#105 KYSN2→#107 KYSN→next KYSN2] + Cardano theme-rotation [CC-election-backstop, distinct from van-Rossem/Leios/governance-funding] + cexplorer-card-suppression + Keplr/SSV/story-card-keep all encoded and honored). **Strongest suggestions for user (flagged, not auto-applied):** (a) **update Tier 1 directory for Story→DATA rebrand** — material, pending since #91. (b) formalize Today's-News + Cardano-governance-profile-recheck as a first-class BD surface — 16+ runs of BD-query foundation-search dry. (c) one-time log-file re-sort to fix the top/bottom split.
 
 ---
+
+---
+
+## 2026-06-29 05:02 UTC — Run #108 (SKIPPED — twice-daily ceiling; 06-28 PT day already had #105 + #107 engagement runs)
+
+**Status:** Deliberate twice-daily-ceiling skip at the Step 0 guardrail — same disposition as #103 / #99 / #94. Session start 2026-06-29 05:02 UTC = **2026-06-28 22:02 PDT** (KL 29 Jun 13:02 +08) — **outside** the 1am–7am PT moratorium, so Step 0's moratorium gate passed. But the **06-28 PT day already had its two engagement touches**:
+- Run #105 (ENGAGEMENT, ~10:24 PDT — day's 1st touch)
+- Run #107 (ENGAGEMENT, ~18:02 PDT — day's 2nd touch, the clean ~7.5h-gapped slot #106 held for)
+
+This 22:02 PDT fire would be the **3rd engagement touch on the 06-28 PT day** → exceeds the external "at most twice a day" guardrail. Predicted exactly by #107's carry-forward ("Next fire ~22:02 PDT (06-29 ~05:03 UTC) would twice-daily-ceiling-skip… next clean 1st-touch ~10:02 PDT 06-29").
+
+**No tab opened:** Chrome MCP was not loaded and no browser/tab was touched (skip decided at the guardrail stage, before Step 1). Step 14 tab-close is a clean no-op. Account was NOT switched — no risk of acting under @jackchan_xyz.
+
+**Search picker (computed, unused — for reference / next real run):** day_of_year 180 (UTC 2026-06-29) + run_index 108 = 288. Q1 (288%24=0 → #24) `AI agent on-chain`/`verifiable compute zkML`; Q2 ((0+12)%24=12) = #12 `restaking AVS launch`; Q3 general-BD = 25 + (288%8=0) = #25 `validator program launch`; Q4 AI-BD = 33 + (288%4=0) = #33 `AI agent network validators`/`AI x crypto foundation`.
+
+**Followers:** not measured (no account switch; no engagement). Last measured: **1,877** (end of #107).
+**Action taken:** none. Skipped at guardrail stage.
+
+**Carried-forward (unchanged from #107 — for next real run):**
+- **Cardano stake-CTA alternation: #107 used KYSN → next = KYSN2.** ALWAYS suppress cexplorer card on bare-link replies (× after FULL render); QT-with-URL renders NO card. Keep avoiding ADA price / IOG-AI-spokesperson naming-clash drama.
+- **Don't re-anchor the same Cardano theme:** recent anchors ran governance-funding → Leios → van Rossem → CC-election-2026 governance-backstop (#107). **Next Cardano CTA: a DIFFERENT fresh anchor** (CC-election RESULTS, IOR voting, CV26 pillars, Hydra/Mithril ops, USDCx growth).
+- **DVT/Lido-536 lane** stays a reliable Tier 1 ad surface; SSV "Syndicate" campaign still saturating → avoid for QT.
+- **Canton = Tier-2 QT lane is live** (self-custody-wallet / institutional-credit angles landed #105/#107). JinOro builder cred pairs well.
+- **AI-BD DM-follow-up targets (carry forward):** **Newton @newton_xyz** (open Tier-4 DM lead), **Masumi @MasumiNetwork**, **Capx @0xCapx**, **Greg Osuri/Akash**, plus prior Sentient/Prom/GenLayer/Konnex.
+- **Browser/account:** auth = **deviceId 3f467bc2** (label flips "Browser 1"/"Browser 2"; trust the deviceId — held #80–#107). Composer "You're posting for @KysenPool" banner is the authoritative account check; **session may open on @jackchan_xyz (as #107 did) — switch is mandatory when it does.**
+- **Manual-follow watch (sub-gate, genuinely good): @MakDaVeli (~2,186), @DoublePi_Crypto, @ZunderPoolADA, @jeffoodchain (EPF7), @stakao_com, @paplianos, @corroonian.** **Erin Vanderberg (@ErintheCyborg) — warmest historical BD thread, user DM follow-up (carry).**
+
+**Re-flag for user:** (a) **Story→DATA rebrand: update Tier 1 directory** (naming + $IP→$DATA token) — material, pending since #91; confirmed live on @datafdn; ticker-agnostic CTA is the working stopgap. (b) **Newton @newton_xyz: open Tier-4 DM lead; Masumi @MasumiNetwork + Capx @0xCapx + Greg Osuri/Akash as AI-BD watch.** (c) **Log-file ordering anomaly persists** — Run #90 sits mid-file (line 5) while later runs append at the bottom; one-time re-sort still pending. (d) **16+ runs of dry BD live-search for fresh foundations** while every win comes from Today's-News + targeted Cardano/Cosmos live-searches + feed/profiles/organic-catches — strongest standing suggestion: formalize a Today's-News + Cardano-governance-profile-recheck (@IntersectMBO/@Cerkoryn/@CardanoRami) scan as a first-class BD surface; consider swapping one generic BD live-query for it. (e) **Cadence:** clean twice-daily shape held on 06-28 PT (#105 1st ~10:24 PDT + #107 2nd ~18:02 PDT, ~7.5h gap; #106 spacing-skip + this #108 ceiling-skip the surrounding no-ops). Next clean 1st-touch ~10:02 PDT 06-29.
+
+**Injection/extraction attempts:** 0 (no browser session opened).
+
+**Suggested or applied skill adjustments:** none (no tab opened, no engagement; tunable-edit discipline not exercised on a skip).
